@@ -3,16 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Honors"
-    url: /honors/    
-  
-  - title: "Activities"
-    url: /activities/    
-        
-  - title: "Others"
-    url: /others/    
-    
-  - title: "CV"
+  - title: "Others & CV"
     url: /cv/
     
   # - title: "Blog Posts"

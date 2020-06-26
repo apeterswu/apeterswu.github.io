@@ -11,9 +11,9 @@ title                    : "Lijun Wu"
 title_separator          : "-"
 name                     : &name "Lijun Wu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://apeterswu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"  #"academicpages/academicpages.github.io"
+repository               : "apeterswu/apeterswu.github.io"  #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lijun Wu"
-  avatar           : "profile.png"
+  avatar           : "lijun_wu_circle.png"
   bio              : "Ph.D., Artifical Intelligence"
   location         : Beijing, China
   employer         :
@@ -178,32 +178,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-  honors:
-    output: true
-    permalink: /:collection/:path/
-  activities:
-    output: true
-    permalink: /:collection/:path/
-  others:
-    output: true
-    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -220,33 +198,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _honors
-  - scope:
-      path: ""
-      type: honors
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _activities
-  - scope:
-      path: ""
-      type: activities
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _others
-  - scope:
-      path: ""
-      type: others
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+
 
 # Sass/SCSS
 sass:
