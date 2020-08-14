@@ -21,15 +21,16 @@ Education
 
 Honors
 ======
+* Outstanding Graduate Awards of SYSU, 2020
 * Outstanding Reviewer of EMNLP, 2019
-* [1st Place of WMT 2019 machine translation competition in 5 translation directions: English->German, German->English, German->French, French->German and Russian->English](http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27)
+* [1st Place of WMT 2019 machine translation competition in 5 translation directions: English->German, German->English, German->French, French->German and Russian->English](http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27), 2019
 * [Microsoft Research Asia Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows), 2018
 * Graduate Student National Scholarship, 2018
 * Stars of Tomorrow Internship Award of Microsoft Research Asia, 2018
-* Outstanding Graduate Awards, 2015
+* Outstanding Undergraduate Awards of SYSU, 2015
 * [1st Place of Global IBM/IEEE Smarter Planet Challenge](http://www.sysu.edu.cn/2012/en/news/new05/14334.htm), 2013
 * Undergraduate Student National Scholarship, 2012, 2013
-* First Class Scholarship, 2012, 2013, 2014
+* First Class Scholarship of SYSU, 2012, 2013, 2014
 
 Experience
 ======
@@ -42,7 +43,7 @@ Experience
   
 Activities
 ======
-* Conference reviewers: NeurIPS, ACL, AAAI, EMNLP, COLING, AACL
+* Conference reviewers: ICLR, NeurIPS, ACL, AAAI, EMNLP, COLING, AACL
 * Jounal reviewers: Neurocomputing, Computer Speech and Language, IJIS, TALLIP, IEEE Access
 
 Talks
