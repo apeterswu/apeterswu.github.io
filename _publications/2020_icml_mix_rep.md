@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020_icml_mix_rep
 excerpt: ''
 date: 2020-07-12
-author: <b>Lijun Wu</b>, Shufang Xia, Yingce Xia, Yang Fan, Tao Qin, Jianhuang Lai, Tie-Yan Liu
+author: <b>Lijun Wu</b>, Shufang Xie, Yingce Xia, Yang Fan, Tao Qin, Jianhuang Lai, Tie-Yan Liu
 conference: In Thirty-seventh International Conference on Machine Learning <b>(ICML-2020)</b>
 venue: ''
 paperurl: ''
