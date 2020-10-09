@@ -1,11 +1,11 @@
 ---
 title: "Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection"
 collection: publications
-permalink: /publication/2021_nips_gfl
+permalink: /publication/2020_nips_gfl
 excerpt: ''
-date: 2020-07-12
+date: 2020-09-25
 author: Xiang Li, Wenhai Wang, <b>Lijun Wu</b>, Shuo Chen, Xiaolin Hu, Jun Li, Jinhui Tang, Jian Yang
-conference: In 34th Conference on Neural Information Processing Systems <b>(NeurIPS-2018)</b>
+conference: In 34th Conference on Neural Information Processing Systems <b>(NeurIPS-2020)</b>
 venue: ''
 paperurl: ''
 citation: '<br>
