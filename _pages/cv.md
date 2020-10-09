@@ -43,7 +43,7 @@ Experience
   
 Activities
 ======
-* Conference reviewers: ICLR, NeurIPS, ACL, AAAI, EMNLP, COLING, AACL
+* Conference reviewers: ICLR, NeurIPS, AAAI, IJCAI, ACL, EMNLP, COLING, AACL
 * Jounal reviewers: Neurocomputing, Computer Speech and Language, IJIS, TALLIP, IEEE Access
 
 Talks
