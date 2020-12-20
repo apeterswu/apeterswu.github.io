@@ -11,7 +11,7 @@ paperurl: 'https://openreview.net/pdf?id=Hyl7ygStwB'
 citation: '<br>
 @inproceedings{zhu2020incorporating,<br>
   title={Incorporating BERT into Neural Machine Translation},<br>
-  author={Zhu, Jinhua and Xia, Yingce and Wu, Lijun and He, Di and Qin, Tao and Zhou, Wengang and Li, Houqiang and Liu, Tieyan},<br>
+  author={Zhu, Jinhua and Xia, Yingce and Wu, Lijun and He, Di and Qin, Tao and Zhou, Wengang and Li, Houqiang and Liu, Tie-Yan},<br>
   booktitle={International Conference on Learning Representations},<br>
   year={2020}<br>
 }'
