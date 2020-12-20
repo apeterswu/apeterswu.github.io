@@ -19,7 +19,7 @@
 
 
 
-<title>Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection - Lijun Wu</title>
+<title>Learning to Reweight with Deep Interactions - Lijun Wu</title>
 
 
 
@@ -29,11 +29,11 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Lijun Wu">
-<meta property="og:title" content="Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection">
+<meta property="og:title" content="Learning to Reweight with Deep Interactions">
 
 
-  <link rel="canonical" href="https://apeterswu.github.io/publication/2020_nips_gfl">
-  <meta property="og:url" content="https://apeterswu.github.io/publication/2020_nips_gfl">
+  <link rel="canonical" href="https://apeterswu.github.io/publication/2021_aaai_l2t_weight">
+  <meta property="og:url" content="https://apeterswu.github.io/publication/2021_aaai_l2t_weight">
 
 
 
@@ -52,7 +52,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2020-09-25T00:00:00-07:00">
+  <meta property="article:published_time" content="2021-02-02T00:00:00-08:00">
 
 
 
@@ -245,26 +245,26 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection">
+    <meta itemprop="headline" content="Learning to Reweight with Deep Interactions">
     <meta itemprop="description" content="">
-    <meta itemprop="datePublished" content="September 25, 2020">
+    <meta itemprop="datePublished" content="February 02, 2021">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection
+          <h1 class="page__title" itemprop="headline">Learning to Reweight with Deep Interactions
 </h1>
           
         
         
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2020-09-25T00:00:00-07:00">September 25, 2020</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2021-02-02T00:00:00-08:00">February 02, 2021</time></p>
         
         
         
         
-          <p>Please cite:<i><br> @inproceedings{li2020generalized,<br> title={Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection},<br> author={Li, Xiang and Wang, Wenhai and Wu, Lijun and Chen, Shuo and Hu, Xiaolin and Li, Jun and Tang, Jinhui and Yang, Jian},<br> booktitle={Advances in Neural Information Processing Systems},<br> year={2020}<br> }</i></p>
+          <p>Please cite:<i><br> @inproceedings{Fan2021learn,<br> title={TLearning to Reweight with Deep Interactions},<br> author={Fan, Yang and Xia, Yingce and Wu, Lijun and Xie, Shufang and Liu, Weiqing and Bian, Jiang and Qin, Tao},<br> booktitle={AAAI},<br> year={2021}<br> }</i></p>
         
     
         </header>
@@ -272,9 +272,9 @@
 
       <section class="page__content" itemprop="text">
         <h2><strong>Abstract</strong></h2>
-<p>One-stage detector basically formulates object detection as dense classification and localization (i.e., bounding box regression). The classification is usually optimized by Focal Loss and the box location is commonly learned under Dirac delta distribution. A recent trend for one-stage detectors is to introduce an individual prediction branch to estimate the quality of localization, where the predicted quality facilitates the classification to improve detection performance. This paper delves into the representations of the above three fundamental elements: quality estimation, classification and localization. Two problems are discovered in existing practices, including (1) the inconsistent usage of the quality estimation and classification between training and inference (i.e., separately trained but compositely used in test) and (2) the inflexible Dirac delta distribution for localization when there is ambiguity and uncertainty which is often the case in complex scenes. To address the problems, we design new representations for these elements. Specifically, we merge the quality estimation into the class prediction vector to form a joint representation of localization quality and classification, and use a vector to represent arbitrary distribution of box locations. The improved representations eliminate the inconsistency risk and accurately depict the flexible distribution in real data, but contain continuous labels, which is beyond the scope of Focal Loss. We then propose Generalized Focal Loss (GFL) that generalizes Focal Loss from its discrete form to the continuous version for successful optimization. On COCO test-dev, GFL achieves 45.0% AP using ResNet-101 backbone, surpassing state-of-the-art SAPD (43.5%) and ATSS (43.6%) with higher or comparable inference speed, under the same backbone and training settings. Notably, our best model can achieve a single-model single-scale AP of 48.2%, at 10 FPS on a single 2080Ti GPU. Code and pretrained models are available at https://github.com/implus/GFocal.</p>
+<p>Machine teaching uses a meta/teacher model to guide the training of a student model (which will be used in real tasks) through training data selection, loss function design, etc. Previously, the teacher model only takes shallow/surface information as inputs (e.g., training iteration number, loss and accuracy from training/validation sets) while ignoring the internal states of the student model, which limits the potential of learning to teach. In this work, we propose an improved data teaching algorithm, where the teacher model deeply interacts with the student model by accessing its internal states. The teacher model is jointly trained with the student model using meta gradients propagated from a validation set. We conduct experiments on image classification with clean/noisy labels and empirically demonstrate that our algorithm makes significant improvement over previous data teaching methods.</p>
 
-<p>[<a href="https://arxiv.org/pdf/2006.04388.pdf">PDF</a>]  [<a href="https://github.com/implus/GFocal">CODE</a>]</p>
+<p>[<a href="https://arxiv.org/pdf/2007.04649.pdf">PDF</a>]</p>
 
         
       </section>
@@ -295,11 +295,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=https://apeterswu.github.io/publication/2020_nips_gfl" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=https://apeterswu.github.io/publication/2021_aaai_l2t_weight" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://apeterswu.github.io/publication/2020_nips_gfl" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://apeterswu.github.io/publication/2021_aaai_l2t_weight" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://apeterswu.github.io/publication/2020_nips_gfl" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://apeterswu.github.io/publication/2021_aaai_l2t_weight" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -307,12 +307,11 @@
 
   <nav class="pagination">
     
-      <a href="https://apeterswu.github.io/publication/2020_icml_mix_rep" class="pagination--pager" title="Sequence Generation with Mixed Representations
+      <a href="https://apeterswu.github.io/publication/2020_nips_gfl" class="pagination--pager" title="Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection
 ">Previous</a>
     
     
-      <a href="https://apeterswu.github.io/publication/2021_aaai_l2t_weight" class="pagination--pager" title="Learning to Reweight with Deep Interactions
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
