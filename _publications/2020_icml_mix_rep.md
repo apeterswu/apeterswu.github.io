@@ -11,7 +11,7 @@ paperurl: ''
 citation: '<br>
 @inproceedings{wu2020seqgenmix,<br>
   title={Sequence Generation with Mixed Representations},<br>
-  author={Wu, Lijun and Xie, Shufang and Xia, Yingce and Fan, Yang ad=nd Qin, Tao and Zhou, Wengang and Li, Houqiang and Liu, Tieyan},<br>
+  author={Wu, Lijun and Xie, Shufang and Xia, Yingce and Fan, Yang ad=nd Qin, Tao and Zhou, Wengang and Li, Houqiang and Liu, Tie-Yan},<br>
   booktitle={International Conference on Machine Learning},<br>
   year={2020}<br>
 }'
