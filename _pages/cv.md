@@ -43,7 +43,8 @@ Experience
   
 Activities
 ======
-* Conference reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, COLING, AACL
+* SPC/AC: IJCAI-21, ACL-21
+* Conference reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, NAACL, COLING, EACL, AACL
 * Journal reviewers: TPAMI, Neurocomputing, Computer Speech and Language, IJIS, TALLIP, IEEE Access
 
 Talks

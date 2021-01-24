@@ -19,7 +19,7 @@
 
 
 
-<title>Learning to Reweight with Deep Interactions - Lijun Wu</title>
+<title>IOT: Instance-wise Layer Reordering for Transformer Structures  - Lijun Wu</title>
 
 
 
@@ -29,11 +29,11 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Lijun Wu">
-<meta property="og:title" content="Learning to Reweight with Deep Interactions">
+<meta property="og:title" content="IOT: Instance-wise Layer Reordering for Transformer Structures">
 
 
-  <link rel="canonical" href="https://apeterswu.github.io/publication/2021_aaai_l2t_weight">
-  <meta property="og:url" content="https://apeterswu.github.io/publication/2021_aaai_l2t_weight">
+  <link rel="canonical" href="https://apeterswu.github.io/publication/2021_iclr_iot">
+  <meta property="og:url" content="https://apeterswu.github.io/publication/2021_iclr_iot">
 
 
 
@@ -52,7 +52,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2021-02-02T00:00:00-08:00">
+  <meta property="article:published_time" content="2021-05-04T00:00:00-07:00">
 
 
 
@@ -245,26 +245,26 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Learning to Reweight with Deep Interactions">
+    <meta itemprop="headline" content="IOT: Instance-wise Layer Reordering for Transformer Structures">
     <meta itemprop="description" content="">
-    <meta itemprop="datePublished" content="February 02, 2021">
+    <meta itemprop="datePublished" content="May 04, 2021">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Learning to Reweight with Deep Interactions
+          <h1 class="page__title" itemprop="headline">IOT: Instance-wise Layer Reordering for Transformer Structures
 </h1>
           
         
         
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2021-02-02T00:00:00-08:00">February 02, 2021</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2021-05-04T00:00:00-07:00">May 04, 2021</time></p>
         
         
         
         
-          <p>Please cite:<i><br> @inproceedings{Fan2021learn,<br> title={TLearning to Reweight with Deep Interactions},<br> author={Fan, Yang and Xia, Yingce and Wu, Lijun and Xie, Shufang and Liu, Weiqing and Bian, Jiang and Qin, Tao},<br> booktitle={AAAI},<br> year={2021}<br> }</i></p>
+          <p>Please cite:<i><br> @inproceedings{zhu2021iot,<br> title={IOT: Instance-wise Layer Reordering for Transformer Structures},<br> author={Jinhua Zhu and Lijun Wu and Yingce Xia and Shufang Xie and Tao Qin and Wengang Zhou and Houqiang Li and Tie-Yan Liu},<br> booktitle={International Conference on Learning Representations},<br> year={2021},<br> }</i></p>
         
     
         </header>
@@ -272,9 +272,22 @@
 
       <section class="page__content" itemprop="text">
         <h2><strong>Abstract</strong></h2>
-<p>Machine teaching uses a meta/teacher model to guide the training of a student model (which will be used in real tasks) through training data selection, loss function design, etc. Previously, the teacher model only takes shallow/surface information as inputs (e.g., training iteration number, loss and accuracy from training/validation sets) while ignoring the internal states of the student model, which limits the potential of learning to teach. In this work, we propose an improved data teaching algorithm, where the teacher model deeply interacts with the student model by accessing its internal states. The teacher model is jointly trained with the student model using meta gradients propagated from a validation set. We conduct experiments on image classification with clean/noisy labels and empirically demonstrate that our algorithm makes significant improvement over previous data teaching methods.</p>
+<p>With sequentially stacked self-attention, (optional) encoder-decoder attention, and
+feed-forward layers, Transformer achieves big success in natural language processing (NLP), and many variants have been proposed. Currently, almost all these
+models assume that the layer order is fixed and kept the same across data samples.
+We observe that different data samples actually favor different orders of the layers.
+Based on this observation, in this work, we break the assumption of the fixed layer
+order in Transformer and introduce instance-wise layer reordering into model structure. Our Instance-wise Ordered Transformer (IOT) can model variant functions by
+reordered layers, which enables each sample to select the better one to improve the
+model performance under the constraint of almost same number of parameters. To
+achieve this, we introduce a light predictor with negligible parameter and inference
+cost to decide the most capable and favorable layer order for any input sequence.
+Experiments on 3 tasks (neural machine translation, abstractive summarization,
+and code generation) and 9 datasets demonstrate consistent improvements of our
+method. We further show that our method can also be applied to other architectures
+beyond Transformer. Our code is released at Github.</p>
 
-<p>[<a href="https://arxiv.org/pdf/2007.04649.pdf">PDF</a>]</p>
+<p>[<a href="https://openreview.net/pdf?id=ipUPfYxWZvM">PDF</a>]  [<a href="https://github.com/instance-wise-ordered-transformer/IOT">CODE</a>]</p>
 
         
       </section>
@@ -295,11 +308,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=https://apeterswu.github.io/publication/2021_aaai_l2t_weight" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=https://apeterswu.github.io/publication/2021_iclr_iot" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://apeterswu.github.io/publication/2021_aaai_l2t_weight" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://apeterswu.github.io/publication/2021_iclr_iot" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://apeterswu.github.io/publication/2021_aaai_l2t_weight" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://apeterswu.github.io/publication/2021_iclr_iot" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -307,12 +320,11 @@
 
   <nav class="pagination">
     
-      <a href="https://apeterswu.github.io/publication/2020_nips_gfl" class="pagination--pager" title="Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection
+      <a href="https://apeterswu.github.io/publication/2021_aaai_l2t_weight" class="pagination--pager" title="Learning to Reweight with Deep Interactions
 ">Previous</a>
     
     
-      <a href="https://apeterswu.github.io/publication/2021_iclr_iot" class="pagination--pager" title="IOT: Instance-wise Layer Reordering for Transformer Structures
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
