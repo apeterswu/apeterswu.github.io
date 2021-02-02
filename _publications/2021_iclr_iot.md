@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021_iclr_iot
 excerpt: ''
 date: 2021-05-04
-author: Jinhua Zhu, <b>Lijun Wu</b>*, Yingce Xia, Shufang Xie, Tao Qin, Wengang Zhou, Houqiang Li, Tie-Yan Liu
+author: Jinhua Zhu*, <b>Lijun Wu</b>*, Yingce Xia, Shufang Xie, Tao Qin, Wengang Zhou, Houqiang Li, Tie-Yan Liu
 conference: In Ninth International Conference on Learning Representations <b>(ICLR-2021)</b> (*=equal contribution)
 venue: ''
 paperurl: 'https://openreview.net/pdf?id=ipUPfYxWZvM'
