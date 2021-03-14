@@ -22,6 +22,13 @@ Feel free and welcome to contact for intern positions and possible collobaration
 
 <strong>Keep Learning!</strong>
 
+News
+------
+03/11/2021  Our paper "[UniDrop](/publication/2021_naacl_unidrop)" is accepted by NAACL-2021. <br>
+01/14/2021  Our paper "[IOT](/publication/2021_iclr_iot)" is accepted by ICLR-2021. <br>
+
+------
+
 <div style="width: 250px; margin: auto;">
 		<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=DqbbzWwcRTMYjO1e01t5kB_HHvBm_7eWoxdlOK1UCuo"></script>
 </div>
