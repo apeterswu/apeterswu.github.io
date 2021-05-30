@@ -24,6 +24,7 @@ Feel free and welcome to contact for intern positions and possible collobaration
 
 News
 ------
+05/09/2021  [One paper](/publication/2021_icml_temp_cor) about seqeunce learning is accepted by ICML-2021. <br>
 03/11/2021  Our paper "[UniDrop](/publication/2021_naacl_unidrop)" is accepted by NAACL-2021. <br>
 01/14/2021  Our paper "[IOT](/publication/2021_iclr_iot)" is accepted by ICLR-2021. <br>
 
