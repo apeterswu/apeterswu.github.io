@@ -1,24 +1,23 @@
 ---
-title: "Sequence Generation with Mixed Representations"
+title: "Temporally Correlated Task Scheduling for Sequence Learning"
 collection: publications
-permalink: /publication/2020_icml_mix_rep
+permalink: /publication/2021_icml_temp_cor
 excerpt: ''
-date: 2020-07-12
-author: <b>Lijun Wu</b>, Shufang Xie, Yingce Xia, Yang Fan, Tao Qin, Jianhuang Lai, Tie-Yan Liu
-conference: In Thirty-seventh International Conference on Machine Learning <b>(ICML-2020)</b>
+date: 2021-05-08
+author: Xueqing Wu, Lewen Wang, Yingce Xia, Weiqing Liu, <b>Lijun Wu</b>, Shufang Xie, Tao Qin, and Tie-Yan Liu
+conference: In Thirty-eighth International Conference on Machine Learning <b>(ICML-2021)</b>
 venue: ''
 paperurl: ''
 citation: '<br>
-@inproceedings{wu2020seqgenmix,<br>
-  title={Sequence Generation with Mixed Representations},<br>
-  author={Wu, Lijun and Xie, Shufang and Xia, Yingce and Fan, Yang ad=nd Qin, Tao and Zhou, Wengang and Li, Houqiang and Liu, Tie-Yan},<br>
+@inproceedings{wu2021temp,<br>
+  title={Temporally Correlated Task Scheduling for Sequence Learning},<br>
+  author={Xueqing Wu, Lewen Wang, Yingce Xia, Weiqing Liu, Lijun Wu, Shufang Xie, Tao Qin, and Tie-Yan Liu},<br>
   booktitle={International Conference on Machine Learning},<br>
-  year={2020}<br>
+  year={2021}<br>
 }'
 
 ---
 <h2><strong>Abstract</strong></h2>
-Tokenization is the first step of many natural language processing (NLP) tasks and plays an important role for neural NLP models. Tokenization methods such as byte-pair encoding and SentencePiece, which can greatly reduce the large vocabulary size and deal with out-of-vocabulary words, have shown to be effective and are widely adopted for sequence generation tasks. While various tokenization methods exist, there is no common acknowledgement which one is the best. In this work, we propose to leverage the mixed representations from different tokenizers for sequence generation tasks, which can take the advantages of each individual tokenization method.
-Specifically, we introduce a new model architecture to incorporate mixed representations and a co-teaching algorithm to better utilize the diversity of different tokenization methods. Our approach achieves significant improvements on neural machine translation tasks with six language pairs, as well as an abstractive summarization task.
+Sequence learning has attracted much research attention from the machine learning community in recent years. In many applications, a sequence learning task is usually associated with multiple temporally correlated auxiliary tasks, which are different in terms of how much input information to use or which future step to predict. For example, (i) in simultaneous machine translation, one can conduct translation under different latency (i.e., how many input words to read/wait before translation); (ii) in stock trend forecasting, one can predict the price of a stock in different future days (e.g., tomorrow, the day after tomorrow). While it is clear that those temporally correlated tasks can help each other, there is a very limited exploration on how to better leverage multiple auxiliary tasks to boost the performance of the main task. In this work, we introduce a learnable scheduler to sequence learning, which can adaptively select auxiliary tasks for training depending on the model status and the current training data. The scheduler and the model for the main task are jointly trained through bi-level optimization. Experiments show that our method significantly improves the performance of simultaneous machine translation and stock trend forecasting. We will release our code at Github after the anonymous period.
 
-\[[PDF](https://proceedings.icml.cc/static/paper_files/icml/2020/3729-Paper.pdf)\]  \[[CODE](https://github.com/apeterswu/fairseq_mix)\]
+\[[PDF]()\] 
