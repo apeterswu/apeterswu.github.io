@@ -24,7 +24,7 @@ Feel free and welcome to contact for intern positions and possible collobaration
 
 News
 ------
-09/18/2021  One paper about Multimodal Sentiment Analysis is accepted by Neurocomputing (we will release soon). <br>
+09/18/2021  One paper about [Multimodal Sentiment Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0925231221013990) is accepted by Neurocomputing. <br>
 08/27/2021  One paper about Multimodal EHR data for medical prediction is accepted by EMNLP-2021 (we will release soon). <br>
 06/30/2021  Our paper [R-Drop](https://arxiv.org/pdf/2106.14448.pdf) is relased with [code](https://github.com/dropreg/R-Drop). <br>
 05/09/2021  [One paper](/publication/2021_icml_temp_cor) about seqeunce learning is accepted by ICML-2021. <br>
