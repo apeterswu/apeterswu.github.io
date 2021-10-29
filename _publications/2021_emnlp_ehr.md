@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2021_emnlp_ehr
 excerpt: ''
 date: 2021-11-07
-author: Bo Yang, <b>Lijun Wu</b>
-conference: In 2021 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP-2021)</b> 
+author: Bo Yang, <b>Lijun Wu*</b>
+conference: In 2021 Conference on Empirical Methods in Natural Language Processing <b>(EMNLP-2021)</b> (*=corresponding)
 venue: ''
 paperurl: ''
 citation: '<br>
