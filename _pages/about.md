@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://apeterswu.github.io/images/msra.png" alt="msra"  width="200">
+<img src="https://apeterswu.github.io/images/mslogo.png" alt="msra"  width="200">
 
 About me
 ------
