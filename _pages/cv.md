@@ -43,9 +43,9 @@ Experience
   
 Activities
 ======
-* SPC/AC: IJCAI-21, ACL-21
+* SPC/AC: IJCAI-21, ACL-21, AAAI-22, ARR-2021 (ACL Rolling Review)
 * Conference reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, NAACL, COLING, EACL, AACL
-* Journal reviewers: TPAMI, Neurocomputing, Computer Speech and Language, IJIS, TALLIP, IEEE Access
+* Journal reviewers: TPAMI, Neurocomputing, Computer Speech and Language, IJIS, TALLIP
 
 Talks
 ======

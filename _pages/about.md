@@ -20,6 +20,8 @@ You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/resea
 
 Feel free and welcome to contact for intern positions and possible collobaration!
 
+<strong>Currently, we are working on biology-embedding, drug discovery research, welcome to join us if you are interested!</strong>
+
 <strong>Keep Learning!</strong>
 
 News
