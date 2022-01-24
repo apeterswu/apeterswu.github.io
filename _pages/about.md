@@ -14,23 +14,24 @@ About me
 ------
 Lijun Wu is currently a researcher of [Machine Learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) in [Microsoft Research Asia (MSRA)](https://www.msra.cn/). He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) in 2020, was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Prof. Jianhuang Lai](http://sdcs.sysu.edu.cn/content/2498). He received [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) in 2018. Prior to that, he obtained the Bachelor degree in the same department in 2015. 
 
-His researches focus on Deep Learning, Natural Language Processing, Multimodality Learning, Medical Health. Works during the Ph.D. journey are mostly on sequence learning tasks such as neural machine translation. He is also interested in meta learning, reinforcement learning.
+His researches focus on Deep Learning, NLP, Multimodality Learning, Medical Health, Bio-NLP, Bio-Embedding, Drug Discovery. Works during the Ph.D. journey are mostly on sequence learning tasks such as neural machine translation. He is also interested in meta learning, reinforcement learning.
 
 You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/research/people/lijuwu/).
 
 Feel free and welcome to contact for intern positions and possible collobaration!
 
-<strong>Currently, we are working on biology-embedding, drug discovery research, welcome to join us if you are interested!</strong>
+<!-- <strong>Currently, we are working on biology-embedding, drug discovery research, welcome to join us if you are interested!</strong> -->
 
-<strong>Keep Learning!</strong>
+<strong>Keep Learning & Positive!</strong>
 
 News
 ------
-09/30/2021  [One paper]() about Video Question Answering is accepted by NeurIPS-2021. <br>
+01/24/2022  [One paper]() about sequence generation is accepted by ICLR-2022. <br>
+09/30/2021  [One paper](https://www.microsoft.com/en-us/research/people/lijuwu/my-publications/) about Video Question Answering is accepted by NeurIPS-2021. <br>
 09/30/2021  Our paper [R-Drop](https://arxiv.org/pdf/2106.14448.pdf) is accepted by NeurIPS-2021. <br>
 09/18/2021  [One paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221013990) about [Multimodal Sentiment Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0925231221013990) is accepted by Neurocomputing. <br>
 08/27/2021  One paper about Multimodal EHR data for medical prediction is accepted by EMNLP-2021 (we will release soon). <br>
-06/30/2021  Our paper [R-Drop](https://arxiv.org/pdf/2106.14448.pdf) is relased with [code](https://github.com/dropreg/R-Drop). <br>
+<!-- 06/30/2021  Our paper [R-Drop](https://arxiv.org/pdf/2106.14448.pdf) is relased with [code](https://github.com/dropreg/R-Drop). <br> -->
 <!-- 05/09/2021  [One paper](/publication/2021_icml_temp_cor) about seqeunce learning is accepted by ICML-2021. <br> -->
 <!-- 03/11/2021  Our paper "[UniDrop](/publication/2021_naacl_unidrop)" is accepted by NAACL-2021. <br> -->
 <!-- 01/14/2021  Our paper "[IOT](/publication/2021_iclr_iot)" is accepted by ICLR-2021. <br> -->
