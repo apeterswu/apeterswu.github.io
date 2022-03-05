@@ -19,7 +19,7 @@
 
 
 
-<title>How to Leverage Multimodal EHR Data for Better Medical Predictions? - Lijun Wu</title>
+<title>Target-Side Data Augmentation for Sequence Generation  - Lijun Wu</title>
 
 
 
@@ -29,11 +29,11 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Lijun Wu">
-<meta property="og:title" content="How to Leverage Multimodal EHR Data for Better Medical Predictions?">
+<meta property="og:title" content="Target-Side Data Augmentation for Sequence Generation">
 
 
-  <link rel="canonical" href="https://apeterswu.github.io/publication/2021_emnlp_ehr">
-  <meta property="og:url" content="https://apeterswu.github.io/publication/2021_emnlp_ehr">
+  <link rel="canonical" href="https://apeterswu.github.io/publication/2022_target_side_nmt">
+  <meta property="og:url" content="https://apeterswu.github.io/publication/2022_target_side_nmt">
 
 
 
@@ -52,7 +52,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2021-11-07T00:00:00-07:00">
+  <meta property="article:published_time" content="2022-01-21T00:00:00-08:00">
 
 
 
@@ -245,26 +245,26 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="How to Leverage Multimodal EHR Data for Better Medical Predictions?">
+    <meta itemprop="headline" content="Target-Side Data Augmentation for Sequence Generation">
     <meta itemprop="description" content="">
-    <meta itemprop="datePublished" content="November 07, 2021">
+    <meta itemprop="datePublished" content="January 21, 2022">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">How to Leverage Multimodal EHR Data for Better Medical Predictions?
+          <h1 class="page__title" itemprop="headline">Target-Side Data Augmentation for Sequence Generation
 </h1>
           
         
         
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2021-11-07T00:00:00-07:00">November 07, 2021</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-01-21T00:00:00-08:00">January 21, 2022</time></p>
         
         
         
         
-          <p>Please cite:<i><br> @inproceedings{bo2021how,<br> title={How to Leverage Multimodal EHR Data for Better Medical Predictions?},<br> author={Yang, Bo and Wu, Lijun},<br> booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},<br> year={2021} <br> }</i></p>
+          <p>Please cite:<i><br> @inproceedings{xie2022targetside, title={Target-Side Data Augmentation for Sequence Generation},<br> author={Shufang Xie and Ang Lv and Yingce Xia and Lijun Wu and Tao Qin and Rui Yan and Tie-Yan Liu},<br> booktitle={International Conference on Learning Representations},<br> year={2022},<br> }</i></p>
         
     
         </header>
@@ -272,9 +272,9 @@
 
       <section class="page__content" itemprop="text">
         <h2><strong>Abstract</strong></h2>
-<p>Healthcare is becoming a more and more important research topic recently. With the growing data in the healthcare domain,  it offers agreat opportunity for deep learning to improvethe quality of medical service.  However, the complexity of electronic health records (EHR) data is a challenge for the application of deeplearning. Specifically, the data produced in the hospital admissions are monitored by the EHR system, which includes structured data likedaily body temperature, and unstructured datalike free text and laboratory measurements. Although there are some preprocessing frameworks proposed for specific EHR data, the clinical notes that contain significant clinical valueare beyond the realm of their consideration. Besides, whether these different data from various views are all  beneficial to the medical tasks and how to best utilize these data remain unclear. Therefore, in this paper, we first extract the accompanying clinical notes from EHR and propose a method to integrate thesedata, we also comprehensively study the  different models and the data leverage methods for better medical task prediction.  The resultson two medical prediction tasks show that ourfused model with different  data outperformsthe state-of-the-art method that without clinical notes, which illustrates the importance of our fusion method and the value of clinical note features. Our code is available at https://github.com/emnlp-mimic/mimic.</p>
+<p>Autoregressive sequence generation, a prevalent task in machine learning and natural language processing, generates every target token conditioned on both a source input and previously generated target tokens. Previous data augmentation methods, which have been shown to be effective for the task, mainly enhance source inputs (e.g., injecting noise into the source sequence by random swapping or masking, back translation, etc.) while overlooking the target-side augmentation. In this work, we propose a target-side augmentation method for sequence generation. In training, we use the decoder output probability distributions as soft indicators, which are multiplied with target token embeddings, to build pseudo tokens. These soft pseudo tokens are then used as target tokens to enhance the training. We conduct comprehensive experiments on various sequence generation tasks, including dialog generation, machine translation, and abstractive summarization. Without using any extra labeled data or introducing additional model parameters, our method significantly outperforms strong baselines. The code is available at https://github.com/TARGET-SIDE-DATA-AUG/TSDASG.</p>
 
-<p>[<a href="">PDF</a>]</p>
+<p>[<a href="https://openreview.net/forum?id=pz1euXohm4H">PDF</a>]  [<a href="https://github.com/TARGET-SIDE-DATA-AUG/TSDASG">CODE</a>]</p>
 
         
       </section>
@@ -295,11 +295,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=https://apeterswu.github.io/publication/2021_emnlp_ehr" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=https://apeterswu.github.io/publication/2022_target_side_nmt" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://apeterswu.github.io/publication/2021_emnlp_ehr" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://apeterswu.github.io/publication/2022_target_side_nmt" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://apeterswu.github.io/publication/2021_emnlp_ehr" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://apeterswu.github.io/publication/2022_target_side_nmt" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -307,11 +307,11 @@
 
   <nav class="pagination">
     
-      <a href="https://apeterswu.github.io/publication/2021_nips_vqa" class="pagination--pager" title="Learning from Inside: Self-driven Siamese Sampling and Reasoning for Video Question Answering
+      <a href="https://apeterswu.github.io/publication/2021_emnlp_ehr" class="pagination--pager" title="How to Leverage Multimodal EHR Data for Better Medical Predictions?
 ">Previous</a>
     
     
-      <a href="https://apeterswu.github.io/publication/2022_target_side_nmt" class="pagination--pager" title="Target-Side Data Augmentation for Sequence Generation
+      <a href="https://apeterswu.github.io/publication/2022_multi_teacher" class="pagination--pager" title="Multi-Teacher Distillation with Single Model for Neural Machine Translation
 ">Next</a>
     
   </nav>
