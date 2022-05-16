@@ -19,7 +19,7 @@
 
 
 
-<title>Multi-Teacher Distillation with Single Model for Neural Machine Translation - Lijun Wu</title>
+<title>Masked Contrastive Representation Learning for Reinforcement Learning - Lijun Wu</title>
 
 
 
@@ -29,11 +29,11 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Lijun Wu">
-<meta property="og:title" content="Multi-Teacher Distillation with Single Model for Neural Machine Translation">
+<meta property="og:title" content="Masked Contrastive Representation Learning for Reinforcement Learning">
 
 
-  <link rel="canonical" href="https://apeterswu.github.io/publication/2022_multi_teacher">
-  <meta property="og:url" content="https://apeterswu.github.io/publication/2022_multi_teacher">
+  <link rel="canonical" href="https://apeterswu.github.io/publication/2022_tpami_maskRL">
+  <meta property="og:url" content="https://apeterswu.github.io/publication/2022_tpami_maskRL">
 
 
 
@@ -52,7 +52,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2022-02-01T00:00:00-08:00">
+  <meta property="article:published_time" content="2022-05-09T00:00:00-07:00">
 
 
 
@@ -245,26 +245,26 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Multi-Teacher Distillation with Single Model for Neural Machine Translation">
+    <meta itemprop="headline" content="Masked Contrastive Representation Learning for Reinforcement Learning">
     <meta itemprop="description" content="">
-    <meta itemprop="datePublished" content="February 01, 2022">
+    <meta itemprop="datePublished" content="May 09, 2022">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Multi-Teacher Distillation with Single Model for Neural Machine Translation
+          <h1 class="page__title" itemprop="headline">Masked Contrastive Representation Learning for Reinforcement Learning
 </h1>
           
         
         
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-02-01T00:00:00-08:00">February 01, 2022</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-05-09T00:00:00-07:00">May 09, 2022</time></p>
         
         
         
         
-          <p>Please cite:<i><br> @article{liang2022multi, title={Multi-Teacher Distillation with Single Model for Neural Machine Translation},<br> author={Liang, Xiaobo and Wu, Lijun and Li, Juntao and Qin, Tao and Zhang, Min and Liu, Tie-Yan},<br> journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},<br> year={2022},<br> publisher={IEEE},<br> }</i></p>
+          <p>Please cite:<i><br> @article{zhu2022masked, title={Masked Contrastive Representation Learning for Reinforcement Learning},<br> author={Zhu, Jinhua and Xia, Yingce and Wu, Lijun and Deng, Jiajun and Zhou, Wengang and Qin, Tao and Liu, Tie-Yan},<br> journal={IEEE Transactions on Pattern Analysis and Machine Intelligence },<br> year={2022},<br> publisher={IEEE},<br> }</i></p>
         
     
         </header>
@@ -272,9 +272,9 @@
 
       <section class="page__content" itemprop="text">
         <h2><strong>Abstract</strong></h2>
-<p>Knowledge distillation (KD) is an effective strategy for neural machine translation (NMT) to improve the performance of a student model. Usually, the teacher can guide the student to be better by distilling the soft label or data knowledge from the teacher itself. However, the data diversity and teacher knowledge are limited with only one teacher model. Though a natural solution is to adopt multiple randomized teacher models, one big shortcoming is that the model parameters and training costs are largely increased with the number of teacher models. In this work, we explore to mimic multiple teacher distillation from the sub-network space and permuted variants of one single teacher model. Specifically, we train a teacher by multiple sub-network extraction paradigms: sub-layer reordering, layer-drop, and dropout variants. In doing so, one teacher model can provide multiple outputs variants and causes neither additional parameters nor much extra training cost. Experiments on 8 IWSLT datasets: (IWSLT14 En ↔ De, En ↔ Es, and IWSLT17 En ↔ Fr, En ↔ Zh) and the large WMT14 EN → DE translation tasks show that our method even achieves nearly comparable performance with multiple teacher models with different randomized parameters, both word-level, and sequence-level knowledge distillation. Our code is available at GitHub\footnote{https://github.com/dropreg/RLD}.</p>
+<p>In pixel-based reinforcement learning (RL), the states are raw video frames, which are mapped into hidden representation before feeding to a policy network. To improve sample efficiency of state representation learning, recently, the most prominent work is based on contrastive unsupervised representation. Witnessing that consecutive video frames in a game are highly correlated, to further improve data efficiency, we propose a new algorithm, i.e., masked contrastive representation learning for RL (M-CURL), which takes the correlation among consecutive inputs into consideration. In our architecture, besides a CNN encoder for hidden presentation of input state and a policy network for action selection, we introduce an auxiliary Transformer encoder module to leverage the correlations among video frames. During training, we randomly mask the features of several frames, and use the CNN encoder and Transformer to reconstruct them based on context frames. The CNN encoder and Transformer are jointly trained via contrastive learning where the reconstructed features should be similar to the ground-truth ones while dissimilar to others. During policy evaluation, the CNN encoder and the policy network are used to take actions, and the Transformer module is discarded. Our method achieves consistent improvements over CURL on 14 out of 16 environments from DMControl suite and 23 out of 26 environments from Atari 2600 Games. The code is available at https://github.com/teslacool/m-curl.</p>
 
-<p>[<a href="https://ieeexplore.ieee.org/abstract/document/9722996">PDF</a>]    [<a href="https://github.com/dropreg/RLD">CODE</a>]</p>
+<p>[<a href="">PDF</a>]    [<a href="https://github.com/teslacool/m-curl">CODE</a>]</p>
 
         
       </section>
@@ -295,11 +295,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=https://apeterswu.github.io/publication/2022_multi_teacher" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=https://apeterswu.github.io/publication/2022_tpami_maskRL" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://apeterswu.github.io/publication/2022_multi_teacher" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://apeterswu.github.io/publication/2022_tpami_maskRL" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://apeterswu.github.io/publication/2022_multi_teacher" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://apeterswu.github.io/publication/2022_tpami_maskRL" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -307,12 +307,11 @@
 
   <nav class="pagination">
     
-      <a href="https://apeterswu.github.io/publication/2022_target_side_nmt" class="pagination--pager" title="Target-Side Data Augmentation for Sequence Generation
+      <a href="https://apeterswu.github.io/publication/2022_taslp_msa" class="pagination--pager" title="Multimodal Sentiment Analysis with Two-Phase Multi-Task Learning
 ">Previous</a>
     
     
-      <a href="https://apeterswu.github.io/publication/2022_taslp_msa" class="pagination--pager" title="Multimodal Sentiment Analysis with Two-Phase Multi-Task Learning
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
