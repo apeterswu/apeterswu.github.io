@@ -26,13 +26,16 @@ Feel free and welcome to contact for intern positions and possible collobaration
 
 News
 ------
+10/15/2022  [One paper](https://arxiv.org/pdf/2202.01356.pdf) about molecule conformation generation is accepted by TMLR. <br>
+10/07/2022  [One paper]() about NAT&AT and [one paper]() about temporal sequence generation are accepted by EMNLP-2022. <br>
+09/01/2022  [One paper](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac401/6711410?guestAccessKey=73c90cc4-a12f-4ef4-b241-3a6afc51b80b) about protein pre-training is accepted by Briefings in Binformactics. <br>
 06/18/2022  [One paper](https://arxiv.org/abs/2207.08806) about Unified 2D and 3D molecule pretraining is accepted by KDD-2022. <br>
 06/18/2022  [One paper](https://arxiv.org/abs/2206.11477) about Retrosythetic is accepted by KDD-2022. <br>
 05/20/2022  We summarize a comprehensive survey on Non-Autoregressive Generation, check [here](https://arxiv.org/pdf/2204.09269.pdf)! <br>
 05/09/2022  Our [Masked Contrastive Representation Learning for RL](https://ieeexplore.ieee.org/document/9779589) is accepted by IEEE TPAMI-2022. <br>
-05/05/2022  [One paper](https://ieeexplore.ieee.org/document/9783103) about Multimodal Sentiment Analysis is accepted by IEEE TASLP-2022. <br>
+<!-- 05/05/2022  [One paper](https://ieeexplore.ieee.org/document/9783103) about Multimodal Sentiment Analysis is accepted by IEEE TASLP-2022. <br>
 02/01/2022  Our [Multi-teacher distillation with one single model](https://ieeexplore.ieee.org/abstract/document/9722996/) about NMT is accepted by IEEE TASLP-2022. <br>
-01/24/2022  [One paper](https://openreview.net/forum?id=pz1euXohm4H) about sequence generation is accepted by ICLR-2022. <br>
+01/24/2022  [One paper](https://openreview.net/forum?id=pz1euXohm4H) about sequence generation is accepted by ICLR-2022. <br> -->
 <!-- 09/30/2021  [One paper](https://www.microsoft.com/en-us/research/people/lijuwu/my-publications/) about Video Question Answering is accepted by NeurIPS-2021. <br> -->
 <!-- 09/30/2021  Our paper [R-Drop](https://arxiv.org/pdf/2106.14448.pdf) is accepted by NeurIPS-2021. <br> -->
 <!-- 09/18/2021  [One paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221013990) about [Multimodal Sentiment Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0925231221013990) is accepted by Neurocomputing. <br> -->
