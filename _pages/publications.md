@@ -26,6 +26,7 @@ Preprints
 
 Journals
 ======
+* Jiacheng Lin, **Lijun Wu\#**, Jinhua Zhu, Xiaobo Liang, Yingce Xia, Shufang Xie, Tao Qin, Tie-Yan Liu, [R$^2$-DDI: Relation-aware Feature Refinement for Drug-Drug Interaction Prediction](), In ***Briefings in Bioinformatics-2022***. [[code]](https://github.com/linjc16/R2-DDI)
 * Jinhua Zhu, Yingce Xia, Chang Liu, **Lijun Wu**, Shufang Xie, Yusong Wang, Tong Wang, Wengang Zhou, Tao Qin, Houqiang Li, Haiguang Liu, Tie-Yan Liu, [Direct Molecular Conformation Generation](https://arxiv.org/pdf/2202.01356.pdf), In Transactions on Machine Learning Research (***TMLR-2022***). [[code]](https://github.com/DirectMolecularConfGen/DMCG)
 * Yutai Hou, Yingce Xia, **Lijun Wu**, Shufang Xie, Yang Fan, Jinhua Zhu, Wanxiang Che, Tao Qin, Tie-Yan Liu, [Discovering Drug-Target Interaction Knowledge from Biomedical Literature](https://arxiv.org/pdf/2109.13187v1.pdf), In ***Bioinformatics-2022***.
 * **Lijun Wu\#**, Chengcan Yin, Jinhua Zhu, Zhen Wu, Liang He,Yingce Xia, Shufang Xie, Tao Qin, Tie-Yan Liu, [SPRoBERTa: Protein Embedding Learning with Local Fragment Modeling](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac401/6711410?guestAccessKey=73c90cc4-a12f-4ef4-b241-3a6afc51b80b), In ***Briefings in Bioinformatics-2022***.
@@ -38,6 +39,8 @@ Journals
 
 Conferences
 ======
+* Yisheng Xiao, **Lijun Wu**, Ruiyang Xu, Juntao Li, Tao Qin, Tie-yan Liu, Min Zhang, [AMOM: Adaptive Masking over Masking for Conditional Masked Language Model](), In Thirty-Seventh AAAI Conference on Artificial Intelligence (***AAAI-2023***).
+* Shufang Xie, Rui Yan, Junliang Guo, Yingce Xia, **Lijun Wu**, Tao Qin, [Retrosynthesis Prediction with Local Template Retrieval](), In Thirty-Seventh AAAI Conference on Artificial Intelligence (***AAAI-2023***).
 * Xiaobo Liang, Juntao Li, **Lijun Wu**, Min Zhang, [JANUS: Joint Autoregressive and Non-autoregressive Training with Auxiliary Loss for Sequence Generation](), In 2022 Conference on Empirical Methods in Natural Language Processing (***EMNLP-2022***). [[code]](https://github.com/dropreg/JANUS)
 * Zhaochen Su, Zecheng Tang, Xinyan Guan, Juntao Li, **Lijun Wu**, Min Zhang, [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](), In 2022 Conference on Empirical Methods in Natural Language Processing (***EMNLP-2022***).
 * Jinhua Zhu, Yingce Xia, **Lijun Wu**, Shufang Xie, Tao Qin, Wengang Zhou, Houqiang Li and Tie-Yan Liu. [Unified 2D and 3D Pre-Training of Molecular Representations](https://arxiv.org/abs/2207.08806), In the 28th SIGKDD Conference on Knowledge Discovery and Data Mining (***KDD-2022***).
