@@ -24,38 +24,23 @@ You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/resea
 
 <!-- <strong>Currently, we are working on biology-embedding, drug discovery research, welcome to join us if you are interested!</strong> -->
 
-
-Selected Research
 ------
-* **Consistency training and dropout**
-  * [R-Drop](https://arxiv.org/pdf/2106.14448.pdf) (sub-model consistency)
-  * [UniDrop](https://aclanthology.org/2021.naacl-main.302.pdf) (unified dropout)
-  * [JANUS]() (NAT&AT consistency)
-  * [R^2-DDI]() (drug-drug interaction consistency)
-  * [C^2-Rec](https://arxiv.org/pdf/2112.06668.pdf) (recommendation consistency)
-* **Drug discovery and bioinformatics**
-  * [SPRoBERTa](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac401/6711410?guestAccessKey=73c90cc4-a12f-4ef4-b241-3a6afc51b80b) (local fragment-based protein pre-training)
-  * [R^2-DDI]() (drug-drug interaction consistency)
-  * [DMCG](https://arxiv.org/pdf/2202.01356.pdf) (direct molecular conformation generation)
-  * [SMT-DTA](https://arxiv.org/pdf/2206.09818.pdf) (semi-supervised drug-target affinity prediction)
-  * [AbBERT-HMPN](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.14.516404.full.pdf) (pre-training for antibody design)
-* **Neural Machine Translation**
-  * [RL4NMT](http://aclweb.org/anthology/D18-1397) (the first RL for NMT survey)
-  * [NAT beyond](https://arxiv.org/pdf/2204.09269.pdf) (a comprehensive study of NAT and beyond)
-  * [BERT-NMT](https://openreview.net/pdf?id=Hyl7ygStwB) (BERT for NMT)
-  * [ANMT](http://proceedings.mlr.press/v95/wu18a/wu18a.pdf) (adversarial NMT)
-  * [SCA](https://arxiv.org/pdf/1905.10523.pdf) (soft contextual data augmentation)
-  * [Mono-NMT](https://www.aclweb.org/anthology/D19-1430.pdf) (large scale monolingual data for NMT)
 
 News
 ------
-11/25/2022  [Our R$^2$-DDI]() about Drug-Drug Interaction (DDI) is accepted by Briefings in Bioinformatics. <br>
+06/2023 I am servering as Area Chair for EMNLP-2023. <br>
+05/2023 Two papers are accepted by ACL-2023. <br>
+05/2023 Three papers are accepted by KDD-2023. <br>
+03/2023 Our comprehensive [survey](https://arxiv.org/pdf/2204.09269.pdf) on Non-Autoregressive Generation is accepted by TPAMI! <br>
+01/2023 I am serving as Area Chair for ACL-2023. <br>
+01/2023 Three papers are accepted by ICLR-2023. <br>
+<!-- 11/25/2022  [Our R$^2$-DDI]() about Drug-Drug Interaction (DDI) is accepted by Briefings in Bioinformatics. <br>
 11/19/2022  [Our AMOM]() about NAT training and [one paper]() about retrosynthesis prediction are accepted by AAAI-2023. <br>
 10/15/2022  [Our DMCG](https://arxiv.org/pdf/2202.01356.pdf) about molecule conformation generation is accepted by TMLR. <br>
-10/07/2022  [Our JANUS]() about NAT&AT training and [one paper]() about temporal sequence generation are accepted by EMNLP-2022. <br>
-09/01/2022  [Our SPRoBERTa](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac401/6711410?guestAccessKey=73c90cc4-a12f-4ef4-b241-3a6afc51b80b) about protein pre-training is accepted by Briefings in Binformactics. <br>
-06/18/2022  [One paper](https://arxiv.org/abs/2207.08806) about Unified 2D and 3D molecule pretraining and [one paper](https://arxiv.org/abs/2206.11477) about retrosythetic prediction are accepted by KDD-2022. <br>
-05/20/2022  We summarize a comprehensive survey on Non-Autoregressive Generation, check [here](https://arxiv.org/pdf/2204.09269.pdf)! <br>
+10/07/2022  [Our JANUS]() about NAT&AT training and [one paper]() about temporal sequence generation are accepted by EMNLP-2022. <br> -->
+<!-- 09/01/2022  [Our SPRoBERTa](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac401/6711410?guestAccessKey=73c90cc4-a12f-4ef4-b241-3a6afc51b80b) about protein pre-training is accepted by Briefings in Binformactics. <br> -->
+<!-- 06/18/2022  [One paper](https://arxiv.org/abs/2207.08806) about Unified 2D and 3D molecule pretraining and [one paper](https://arxiv.org/abs/2206.11477) about retrosythetic prediction are accepted by KDD-2022. <br>
+05/20/2022  We summarize a comprehensive survey on Non-Autoregressive Generation, check [here](https://arxiv.org/pdf/2204.09269.pdf)! <br> -->
 <!-- 05/09/2022  Our [Masked Contrastive Representation Learning for RL](https://ieeexplore.ieee.org/document/9779589) is accepted by IEEE TPAMI-2022. <br> -->
 <!-- 05/05/2022  [One paper](https://ieeexplore.ieee.org/document/9783103) about Multimodal Sentiment Analysis is accepted by IEEE TASLP-2022. <br>
 02/01/2022  Our [Multi-teacher distillation with one single model](https://ieeexplore.ieee.org/abstract/document/9722996/) about NMT is accepted by IEEE TASLP-2022. <br>
@@ -68,6 +53,29 @@ News
 <!-- 05/09/2021  [One paper](/publication/2021_icml_temp_cor) about seqeunce learning is accepted by ICML-2021. <br> -->
 <!-- 03/11/2021  Our paper "[UniDrop](/publication/2021_naacl_unidrop)" is accepted by NAACL-2021. <br> -->
 <!-- 01/14/2021  Our paper "[IOT](/publication/2021_iclr_iot)" is accepted by ICLR-2021. <br> -->
+
+
+Selected Research
+------
+* **Consistency training and dropout**
+  * [R-Drop](https://arxiv.org/pdf/2106.14448.pdf) (sub-model consistency)
+  * [UniDrop](https://aclanthology.org/2021.naacl-main.302.pdf) (unified dropout)
+  * [JANUS](https://aclanthology.org/2022.emnlp-main.550/) (NAT&AT consistency)
+  <!-- * [R^2-DDI]() (drug-drug interaction consistency) -->
+  <!-- * [C^2-Rec](https://arxiv.org/pdf/2112.06668.pdf) (recommendation consistency) -->
+* **Drug discovery and bioinformatics**
+  <!-- * [SPRoBERTa](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac401/6711410?guestAccessKey=73c90cc4-a12f-4ef4-b241-3a6afc51b80b) (local fragment-based protein pre-training) -->
+  <!-- * [R^2-DDI]() (drug-drug interaction consistency) -->
+  * [DMCG](https://arxiv.org/pdf/2202.01356.pdf) (direct molecular conformation generation)
+  * [SMT-DTA](https://arxiv.org/pdf/2206.09818.pdf) (semi-supervised drug-target affinity prediction)
+  * [AbGNN](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.14.516404.full.pdf) (pre-training for antibody design)
+* **Neural Machine Translation**
+  * [RL4NMT](http://aclweb.org/anthology/D18-1397) (the first RL for NMT survey)
+  * [NAT beyond](https://arxiv.org/pdf/2204.09269.pdf) (a comprehensive study of NAT and beyond)
+  * [BERT-NMT](https://openreview.net/pdf?id=Hyl7ygStwB) (BERT for NMT)
+  <!-- * [ANMT](http://proceedings.mlr.press/v95/wu18a/wu18a.pdf) (adversarial NMT) -->
+  <!-- * [SCA](https://arxiv.org/pdf/1905.10523.pdf) (soft contextual data augmentation) -->
+  <!-- * [Mono-NMT](https://www.aclweb.org/anthology/D19-1430.pdf) (large scale monolingual data for NMT) -->
 
 ------
 
