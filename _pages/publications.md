@@ -19,12 +19,12 @@ author_profile: true
 
 Preprints
 ======
-* Qizhi Pei, **Lijun Wu\#**, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Haiguang Liu, Tie-Yan Liu, [SMT-DTA: Improving Drug-Target Affinity Prediction with Semi-supervised Multi-task Training](https://arxiv.org/abs/2206.09818), arxiv, 2022.
 * Hany Hassan, Anthony Aue, Chang Chen, Vishal Chowdhary, Jonathan Clark, Christian Federmann, Xuedong Huang, Marcin Junczys-Dowmunt, William Lewis, Mu Li, Shujie Liu, Tie-Yan Liu, Renqian Luo, Arul Menezes, Tao Qin, Frank Seide, Xu Tan, Fei Tian, **Lijun Wu**, Shuangzhi Wu, Yingce Xia, Dongdong Zhang, Zhirui Zhang and Ming Zhou, [Achieving Human Parity on Automatic Chinese to English News Translation](https://arxiv.org/pdf/1803.05567) (***The first Chinese-to-English machine translation system that can match the human translation accuracy***) 2018.
 
 
 Journals
 ======
+* Qizhi Pei, **Lijun Wu\#**, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Haiguang Liu, Tie-Yan Liu, [SSM-DTA: Breaking the Barriers of Data Scarcity in Drug-Target Affinity Prediction](https://arxiv.org/abs/2206.09818), In ***Briefings in Bioinformatics-2023***.
 * Yue Wang, **Lijun Wu**, Juntao Li, Xiaobo Liang, Min Zhang, [Are the BERT Family Zero-Shot Learners? A Study on Their Potential and Limitations](https://www.sciencedirect.com/science/article/pii/S0004370223000991), In ***Artificial Intelligence (2023)***.
 * Yisheng Xiao\*, **Lijun Wu\***, Junliang Guo, Juntao Li, Min Zhang, Tao Qin, and Tie-Yan Liu, [A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond](https://arxiv.org/pdf/2204.09269.pdf) (***A comprehensive survey for Non-autoregressive generation***), IEEE Transactions on Pattern Analysis and Machine Intelligence (***IEEE TPAMI-2023***).
 * Jiacheng Lin, **Lijun Wu\#**, Jinhua Zhu, Xiaobo Liang, Yingce Xia, Shufang Xie, Tao Qin, Tie-Yan Liu, [R$^2$-DDI: Relation-aware Feature Refinement for Drug-Drug Interaction Prediction](), In ***Briefings in Bioinformatics-2022***. [[code]](https://github.com/linjc16/R2-DDI)
@@ -40,6 +40,8 @@ Journals
 
 Conferences
 ======
+* Qizhi Pei, Wei Zhang, Jinhua Zhu, Kehan Wu, Kaiyuan Gao, **Lijun Wu\#**, Yingce Xia, Rui Yan, [BioT5: Enriching Cross-model Integration in Biology with Chemical Knowledge and Natural Language Associations](https://arxiv.org/pdf/2310.07276.pdf), In 2023 Conference on Empirical Methods in Natural Language Processing (***EMNLP-2023***).
+* Qizhi Pei, Kaiyuan Gao, **Lijun Wu\#**, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Kun He, Tie-Yan Liu, Rui Yan, [FABind: Fast and Accurate Protein-Ligand Binding](https://arxiv.org/pdf/2310.06763.pdf), In Thirty-seventh Conference on Neural Information Processing Systems (***NeurIPS-2023***).
 * Kaiyuan Gao, **Lijun Wu\#**, Jinhua Zhu, Tianbo Peng, Yingce Xia, Liang He, Shufang Xie, Tao Qin, Haiguang Liu, Kun He and Tie-Yan Liu, [Pre-training Antibody Language Models for Antigen-Specific Computational Antibody Design](https://www.biorxiv.org/content/10.1101/2022.11.14.516404v2.full.pdf), In the 29th SIGKDD Conference on Knowledge Discovery and Data Mining (***KDD-2023***).
 * Jinhua Zhu, Yingce Xia, **Lijun Wu**, Shufang Xie, Tao Qin, Wengang Zhou, Houqiang Li and Tie-Yan Liu, [Dual-view molecule pre-training](https://arxiv.org/abs/2106.10234), In the 29th SIGKDD Conference on Knowledge Discovery and Data Mining (***KDD-2023***).
 * Chong Liu, Xiaoyang Liu, Rongqin Zheng, Lixin Zhang, Xiaobo Liang, Juntao Li, **Lijun Wu**, Min Zhang, Leyu Lin, [CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation](https://arxiv.org/abs/2112.06668), In the 29th SIGKDD Conference on Knowledge Discovery and Data Mining (***KDD-2023***).

@@ -14,9 +14,9 @@ About me
 ------
 <strong>Keep Learning & Be Positive!</strong>
 
-Lijun Wu is currently a Senior Researcher of [Machine Learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) in [Microsoft Research Asia (MSRA)](https://www.msra.cn/). He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) in 2020, was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Prof. Jianhuang Lai](http://sdcs.sysu.edu.cn/content/2498). He received [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) in 2018. Prior to that, he obtained the Bachelor degree in the same department in 2015. 
+Lijun Wu is currently a Senior Researcher of in [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/). He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) in 2020, was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Prof. Jianhuang Lai](http://sdcs.sysu.edu.cn/content/2498). He received [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) in 2018. Prior to that, he obtained the Bachelor degree in the same department in 2015. 
 
-His researches focus on Deep Learning, NLP, Multimodality Learning, Medical Health, Bio-NLP, Bio-Embedding, Drug Discovery. Works during the Ph.D. journey are mostly on sequence learning tasks such as neural machine translation. He is also interested in meta learning, reinforcement learning.
+His researches focus on AI4Science (Bio-NLP, Drug Discovery), Language Model, Multimodality Learning, Medical Health. Works during the Ph.D. journey are mostly on sequence learning tasks such as neural machine translation. He is also interested in meta learning, reinforcement learning.
 
 You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/research/people/lijuwu/).
 
@@ -28,12 +28,15 @@ You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/resea
 
 News
 ------
+10/2023 Our [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry) is accepted by EMNLP-2023. <br>
+09/2023 Our [FABind](https://openreview.net/pdf?id=PnWakgg1RL) (Fast and Accurate for Protein-Ligand Binding) is accepted by NeurIPS-2023! <br>
+09/2023 I am servering as Area Chair for COLING-2023. <br>
 06/2023 I am servering as Area Chair for EMNLP-2023. <br>
 05/2023 Two papers are accepted by ACL-2023. <br>
 05/2023 Three papers are accepted by KDD-2023. <br>
 03/2023 Our comprehensive [survey](https://arxiv.org/pdf/2204.09269.pdf) on Non-Autoregressive Generation is accepted by TPAMI! <br>
-01/2023 I am serving as Area Chair for ACL-2023. <br>
-01/2023 Three papers are accepted by ICLR-2023. <br>
+<!-- 01/2023 I am serving as Area Chair for ACL-2023. <br>
+01/2023 Three papers are accepted by ICLR-2023. <br>  -->
 <!-- 11/25/2022  [Our R$^2$-DDI]() about Drug-Drug Interaction (DDI) is accepted by Briefings in Bioinformatics. <br>
 11/19/2022  [Our AMOM]() about NAT training and [one paper]() about retrosynthesis prediction are accepted by AAAI-2023. <br>
 10/15/2022  [Our DMCG](https://arxiv.org/pdf/2202.01356.pdf) about molecule conformation generation is accepted by TMLR. <br>
@@ -66,8 +69,10 @@ Selected Research
 * **Drug discovery and bioinformatics**
   <!-- * [SPRoBERTa](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac401/6711410?guestAccessKey=73c90cc4-a12f-4ef4-b241-3a6afc51b80b) (local fragment-based protein pre-training) -->
   <!-- * [R^2-DDI]() (drug-drug interaction consistency) -->
-  * [DMCG](https://arxiv.org/pdf/2202.01356.pdf) (direct molecular conformation generation)
-  * [SMT-DTA](https://arxiv.org/pdf/2206.09818.pdf) (semi-supervised drug-target affinity prediction)
+  <!--* [DMCG](https://arxiv.org/pdf/2202.01356.pdf) (direct molecular conformation generation) -->
+  * [FABind](https://openreview.net/pdf?id=PnWakgg1RL) (Fast and Accurate for Protein-Ligand Binding)
+  * [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry)
+  <!-- * [SMT-DTA](https://arxiv.org/pdf/2206.09818.pdf) (semi-supervised drug-target affinity prediction) -->
   * [AbGNN](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.14.516404.full.pdf) (pre-training for antibody design)
 * **Neural Machine Translation**
   * [RL4NMT](http://aclweb.org/anthology/D18-1397) (the first RL for NMT survey)
