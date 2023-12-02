@@ -21,6 +21,7 @@ Education
 
 Honors
 ======
+* [Runner up](https://ogb.stanford.edu/kddcup2021/results/#final_pcqm4m) of OGB-LSC @ KDD cup, 2021, [Solution](https://github.com/TransfromerMeetsGraph/GNNLearner)
 * Outstanding Graduate Awards of SYSU, 2020
 * Outstanding Reviewer of EMNLP, 2019
 * [1st Place of WMT 2019 in 5 translation directions: En->De, De->En, De->Fr, Fr->De and Ru->En](http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27), 2019

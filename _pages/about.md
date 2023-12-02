@@ -16,11 +16,11 @@ About me
 
 Lijun Wu is currently a Senior Researcher of in [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/). He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) in 2020, was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Prof. Jianhuang Lai](http://sdcs.sysu.edu.cn/content/2498). He received [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows) in 2018. Prior to that, he obtained the Bachelor degree in the same department in 2015. 
 
-His researches focus on AI4Science (Bio-NLP, Drug Discovery), Language Model, Multimodality Learning, Medical Health. Works during the Ph.D. journey are mostly on sequence learning tasks such as neural machine translation. He is also interested in meta learning, reinforcement learning.
+His researches focus on AI4Science (Bio-NLP, Drug Discovery), Large Language Model, Multimodality Learning, Medical Health. He has rich experiences on sequence learning tasks such as neural machine translation. He is also interested in meta learning, reinforcement learning.
 
 You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/research/people/lijuwu/).
 
-**Feel free and welcome to contact for intern positions and possible collobaration!**
+<!-- **Feel free and welcome to contact for possible collobaration!** -->
 
 <!-- <strong>Currently, we are working on biology-embedding, drug discovery research, welcome to join us if you are interested!</strong> -->
 
@@ -28,6 +28,7 @@ You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/resea
 
 News
 ------
+***11/2023 We have released a report on [Large Language Models (GPT-4) on Scienctific Discovery](https://arxiv.org/pdf/2311.07361.pdf), have a check!*** <br>
 10/2023 Our [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry) is accepted by EMNLP-2023. <br>
 09/2023 Our [FABind](https://openreview.net/pdf?id=PnWakgg1RL) (Fast and Accurate for Protein-Ligand Binding) is accepted by NeurIPS-2023! <br>
 09/2023 I am servering as Area Chair for COLING-2023. <br>
