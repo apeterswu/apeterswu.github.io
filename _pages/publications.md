@@ -19,12 +19,14 @@ author_profile: true
 
 Preprints
 ======
+* Qizhi Pei, **Lijun Wu\#**, Kaiyuan Gao, Jinhua Zhu, Yue Wang, Zun Wang, Tao Qin, Rui Yan, [Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/pdf/2403.01528.pdf), 2024. 
 * Microsoft Research AI4Science, Microsoft Azure Quantum, [The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4](https://arxiv.org/pdf/2311.07361.pdf), 2023.
 * Hany Hassan, Anthony Aue, Chang Chen, Vishal Chowdhary, Jonathan Clark, Christian Federmann, Xuedong Huang, Marcin Junczys-Dowmunt, William Lewis, Mu Li, Shujie Liu, Tie-Yan Liu, Renqian Luo, Arul Menezes, Tao Qin, Frank Seide, Xu Tan, Fei Tian, **Lijun Wu**, Shuangzhi Wu, Yingce Xia, Dongdong Zhang, Zhirui Zhang and Ming Zhou, [Achieving Human Parity on Automatic Chinese to English News Translation](https://arxiv.org/pdf/1803.05567) (***The first Chinese-to-English machine translation system that can match the human translation accuracy***) 2018.
 
 
 Journals
 ======
+* Juntao Li, Xiaobo Liang, **Lijun Wu\#**, Yue Wang, Qi Meng, Tao Qin, Min Zhang, Tie-Yan Liu, [Randomness Regularization with Simple Consistency Training for Neural Networks](), In IEEE Transactions on Pattern Analysis and Machine Intelligence (***IEEE TPAMI-2024***).
 * Qizhi Pei, **Lijun Wu\#**, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Haiguang Liu, Tie-Yan Liu, [SSM-DTA: Breaking the Barriers of Data Scarcity in Drug-Target Affinity Prediction](https://arxiv.org/abs/2206.09818), In ***Briefings in Bioinformatics-2023***. [[code]](https://github.com/QizhiPei/SSM-DTA)
 * Xiaobo Liang, Runze Mao, **Lijun Wu\#**, Juntao Li, Min Zhang, Qing Li, [Enhancing Low-Resource NLP by Consistency Training with Data and Model Permutations](https://ieeexplore.ieee.org/document/10288035/), In IEEE/ACM Transactions on Audio, Speech and Language Processing (***IEEE TASLP-2023***).
 * Yue Wang, **Lijun Wu**, Juntao Li, Xiaobo Liang, Min Zhang, [Are the BERT Family Zero-Shot Learners? A Study on Their Potential and Limitations](https://www.sciencedirect.com/science/article/pii/S0004370223000991), In ***Artificial Intelligence (2023)***. 

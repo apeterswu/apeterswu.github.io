@@ -44,15 +44,16 @@ Experience
   
 Activities
 ======
-* SPC/AC: ACL-21/22/23, EMNLP-23, COLING-23, IJCAI-21, AAAI-22/23/24, ARR-21/22/23 (ACL Rolling Review)
-* Conference reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, NAACL, COLING, EACL, AACL
-* Journal reviewers: TPAMI, TASLP, KBS, Neurocomputing, CSL, IJIS, TALLIP
+* SPC/AC: CAI-24, EACL-24, ACL-21/22/23, EMNLP-23, NNACL-22/23, COLING-23, IJCAI-21, AAAI-22/23/24, ARR-21/22/23 (ACL Rolling Review)
+* Conference reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, KDD, NAACL, COLING, EACL, AACL
+* Journal reviewers: TPAMI, TASLP, KBS, Neurocomputing, CSL
 
 Talks
 ======
-* [用于序列生成的推敲网络](https://www.msra.cn/zh-cn/news/features/nips17-online-sharing-lijun-wu-20171206)
-* [神经机器翻译中的强化学习](https://zhuanlan.zhihu.com/p/41960810)
-* Exploring the Technical Innovations behind ChatGPT: From NLP to Reinforcement Learning
+* [用于序列生成的推敲网络](https://www.msra.cn/zh-cn/news/features/nips17-online-sharing-lijun-wu-20171206), 2017.12
+* [神经机器翻译中的强化学习](https://zhuanlan.zhihu.com/p/41960810), 2.18.8
+* Exploring the Technical Innovations behind ChatGPT: From NLP to Reinforcement Learning, 2023.3
+* [The Impact of LLMs on Scientific Discovery: a Preliminary Study using GPT-4](https://superagi.com/agi-leap-summit/#best?utm_source=superagi&utm_medium=email&utm_campaign=177127&ext_user_id=525f5fc2&ctrkid=28e3670e31c), 2024.2
 
 <!-- Publications
 ======
