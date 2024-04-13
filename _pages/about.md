@@ -28,7 +28,7 @@ You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/resea
 
 News
 ------
-🔥<code>2024.3</code> ***2024.3: We (some friends from different domains and I) have released an [AI4Science Research Project page](https://ai4sci-research.github.io/), which contains multiple different research projects, check it if you are interested!*** <br>
+🔥<code>2024.3</code> ***We (some friends from different domains and I) have released an [AI4Science Research Project page](https://ai4sci-research.github.io/), which contains multiple different research projects, check it if you are interested!*** <br>
 🔥<code>2024.3</code> ***We have released a comprehensive survey about [Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528). Check it!*** <br>
 🔥<code>2023.11</code> ***We have released a report on [Large Language Models (GPT-4) on Scienctific Discovery](https://arxiv.org/pdf/2311.07361.pdf), have a check!*** <br>
 🔥<code>2022.4</code> ***We have released a comprehensive survey about [Non-Autoregressive Generation for Neural Machine Translation and Beyond](https://arxiv.org/pdf/2204.09269.pdf). Check it!*** <br>
