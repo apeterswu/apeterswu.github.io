@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://apeterswu.github.io/images/mslogo.png" alt="msra"  width="200">
+<img src="https://apeterswu.github.io/images/bdlogo.png" alt="bytedance"  width="200">
 
 About me
 ------
 <strong>Keep Learning & Be Positive!</strong>
 
-Lijun Wu is currently a Senior Researcher in [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/). He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), [School of Data and Computer Science](http://sdcs.sysu.edu.cn/), and was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Prof. Jianhuang Lai](http://sdcs.sysu.edu.cn/content/2498). He was honored to be awarded with [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows). His team has won 8 champions in [WMT19 machine translation competition](http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27). 
+Lijun Wu is currently a Researcher Scientist in [ByteDance](https://www.bytedance.com/en/). Previously, he was a Senoir Researcher in [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/). 
+He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), [School of Data and Computer Science](http://sdcs.sysu.edu.cn/), and was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Prof. Jianhuang Lai](http://sdcs.sysu.edu.cn/content/2498). He was honored to be awarded with [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows). His team has won 8 champions in [WMT19 machine translation competition](http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27). 
 
-His researches focus on AI4Science (Bio-NLP, Drug Discovery), Large Language Model, Multimodality Learning, Medical Health. He has rich experiences on sequence learning tasks such as neural machine translation. He is also interested in reinforcement learning. He has published many papers in top conferences and journals, such as ICLR, NeurIPS, ACL, TPAMI. He has served as AC/SPC in top conferences, e.g., ACL, EMNLP, NAACL, COLING, AAAI, IJCAI and so on.
+His researches focus on Large Language Model (e.g., RLHF, post-training), AI4Science (e.g., LLM4Science, Drug Discovery), Multimodality Learning. He has rich experiences on sequence learning such as neural machine translation. He has published many papers in top conferences and journals, such as ICLR, NeurIPS, ACL, TPAMI. He has served as AC/SPC in top conferences, e.g., ACL, EMNLP, NAACL, COLING, AAAI, IJCAI and so on.
 
-You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/research/people/lijuwu/).
+<!-- You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/research/people/lijuwu/). -->
 
-<!-- **Feel free and welcome to contact for possible collobaration!** -->
+**Feel free to contact for possible collobaration! I am always looking for highly self-motivated research interns.**
 
 <!-- <strong>Currently, we are working on biology-embedding, drug discovery research, welcome to join us if you are interested!</strong> -->
 
@@ -28,15 +29,17 @@ You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/resea
 
 News
 ------
-🔥<code>2024.3</code> ***We (some friends from different domains and I) have released an [AI4Science Research Project page](https://ai4sci-research.github.io/), which contains multiple different research projects, check it if you are interested!*** <br>
-🔥<code>2024.3</code> ***We have released a comprehensive survey about [Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528). Check it!*** <br>
-🔥<code>2023.11</code> ***We have released a report on [Large Language Models (GPT-4) on Scienctific Discovery](https://arxiv.org/pdf/2311.07361.pdf), have a check!*** <br>
-🔥<code>2022.4</code> ***We have released a comprehensive survey about [Non-Autoregressive Generation for Neural Machine Translation and Beyond](https://arxiv.org/pdf/2204.09269.pdf). Check it!*** <br>
+🔥<code>2024.3</code> We have released an [AI4Science Research Project page](https://ai4sci-research.github.io/) with multiple different research projects, check it if you are interested! <br>
+<code>2024.5</code> Our [BioT5+](https://arxiv.org/abs/2402.17810), is accepted by ACL-2024 Findings. <br>
+<code>2024.5</code> I recently moved to ByteDance to start a new position as a Research Scientist for LLM. Drop me an email if you are interested in internship.<br>
+<code>2024.5</code> I'll attend [YSSNLP 2024](https://liip.kust.edu.cn/yssnlp/yssnlp.html) on 06.16 to give a talk about LLM4Science.<br>
+<code>2024.5</code> I am honered to serve as Area Chair for ICML-2024 AI4Science workshop. <br>
+<code>2024.5</code> I am honered to serve as Area Chair for ACL-2024 Language and Molecules workshop. <br>
 <code>2024.3</code> Our [BioT5+](https://arxiv.org/abs/2402.17810), a much stronger extension of [BioT5](https://arxiv.org/pdf/2310.07276.pdf) is released. <br>
 <code>2024.2</code> I am honered to give a talk about the LLM in Science Discovery at [AGI Leap Summit 2024](https://superagi.com/agi-leap-summit/#best?utm_source=superagi&utm_medium=email&utm_campaign=177127&ext_user_id=525f5fc2&ctrkid=28e3670e31c). <br>
-<code>2024.2</code> One paper is accepted by TPAMI-2024. <br>
-<code>2024.1</code> I am servering as Area Chair for IEEE-CAI-2024. <br>
-<code>2023.10</code> Our [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry) is accepted by EMNLP-2023. <br>
+<code>2024.2</code> One [paper](https://ieeexplore.ieee.org/document/10453595) is accepted by TPAMI-2024. <br>
+<!-- <code>2024.1</code> I am servering as Area Chair for IEEE-CAI-2024. <br> -->
+<!-- <code>2023.10</code> Our [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry) is accepted by EMNLP-2023. <br> -->
 <!-- 2023.9: Our [FABind](https://openreview.net/pdf?id=PnWakgg1RL) (Fast and Accurate for Protein-Ligand Binding) is accepted by NeurIPS-2023! <br> -->
 <!-- 2023.9: I am servering as Area Chair for COLING-2023. <br> -->
 <!-- 2023.6: I am servering as Area Chair for EMNLP-2023. <br> -->
@@ -64,6 +67,12 @@ News
 <!-- 03/11/2021  Our paper "[UniDrop](/publication/2021_naacl_unidrop)" is accepted by NAACL-2021. <br> -->
 <!-- 01/14/2021  Our paper "[IOT](/publication/2021_iclr_iot)" is accepted by ICLR-2021. <br> -->
 
+Surveys/Reports
+------
+🔥<code>2024.3</code> We have released a comprehensive survey about [Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528). Check it! <br>
+🔥<code>2023.11</code> We have released a report on [Large Language Models (GPT-4) on Scienctific Discovery](https://arxiv.org/pdf/2311.07361.pdf), check it! <br>
+🔥<code>2022.4</code> We have released a comprehensive survey about [Non-Autoregressive Generation for Neural Machine Translation and Beyond](https://arxiv.org/pdf/2204.09269.pdf). Check it! <br>
+
 Awesome Repos
 ------
 * [Awesome-Biomolecule-Language-Cross-Modeling](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling) [![Stars](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?color=yellow&style=social)](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling)
@@ -78,20 +87,20 @@ Selected Research
   * [JANUS](https://aclanthology.org/2022.emnlp-main.550/) (NAT&AT consistency)
   <!-- * [R^2-DDI]() (drug-drug interaction consistency) -->
   <!-- * [C^2-Rec](https://arxiv.org/pdf/2112.06668.pdf) (recommendation consistency) -->
-* **LLM for Science**
-  * [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry)
-  * [BioT5+](https://arxiv.org/abs/2402.17810) (a stronger extension of BioT5)
+* **LLM for Science/Drug Discovery**
+  * [BioT5](https://arxiv.org/pdf/2310.07276.pdf), [BioT5+](https://arxiv.org/abs/2402.17810) (pre-trained large language model for bio-chemistry)
+  * [FABind](https://openreview.net/pdf?id=PnWakgg1RL), [FABind+](https://arxiv.org/pdf/2403.20261) (Fast and Accurate for Protein-Ligand Binding)
   * [AbGNN](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.14.516404.full.pdf) (pre-training for antibody design)
   <!-- * [R^2-DDI]() (drug-drug interaction consistency) -->
   <!-- * [C^2-Rec](https://arxiv.org/pdf/2112.06668.pdf) (recommendation consistency) -->
-* **Drug Discovery**
+<!-- * **Drug Discovery** -->
   <!-- * [SPRoBERTa](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac401/6711410?guestAccessKey=73c90cc4-a12f-4ef4-b241-3a6afc51b80b) (local fragment-based protein pre-training) -->
   <!-- * [R^2-DDI]() (drug-drug interaction consistency) -->
-  * [FABind](https://openreview.net/pdf?id=PnWakgg1RL) (Fast and Accurate for Protein-Ligand Binding)
-  * [DMCG](https://arxiv.org/pdf/2202.01356.pdf) (direct molecular conformation generation)
+  <!-- * [FABind](https://openreview.net/pdf?id=PnWakgg1RL) (Fast and Accurate for Protein-Ligand Binding) -->
+  <!-- * [DMCG](https://arxiv.org/pdf/2202.01356.pdf) (direct molecular conformation generation) -->
   <!-- * [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry) -->
   <!-- * [SMT-DTA](https://arxiv.org/pdf/2206.09818.pdf) (semi-supervised drug-target affinity prediction) -->
-  * [AbGNN](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.14.516404.full.pdf) (pre-training for antibody design)
+  <!-- * [AbGNN](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.14.516404.full.pdf) (pre-training for antibody design) -->
 * **Neural Machine Translation**
   * [RL4NMT](http://aclweb.org/anthology/D18-1397) (the first RL for NMT survey)
   * [NAT beyond](https://arxiv.org/pdf/2204.09269.pdf) (a comprehensive study of NAT and beyond)

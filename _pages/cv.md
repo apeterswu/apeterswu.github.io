@@ -11,14 +11,25 @@ redirect_from:
 
 [PDF](https://apeterswu.github.io/files/lijunwu_cv.pdf)
 
-Education
+<!-- Education
 ======
 * B.S, Sun Yat-Sen University, 08/2011-07/2015
   * School of Information Science and Technology
 * Ph.D, Sun Yat-Sen University, 08/2015-06/2020
   * School of Data and Computer Science
-  * Joint Ph.D. Program between SYSU and MSRA
+  * Joint Ph.D. Program between SYSU and MSRA -->
 
+Experience
+======
+* Senior Researcher, MSR AI4Science, 07/2022-05/2024
+* Senoir Researcher/Researcher, ML Group, MSRA, 06/2020-07/2022
+* Research Intern, ML Group, MSRA, 01/2019-06/2020
+  * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/)
+* Research Intern, ML Group, MSRA, 06/2016-10/2018
+  * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/), [Dr. Fei Tian](https://ustctf.github.io/)
+* Research Intern, AI Group, MSRA, 07/2014-07/2015
+  * Mentor: [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)
+  
 Honors
 ======
 * [Runner up](https://ogb.stanford.edu/kddcup2021/results/#final_pcqm4m) of OGB-LSC @ KDD cup, 2021, [Solution](https://github.com/TransfromerMeetsGraph/GNNLearner)
@@ -33,18 +44,9 @@ Honors
 * Undergraduate Student National Scholarship, 2012, 2013
 * First Class Scholarship of SYSU, 2012, 2013, 2014
 
-Experience
-======
-* Research Intern, Machine Learing Group, MSRA, 01/2019-06/2020
-  * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/)
-* Research Intern, Machine Learing Group, MSRA, 06/2016-10/2018
-  * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/), [Dr. Fei Tian](https://ustctf.github.io/)
-* Research Intern, Artificial Intelligence Group Group, MSRA, 07/2014-07/2015
-  * Mentor: [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)
-  
 Activities
 ======
-* SPC/AC: CAI-24, EACL-24, ACL-21/22/23, EMNLP-23, NNACL-22/23, COLING-23, IJCAI-21, AAAI-22/23/24, ARR-21/22/23 (ACL Rolling Review)
+* SPC/AC: CAI-24, EACL-24, ACL-21/22/23/24, EMNLP-23, NNACL-22/23, COLING-23, IJCAI-21, AAAI-22/23/24, ARR-21/22/23 (ACL Rolling Review)
 * Conference reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, KDD, NAACL, COLING, EACL, AACL
 * Journal reviewers: TPAMI, TASLP, KBS, Neurocomputing, CSL
 

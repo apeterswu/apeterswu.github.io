@@ -26,7 +26,7 @@ Preprints
 
 Journals
 ======
-* Juntao Li, Xiaobo Liang, **Lijun Wu\#**, Yue Wang, Qi Meng, Tao Qin, Min Zhang, Tie-Yan Liu, [Randomness Regularization with Simple Consistency Training for Neural Networks](), In IEEE Transactions on Pattern Analysis and Machine Intelligence (***IEEE TPAMI-2024***).
+* Juntao Li, Xiaobo Liang, **Lijun Wu\#**, Yue Wang, Qi Meng, Tao Qin, Min Zhang, Tie-Yan Liu, [Randomness Regularization with Simple Consistency Training for Neural Networks](https://ieeexplore.ieee.org/document/10453595), In IEEE Transactions on Pattern Analysis and Machine Intelligence (***IEEE TPAMI-2024***).
 * Qizhi Pei, **Lijun Wu\#**, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Haiguang Liu, Tie-Yan Liu, [SSM-DTA: Breaking the Barriers of Data Scarcity in Drug-Target Affinity Prediction](https://arxiv.org/abs/2206.09818), In ***Briefings in Bioinformatics-2023***. [[code]](https://github.com/QizhiPei/SSM-DTA)
 * Xiaobo Liang, Runze Mao, **Lijun Wu\#**, Juntao Li, Min Zhang, Qing Li, [Enhancing Low-Resource NLP by Consistency Training with Data and Model Permutations](https://ieeexplore.ieee.org/document/10288035/), In IEEE/ACM Transactions on Audio, Speech and Language Processing (***IEEE TASLP-2023***).
 * Yue Wang, **Lijun Wu**, Juntao Li, Xiaobo Liang, Min Zhang, [Are the BERT Family Zero-Shot Learners? A Study on Their Potential and Limitations](https://www.sciencedirect.com/science/article/pii/S0004370223000991), In ***Artificial Intelligence (2023)***. 
