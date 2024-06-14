@@ -14,7 +14,7 @@ About me
 ------
 <strong>Keep Learning & Be Positive!</strong>
 
-Lijun Wu is currently a Researcher Scientist in [ByteDance](https://www.bytedance.com/en/). Previously, he was a Senoir Researcher in [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/). 
+Lijun Wu is currently a Research Scientist in [ByteDance](https://www.bytedance.com/en/). Previously, he was a Senoir Researcher in [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/). 
 He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), [School of Data and Computer Science](http://sdcs.sysu.edu.cn/), and was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Prof. Jianhuang Lai](http://sdcs.sysu.edu.cn/content/2498). He was honored to be awarded with [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows). His team has won 8 champions in [WMT19 machine translation competition](http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27). 
 
 His researches focus on Large Language Model (e.g., RLHF, post-training), AI4Science (e.g., LLM4Science, Drug Discovery), Multimodality Learning. He has rich experiences on sequence learning such as neural machine translation. He has published many papers in top conferences and journals, such as ICLR, NeurIPS, ACL, TPAMI. He has served as AC/SPC in top conferences, e.g., ACL, EMNLP, NAACL, COLING, AAAI, IJCAI and so on.
