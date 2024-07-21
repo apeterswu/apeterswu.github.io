@@ -23,30 +23,34 @@ His researches focus on Large Language Model (e.g., RLHF, post-training), AI4Sci
 
 **Feel free to contact for possible collobaration! I am always looking for highly self-motivated research interns.**
 
-<!-- <strong>Currently, we are working on biology-embedding, drug discovery research, welcome to join us if you are interested!</strong> -->
-
 <!-- ------ -->
 
 News
 ------
+🔥<code>2024.7</code> Super excited that our BioT5+ achieves 1st in molecule generation and 2nd in molecular captioning on [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared task! <br>
 🔥<code>2024.3</code> We have released an [AI4Science Research Project page](https://ai4sci-research.github.io/) with multiple different research projects, check it if you are interested! <br>
-<code>2024.5</code> Our [BioT5+](https://arxiv.org/abs/2402.17810), is accepted by ACL-2024 Findings. <br>
+<code>2024.7</code> One paper is accepted by CIKM-2024. <br>
+<code>2024.6</code> I am honered to serve as SPC for AAAI-2025. <br>
+<code>2024.6</code> The [slides](https://liip.kust.edu.cn/yssnlp/date.html) of my talk on LLM4Science when attening YSSNLP 2024 is released. <br>
+<code>2024.5</code> Our [BioT5+](https://arxiv.org/abs/2402.17810) is accepted by ACL-2024 Findings. <br>
 <code>2024.5</code> I recently moved to ByteDance to start a new position as a Research Scientist for LLM. Drop me an email if you are interested in internship.<br>
 <code>2024.5</code> I'll attend [YSSNLP 2024](https://liip.kust.edu.cn/yssnlp/yssnlp.html) on 06.16 to give a talk about LLM4Science.<br>
 <code>2024.5</code> I am honered to serve as Area Chair for ICML-2024 AI4Science workshop. <br>
 <code>2024.5</code> I am honered to serve as Area Chair for ACL-2024 Language and Molecules workshop. <br>
+<code>2024.5</code> I am honered to serve as Area Chair for EMNLP-2024. <br>
+<code>2024.4</code> Our [FABind+](https://arxiv.org/abs/2402.17810), a much stronger extension of [FABind](https://openreview.net/pdf?id=PnWakgg1RL) is released. <br>
 <code>2024.3</code> Our [BioT5+](https://arxiv.org/abs/2402.17810), a much stronger extension of [BioT5](https://arxiv.org/pdf/2310.07276.pdf) is released. <br>
 <code>2024.2</code> I am honered to give a talk about the LLM in Science Discovery at [AGI Leap Summit 2024](https://superagi.com/agi-leap-summit/#best?utm_source=superagi&utm_medium=email&utm_campaign=177127&ext_user_id=525f5fc2&ctrkid=28e3670e31c). <br>
 <code>2024.2</code> One [paper](https://ieeexplore.ieee.org/document/10453595) is accepted by TPAMI-2024. <br>
-<!-- <code>2024.1</code> I am servering as Area Chair for IEEE-CAI-2024. <br> -->
-<!-- <code>2023.10</code> Our [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry) is accepted by EMNLP-2023. <br> -->
-<!-- 2023.9: Our [FABind](https://openreview.net/pdf?id=PnWakgg1RL) (Fast and Accurate for Protein-Ligand Binding) is accepted by NeurIPS-2023! <br> -->
-<!-- 2023.9: I am servering as Area Chair for COLING-2023. <br> -->
-<!-- 2023.6: I am servering as Area Chair for EMNLP-2023. <br> -->
+<code>2024.1</code> I am servering as Area Chair for IEEE-CAI-2024. <br> 
+<code>2023.10</code> Our [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry) is accepted by EMNLP-2023. <br> 
+<code>2023.9</code> Our [FABind](https://openreview.net/pdf?id=PnWakgg1RL) (Fast and Accurate for Protein-Ligand Binding) is accepted by NeurIPS-2023! <br> 
+<code>2023.9</code> I am servering as Area Chair for COLING-2023. <br> 
+<code>2023.6</code> I am servering as Area Chair for EMNLP-2023. <br>
 <!-- 05/2023 Two papers are accepted by ACL-2023. <br> -->
 <!-- 05/2023 Three papers are accepted by KDD-2023. <br> -->
 <!-- 01/2023 I am serving as Area Chair for ACL-2023. <br>
-01/2023 Three papers are accepted by ICLR-2023. <br>  -->
+01/2023 Three papers are accepted by ICLR-2023. <br> 
 <!-- 11/25/2022  [Our R$^2$-DDI]() about Drug-Drug Interaction (DDI) is accepted by Briefings in Bioinformatics. <br>
 11/19/2022  [Our AMOM]() about NAT training and [one paper]() about retrosynthesis prediction are accepted by AAAI-2023. <br>
 10/15/2022  [Our DMCG](https://arxiv.org/pdf/2202.01356.pdf) about molecule conformation generation is accepted by TMLR. <br>
