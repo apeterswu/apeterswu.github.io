@@ -21,15 +21,15 @@ redirect_from:
 
 Experience
 ======
-* Research Scientist, ByteDance, 05/2024-Now
+* Research Scientist, ByteDance, 05/2024-08/2024
 * Senior Researcher, MSR AI4Science, 07/2022-05/2024
 * Senoir Researcher/Researcher, ML Group, MSRA, 06/2020-07/2022
 * Research Intern, ML Group, MSRA, 01/2019-06/2020
-  * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/)
+  <!-- * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/) -->
 * Research Intern, ML Group, MSRA, 06/2016-10/2018
-  * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/), [Dr. Fei Tian](https://ustctf.github.io/)
+  <!-- * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/), [Dr. Fei Tian](https://ustctf.github.io/) -->
 * Research Intern, AI Group, MSRA, 07/2014-07/2015
-  * Mentor: [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)
+  <!-- * Mentor: [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) -->
   
 Honors
 ======

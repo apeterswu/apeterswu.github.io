@@ -8,20 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://apeterswu.github.io/images/bdlogo.png" alt="bytedance"  width="200">
+<!-- <img src="https://apeterswu.github.io/images/bdlogo.png" alt="bytedance"  width="200"> -->
 
 About me
 ------
 <strong>Keep Learning & Be Positive!</strong>
 
-Lijun Wu is currently a Research Scientist in [ByteDance](https://www.bytedance.com/en/). Previously, he was a Senoir Researcher in [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/). 
+Lijun Wu is an AI Researcher. Previously, he was a Research Scientist in [ByteDance](https://www.bytedance.com/en/), a Senoir Researcher in [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/). 
 He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), [School of Data and Computer Science](http://sdcs.sysu.edu.cn/), and was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Prof. Jianhuang Lai](http://sdcs.sysu.edu.cn/content/2498). He was honored to be awarded with [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows). His team has won 8 champions in [WMT19 machine translation competition](http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27). 
 
-His researches focus on Large Language Model (e.g., RLHF, post-training), AI4Science (e.g., LLM4Science, Drug Discovery), Multimodality Learning. He has rich experiences on sequence learning such as neural machine translation. He has published many papers in top conferences and journals, such as ICLR, NeurIPS, ACL, TPAMI. He has served as AC/SPC in top conferences, e.g., ACL, EMNLP, NAACL, COLING, AAAI, IJCAI and so on.
+His researches focus on Large Language Model (e.g., RLHF, post-training), AI4Science (e.g., LLM4Science, Drug Discovery), Multimodality Learning. He has rich experiences on sequence learning such as neural machine translation. He has published many papers in top conferences and journals, such as ICLR, NeurIPS, ACL, TPAMI. He has served as AC/SPC in toptier conferences, e.g., ACL, EMNLP, NAACL, COLING, AAAI, IJCAI and so on.
 
 <!-- You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/research/people/lijuwu/). -->
 
-**Feel free to contact for possible collobaration! I am always looking for highly self-motivated research interns.**
+***I am hiring AI researchers working on LLM, drop me an email for more information if you are interested!***
+<!-- **Feel free to contact for possible collobaration! I am always looking for highly self-motivated research interns.** -->
+
+
+Highlights
+------
+* [MSRA Ph.D. Fellowship]((https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows)) in 2018 (12 in Asia-Pacific Universities)
+* First [human parity achieved](https://news.microsoft.com/en-nz/2018/03/16/microsoft-reaches-a-historic-milestone-using-ai-to-match-human-performance-in-translating-news-from-chinese-to-english/) in Chinese-English machine translation system in 2018 
+* [WMT 2019]((http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27)) champion in 8 translation directions
+* [OGB-LSC@KDD cup]((https://ogb.stanford.edu/kddcup2021/results/#final_pcqm4m)) 2021 Runner up
+* 1st/2nd in [Language+Molecule@ACL2024 competition]((https://language-plus-molecules.github.io/#leaderboard))
+* (Tech Transfer) [R-Drop](https://proceedings.neurips.cc/paper_files/paper/2021/file/5a66b9200f29ac3fa0ae244cc2a51b39-Paper.pdf) successfully applied over 20+ language translations in Microsoft Translator, Meituan products
+* (Tech Transfer) [CTRec](https://dl.acm.org/doi/abs/10.1145/3580305.3599798) successfully applied in Tencent news recommendation
+
 
 <!-- ------ -->
 
@@ -29,7 +42,12 @@ News
 ------
 🔥<code>2024.7</code> Super excited that our BioT5+ achieves 1st in molecule generation and 2nd in molecular captioning on [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared task! <br>
 🔥<code>2024.3</code> We have released an [AI4Science Research Project page](https://ai4sci-research.github.io/) with multiple different research projects, check it if you are interested! <br>
-<code>2024.7</code> One paper is accepted by CIKM-2024. <br>
+<code>2024.10</code> I am honered to serve as Area Chair for AAAI-2025 AI4Science workshop. <br>
+<code>2024.9</code> One paper about protein sequence representation learning is accepted by EMNLP-2024. <br>
+<code>2024.9</code> One paper about quantum hamiltonian prediction is accepted by NeurIPS-2024. <br>
+<code>2024.9</code> One paper about federated learning is accepted as Oral presentation by NeurIPS-2024 workshop federated learning. <br>
+<code>2024.7</code> Our [solution](https://aclanthology.org/2024.langmol-1.6/) about the champion in Language+Molecule@ACL2024 shared task is accepted as Oral presentation! <br>
+<code>2024.7</code> Our [kNN-DTA](https://arxiv.org/abs/2407.15202) about drug-target affinity prediction is accepted by CIKM-2024. <br>
 <code>2024.6</code> I am honered to serve as SPC for AAAI-2025. <br>
 <code>2024.6</code> The [slides](https://liip.kust.edu.cn/yssnlp/date.html) of my talk on LLM4Science when attening YSSNLP 2024 is released. <br>
 <code>2024.5</code> Our [BioT5+](https://arxiv.org/abs/2402.17810) is accepted by ACL-2024 Findings. <br>
@@ -43,10 +61,10 @@ News
 <code>2024.2</code> I am honered to give a talk about the LLM in Science Discovery at [AGI Leap Summit 2024](https://superagi.com/agi-leap-summit/#best?utm_source=superagi&utm_medium=email&utm_campaign=177127&ext_user_id=525f5fc2&ctrkid=28e3670e31c). <br>
 <code>2024.2</code> One [paper](https://ieeexplore.ieee.org/document/10453595) is accepted by TPAMI-2024. <br>
 <code>2024.1</code> I am servering as Area Chair for IEEE-CAI-2024. <br> 
-<code>2023.10</code> Our [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry) is accepted by EMNLP-2023. <br> 
-<code>2023.9</code> Our [FABind](https://openreview.net/pdf?id=PnWakgg1RL) (Fast and Accurate for Protein-Ligand Binding) is accepted by NeurIPS-2023! <br> 
-<code>2023.9</code> I am servering as Area Chair for COLING-2023. <br> 
-<code>2023.6</code> I am servering as Area Chair for EMNLP-2023. <br>
+<!-- <code>2023.10</code> Our [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry) is accepted by EMNLP-2023. <br> 
+<code>2023.9</code> Our [FABind](https://openreview.net/pdf?id=PnWakgg1RL) (Fast and Accurate for Protein-Ligand Binding) is accepted by NeurIPS-2023! <br>  -->
+<!-- <code>2023.9</code> I am servering as Area Chair for COLING-2023. <br> 
+<code>2023.6</code> I am servering as Area Chair for EMNLP-2023. <br> -->
 <!-- 05/2023 Two papers are accepted by ACL-2023. <br> -->
 <!-- 05/2023 Three papers are accepted by KDD-2023. <br> -->
 <!-- 01/2023 I am serving as Area Chair for ACL-2023. <br>
