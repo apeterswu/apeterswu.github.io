@@ -31,7 +31,7 @@ Highlights
 * First [human parity achieved](https://news.microsoft.com/en-nz/2018/03/16/microsoft-reaches-a-historic-milestone-using-ai-to-match-human-performance-in-translating-news-from-chinese-to-english/) in Chinese-English machine translation system in 2018 
 * [WMT 2019]((http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27)) champion in 8 translation directions
 * [OGB-LSC@KDD cup]((https://ogb.stanford.edu/kddcup2021/results/#final_pcqm4m)) 2021 Runner up
-* 1st/2nd in [Language+Molecule@ACL2024 competition]((https://language-plus-molecules.github.io/#leaderboard))
+* 1st/2nd in [Language+Molecule@ACL2024]((https://language-plus-molecules.github.io/#leaderboard)) shared tasks!
 * (Tech Transfer) [R-Drop](https://proceedings.neurips.cc/paper_files/paper/2021/file/5a66b9200f29ac3fa0ae244cc2a51b39-Paper.pdf) successfully applied over 20+ language translations in Microsoft Translator, Meituan products
 * (Tech Transfer) [CTRec](https://dl.acm.org/doi/abs/10.1145/3580305.3599798) successfully applied in Tencent news recommendation
 
@@ -40,9 +40,9 @@ Highlights
 
 News
 ------
-🔥<code>2024.7</code> Super excited that our BioT5+ achieves 1st/2nd in sharing tasks on [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared task! <br>
+🔥<code>2024.11</code> Our [TamGen](https://www.nature.com/articles/s41467-024-53632-4) is accepted by Nature Communications! <br>
+🔥<code>2024.7</code> Super excited that our BioT5+ achieves 1st/2nd in [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared tasks! <br>
 🔥<code>2024.3</code> We have released an [AI4Science Research Project page](https://ai4sci-research.github.io/) with multiple different research projects, check it if you are interested! <br>
-<code>2024.11</code> Our [TamGen](https://www.nature.com/articles/s41467-024-53632-4) is accepted by Nature Communications! <br>
 <code>2024.10</code> Congratulation that [Hot Pluggable Federated Learning](https://openreview.net/pdf?id=FazIrAXoM6) is selected as Outstanding Student Paper Award by the FL@FM-NeurIPS'24 workshop! <br>
 <code>2024.10</code> I am honered to serve as Area Chair for AAAI-2025 AI4Science workshop. <br>
 <code>2024.9</code> One [paper](https://aclanthology.org/2024.emnlp-main.104/) about protein sequence representation learning is accepted by EMNLP-2024. <br>
@@ -53,7 +53,6 @@ News
 <code>2024.6</code> I am honered to serve as SPC for AAAI-2025. <br>
 <code>2024.6</code> The [slides](https://liip.kust.edu.cn/yssnlp/date.html) of my talk on LLM4Science when attening YSSNLP 2024 is released. <br>
 <code>2024.5</code> Our [BioT5+](https://arxiv.org/abs/2402.17810) is accepted by ACL-2024 Findings. <br>
-<code>2024.5</code> I recently moved to ByteDance to start a new position as a Research Scientist for LLM. Drop me an email if you are interested in internship.<br>
 <code>2024.5</code> I'll attend [YSSNLP 2024](https://liip.kust.edu.cn/yssnlp/yssnlp.html) on 06.16 to give a talk about LLM4Science.<br>
 <code>2024.5</code> I am honered to serve as Area Chair for ICML-2024 AI4Science workshop. <br>
 <code>2024.5</code> I am honered to serve as Area Chair for ACL-2024 Language and Molecules workshop. <br>
