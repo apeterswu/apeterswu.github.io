@@ -17,11 +17,11 @@ About me
 Lijun Wu is a Young Scientist/Researcher in [Shanghai AI Laboratory](https://www.shlab.org.cn/). Previously, he was a Research Scientist in [ByteDance](https://www.bytedance.com/en/), a Senior Researcher in [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/). 
 He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), [School of Data and Computer Science](http://sdcs.sysu.edu.cn/), and was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Prof. Jianhuang Lai](http://sdcs.sysu.edu.cn/content/2498). He was honored to be awarded with [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows). His team has won 8 champions in [WMT19 machine translation competition](http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27). 
 
-His research interests are on Large Language Model (e.g., SFT, RLHF, post-training), AI4Science (e.g., LLM4Science, Drug Discovery), Multimodality Learning. He has rich experiences on sequence learning such as neural machine translation. He has published many papers in top conferences and journals, such as ICLR, NeurIPS, ACL, TPAMI. He has served as AC/SPC in toptier conferences, e.g., ACL, EMNLP, NAACL, AAAI, IJCAI and so on.
+His research interests are on **AI/Large Language Model** (e.g., AI4data, SFT, post-training), **AI4Science** (e.g., LLM4Science, Drug Discovery). He has rich experiences on neural machine translation. He has published many papers in top conferences and journals, such as ICLR, NeurIPS, ACL, TPAMI. He has served as AC/SPC in toptier conferences, e.g., ACL, EMNLP, NAACL, AAAI, IJCAI and so on.
 
 <!-- You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/research/people/lijuwu/). -->
 
-***We are hiring AI researchers working on LLM, drop me an email if you are interested!***
+***We are hiring AI researchers working on LLM and AI4Science, drop me an email if you are interested!***
 <!-- **Feel free to contact for possible collobaration! I am always looking for highly self-motivated research interns.** -->
 
 
@@ -43,6 +43,9 @@ News
 🔥<code>2024.11</code> Our [TamGen](https://www.nature.com/articles/s41467-024-53632-4) is accepted by Nature Communications! <br>
 🔥<code>2024.7</code> Super excited that our BioT5+ achieves 1st/2nd in [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared tasks! <br>
 🔥<code>2024.3</code> We have released an [AI4Science Research Project page](https://ai4sci-research.github.io/) with multiple different research projects, check it if you are interested! <br>
+<code>2025.1</code> Three papers are accepted by ICLR-2025, including [FABFlex](), the extension of FABind/FABind+ to the flexible docking scenario; [3D-MolT5](https://arxiv.org/pdf/2406.05797), the extension of BioT5/BioT5+ in 3D molecular space . <br>
+<code>2025.1</code> One paper about LLM Hallucination is accepted by NAACL-2025 Findings. <br>
+<code>2024.12</code> Our [FABind+](https://arxiv.org/abs/2402.17810), a much stronger extension of [FABind](https://openreview.net/pdf?id=PnWakgg1RL) is accepted by KDD-2025. <br>
 <code>2024.10</code> Congratulation that [Hot Pluggable Federated Learning](https://openreview.net/pdf?id=FazIrAXoM6) is selected as Outstanding Student Paper Award by the FL@FM-NeurIPS'24 workshop! <br>
 <code>2024.10</code> I am honered to serve as Area Chair for AAAI-2025 AI4Science workshop. <br>
 <code>2024.9</code> One [paper](https://aclanthology.org/2024.emnlp-main.104/) about protein sequence representation learning is accepted by EMNLP-2024. <br>
@@ -50,7 +53,7 @@ News
 <code>2024.9</code> One [paper](https://openreview.net/pdf?id=FazIrAXoM6) about federated learning is accepted as Oral presentation by the FL@FM-NeurIPS'24 workshop! <br>
 <code>2024.7</code> Our [solution](https://aclanthology.org/2024.langmol-1.6/) about the champion in Language+Molecule@ACL2024 shared task is accepted as Oral presentation! <br>
 <code>2024.7</code> Our [kNN-DTA](https://arxiv.org/abs/2407.15202) about drug-target affinity prediction is accepted by CIKM-2024. <br>
-<code>2024.6</code> I am honered to serve as SPC for AAAI-2025. <br>
+<!-- <code>2024.6</code> I am honered to serve as SPC for AAAI-2025. <br>
 <code>2024.6</code> The [slides](https://liip.kust.edu.cn/yssnlp/date.html) of my talk on LLM4Science when attening YSSNLP 2024 is released. <br>
 <code>2024.5</code> Our [BioT5+](https://arxiv.org/abs/2402.17810) is accepted by ACL-2024 Findings. <br>
 <code>2024.5</code> I'll attend [YSSNLP 2024](https://liip.kust.edu.cn/yssnlp/yssnlp.html) on 06.16 to give a talk about LLM4Science.<br>
@@ -59,7 +62,7 @@ News
 <code>2024.5</code> I am honered to serve as Area Chair for EMNLP-2024. <br>
 <code>2024.4</code> Our [FABind+](https://arxiv.org/abs/2402.17810), a much stronger extension of [FABind](https://openreview.net/pdf?id=PnWakgg1RL) is released. <br>
 <code>2024.3</code> Our [BioT5+](https://arxiv.org/abs/2402.17810), a much stronger extension of [BioT5](https://arxiv.org/pdf/2310.07276.pdf) is released. <br>
-<code>2024.2</code> I am honered to give a talk about the LLM in Science Discovery at [AGI Leap Summit 2024](https://superagi.com/agi-leap-summit/#best?utm_source=superagi&utm_medium=email&utm_campaign=177127&ext_user_id=525f5fc2&ctrkid=28e3670e31c). <br>
+<code>2024.2</code> I am honered to give a talk about the LLM in Science Discovery at [AGI Leap Summit 2024](https://superagi.com/agi-leap-summit/#best?utm_source=superagi&utm_medium=email&utm_campaign=177127&ext_user_id=525f5fc2&ctrkid=28e3670e31c). <br> -->
 <!-- <code>2024.2</code> One [paper](https://ieeexplore.ieee.org/document/10453595) is accepted by TPAMI-2024. <br>
 <code>2024.1</code> I am servering as Area Chair for IEEE-CAI-2024. <br>  -->
 <!-- <code>2023.10</code> Our [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry) is accepted by EMNLP-2023. <br> 
@@ -104,16 +107,17 @@ Awesome Repos
 
 Selected Research
 ------
-* **Consistency Training and Dropout**
-  * [R-Drop](https://arxiv.org/pdf/2106.14448.pdf) (sub-model consistency)
-  * [UniDrop](https://aclanthology.org/2021.naacl-main.302.pdf) (unified dropout)
-  * [JANUS](https://aclanthology.org/2022.emnlp-main.550/) (NAT&AT consistency)
+* **AI/LLM**
+  * [R-Drop](https://arxiv.org/pdf/2106.14448.pdf), [UniDrop](https://aclanthology.org/2021.naacl-main.302.pdf) (unified dropout) (dropout and sub-model consistency)
+  * [RL4NMT](http://aclweb.org/anthology/D18-1397) (the first RL for NMT survey, early version of RLHF), [BERT-NMT](https://openreview.net/pdf?id=Hyl7ygStwB) (BERT for NMT), [Mono-NMT](https://www.aclweb.org/anthology/D19-1430.pdf) (the first large scale monolingual data for NMT)
+  <!-- * [UniDrop](https://aclanthology.org/2021.naacl-main.302.pdf) (unified dropout) -->
+  <!-- * [JANUS](https://aclanthology.org/2022.emnlp-main.550/) (NAT&AT consistency) -->
   <!-- * [R^2-DDI]() (drug-drug interaction consistency) -->
   <!-- * [C^2-Rec](https://arxiv.org/pdf/2112.06668.pdf) (recommendation consistency) -->
-* **LLM for Science/Drug Discovery**
-  * [BioT5](https://arxiv.org/pdf/2310.07276.pdf), [BioT5+](https://arxiv.org/abs/2402.17810) (pre-trained large language model for bio-chemistry)
-  * [FABind](https://openreview.net/pdf?id=PnWakgg1RL), [FABind+](https://arxiv.org/pdf/2403.20261) (Fast and Accurate for Protein-Ligand Binding)
-  * [AbGNN](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.14.516404.full.pdf) (pre-training for antibody design)
+* **AI/LLM4Science**
+  * [BioT5](https://arxiv.org/pdf/2310.07276.pdf), [BioT5+](https://arxiv.org/abs/2402.17810), [3D-MolT5](https://arxiv.org/pdf/2406.05797) (pre-trained LLLM for bio-chemistry)
+  * [FABind](https://openreview.net/pdf?id=PnWakgg1RL), [FABind+](https://arxiv.org/pdf/2403.20261), [FABFlex]() (Fast and Accurate for Protein-Ligand Binding)
+  <!-- * [AbGNN](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.14.516404.full.pdf) (pre-training for antibody design) -->
   <!-- * [R^2-DDI]() (drug-drug interaction consistency) -->
   <!-- * [C^2-Rec](https://arxiv.org/pdf/2112.06668.pdf) (recommendation consistency) -->
 <!-- * **Drug Discovery** -->
@@ -124,10 +128,10 @@ Selected Research
   <!-- * [BioT5](https://arxiv.org/pdf/2310.07276.pdf) (pre-trained large language model for bio-chemistry) -->
   <!-- * [SMT-DTA](https://arxiv.org/pdf/2206.09818.pdf) (semi-supervised drug-target affinity prediction) -->
   <!-- * [AbGNN](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.14.516404.full.pdf) (pre-training for antibody design) -->
-* **Neural Machine Translation**
-  * [RL4NMT](http://aclweb.org/anthology/D18-1397) (the first RL for NMT survey)
-  * [NAT beyond](https://arxiv.org/pdf/2204.09269.pdf) (a comprehensive study of NAT and beyond)
-  * [BERT-NMT](https://openreview.net/pdf?id=Hyl7ygStwB) (BERT for NMT)
+<!-- * **Neural Machine Translation** -->
+  <!-- * [RL4NMT](http://aclweb.org/anthology/D18-1397) (the first RL for NMT survey) -->
+  <!-- * [NAT beyond](https://arxiv.org/pdf/2204.09269.pdf) (a comprehensive study of NAT and beyond) -->
+  <!-- * [BERT-NMT](https://openreview.net/pdf?id=Hyl7ygStwB) (BERT for NMT)  -->
   <!-- * [ANMT](http://proceedings.mlr.press/v95/wu18a/wu18a.pdf) (adversarial NMT) -->
   <!-- * [SCA](https://arxiv.org/pdf/1905.10523.pdf) (soft contextual data augmentation) -->
   <!-- * [Mono-NMT](https://www.aclweb.org/anthology/D19-1430.pdf) (large scale monolingual data for NMT) -->
