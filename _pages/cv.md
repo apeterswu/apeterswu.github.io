@@ -31,7 +31,7 @@ Experience
 * Research Intern, AI Group, MSRA, 07/2014-07/2015
   <!-- * Mentor: [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) -->
   
-Honors
+Honors/Awards
 ======
 * 1st place in Text-based Molecule Generation and 2nd place in Molecular Captioning on [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared task, 2024
 * [Runner up](https://ogb.stanford.edu/kddcup2021/results/#final_pcqm4m) of OGB-LSC @ KDD cup, 2021, [Solution](https://github.com/TransfromerMeetsGraph/GNNLearner)
@@ -48,16 +48,16 @@ Honors
 
 Activities
 ======
-* SPC/AC: ACL-21/22/23/24, EMNLP-23/24, AAAI-22/23/24/25, CAI-24, EACL-24, NNACL-22/23, COLING-23, IJCAI-21, ARR-21/22/23/24
+* SPC/AC: NeurIPS-25, AAAI-22/23/24/25/26, ACL-21/22/23/24/25, EMNLP-23/24/25, NNACL-22/23/24/25, EACL-24, COLING-23, IJCAI-21, ARR-21/22/23/24/25
 * Conference reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, KDD, NAACL, COLING, EACL, AACL
 * Journal reviewers: TPAMI, TASLP, KBS, Neurocomputing, CSL
 
-Talks
+<!-- Talks
 ======
 * [用于序列生成的推敲网络](https://www.msra.cn/zh-cn/news/features/nips17-online-sharing-lijun-wu-20171206), 2017.12
 * [神经机器翻译中的强化学习](https://zhuanlan.zhihu.com/p/41960810), 2018.8
 * Exploring the Technical Innovations behind ChatGPT: From NLP to Reinforcement Learning, 2023.3
-* [The Impact of LLMs on Scientific Discovery: a Preliminary Study using GPT-4](https://superagi.com/agi-leap-summit/#best?utm_source=superagi&utm_medium=email&utm_campaign=177127&ext_user_id=525f5fc2&ctrkid=28e3670e31c), 2024.2
+* [The Impact of LLMs on Scientific Discovery: a Preliminary Study using GPT-4](https://superagi.com/agi-leap-summit/#best?utm_source=superagi&utm_medium=email&utm_campaign=177127&ext_user_id=525f5fc2&ctrkid=28e3670e31c), 2024.2 -->
 
 <!-- Publications
 ======

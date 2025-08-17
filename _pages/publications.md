@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %} -->
 ------
 (*=equal contribution, #=corresponding)
+Check the full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=RD5kSG0AAAAJ)
 
 Preprints
 ======
@@ -45,6 +46,13 @@ Journals
 
 Conferences
 ======
+* Yangzhe Peng, Kaiyuan Gao, Liang He, Yuheng Cong, Haiguang Liu, Kun He, **Lijun Wu\#**, [CovDocker: Benchmarking Covalent Drug Design with Tasks, Datasets, and Solutions](https://dl.acm.org/doi/abs/10.1145/3711896.3736896), In the 31st SIGKDD Conference on Knowledge Discovery and Data Mining (***KDD-2025***). 
+* Yu Li, Qizhi Pei, Mengyuan Sun, Honglin Lin, Chenlin Ming, Xin Gao, Jiang Wu, Conghui He, **Lijun Wu\#**, [Cipherbank: Exploring the boundary of llm reasoning capabilities through cryptography challenges](https://arxiv.org/pdf/2504.19093), In 63rd Annual Meeting of the Association for Computational Linguistics (***ACL-2025***).
+* Xin Gao, Qizhi Pei, Zinan Tang, Yu Li, Honglin Lin, Jiang Wu, Conghui He, **Lijun Wu\#**, [A Strategic Coordination Framework of Small LLMs Matches Large LLMs in Data Synthesis](https://arxiv.org/pdf/2504.12322?), In 63rd Annual Meeting of the Association for Computational Linguistics (***ACL-2025***).
+* Zhuoshi Pan, Yu Li, Honglin Lin, Qizhi Pei, Zinan Tang, Wei Wu, Chenlin Ming, H Vicky Zhao, Conghui He, **Lijun Wu\#**, [Lemma: Learning from errors for mathematical advancement in llms](https://arxiv.org/pdf/2503.17439), In 63rd Annual Meeting of the Association for Computational Linguistics (***ACL-2025***).
+* Qizhi Pei, **Lijun Wu\#**, Zhuoshi Pan, Yu Li, Honglin Lin, Chenlin Ming, Xin Gao, Conghui He, Rui Yan, [Mathfusion: Enhancing mathematic problem-solving of llm through instruction fusion](https://arxiv.org/pdf/2503.16212), In 63rd Annual Meeting of the Association for Computational Linguistics (***ACL-2025***).
+* Qizhi Pei, **Lijun Wu\#**, Kaiyuan Gao, Jinhua Zhu, Rui Yan, [3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization](https://openreview.net/forum?id=eGqQyTAbXC), In the Thirteenth International Conference on Learning Representations (***ICLR-2025***).
+* Zizhuo Zhang, **Lijun Wu\#**, Kaiyuan Gao, Jiangchao Yao, Tao Qin, Bo Han, [Fast and Accurate Blind Flexible Docking](https://arxiv.org/pdf/2502.14934), In the Thirteenth International Conference on Learning Representations (***ICLR-2025***).
 * Zun Wang, Chang Liu, Nianlong Zou, He Zhang, Xinran Wei, Lin Huang, **Lijun Wu**, Bin Shao, [Infusing Self-Consistency into Density Functional Theory Hamiltonian Prediction via Deep Equilibrium Models](https://arxiv.org/abs/2406.03794), In The Thirty-eighth Annual Conference on Neural Information Processing Systems (***NeruIPS-2024***).
 * Lei Shen, Zhenheng Tang, **Lijun Wu**, Yonggang Zhang, Xiaowen Chu, Tao Qin, Bo Han, [Hot Pluggable Federated Learning](https://openreview.net/pdf?id=FazIrAXoM6), In International Workshop on Federated Foundation Models In Conjunction with NeurIPS 2024 (***FL@FM-NeurIPS2024***) (<span style="color:red">Outstanding Student Paper Award, Oral</span>).
 * Chang Ma, Haiteng Zhao, Lin Zheng, Jiayi Xin, Qintong Li, **Lijun Wu**, Zhihong Deng, Yang Lu, Qi Liu, Sheng Wang, Lingpeng Kong, [Retrieved Sequence Augmentation for Protein Representation Learning](https://aclanthology.org/2024.emnlp-main.104/), In 2024 Conference on Empirical Methods in Natural Language Processing (***EMNLP-2024***).

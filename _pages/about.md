@@ -14,45 +14,39 @@ About me
 ------
 <strong>Keep Learning & Be Positive!</strong>
 
-Lijun Wu is a Young Scientist/Researcher in [Shanghai AI Laboratory](https://www.shlab.org.cn/). Previously, he was a Research Scientist in [ByteDance](https://www.bytedance.com/en/), a Senior Researcher in [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/). 
-He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), [School of Data and Computer Science](http://sdcs.sysu.edu.cn/), and was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and [Prof. Jianhuang Lai](http://sdcs.sysu.edu.cn/content/2498). He was honored to be awarded with [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows). His team has won 8 champions in [WMT19 machine translation competition](http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27). 
+Lijun Wu is a Researcher in [Shanghai AI Laboratory](https://www.shlab.org.cn/). Previously, he was a Research Scientist in [ByteDance](https://www.bytedance.com/en/), a Senior Researcher in [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/). 
+He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), and was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.bjzgca.edu.cn/teacher/e4bebfc09b254c6f8db87ceacea3b4d2?type=lead) and [Prof. Jianhuang Lai](https://cse.sysu.edu.cn/teacher/LaiJianhuang). 
+<!-- He was honored to be awarded with [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows). His team has won 8 champions in [WMT19 machine translation competition](http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27).  -->
 
-His research interests are on **AI/Large Language Model** (e.g., AI4data, SFT, post-training), **AI4Science** (e.g., LLM4Science, Drug Discovery). He has rich experiences on neural machine translation. He has published many papers in top conferences and journals, such as ICLR, NeurIPS, ACL, TPAMI. He has served as AC/SPC in toptier conferences, e.g., ACL, EMNLP, NAACL, AAAI, IJCAI and so on.
+His research interests are on **AI/LLMs** (e.g., data-centric intelligence, SFT/RL), **AI4Science** (e.g., LLM4Science, scientific reasoning). His research works are published in top conferences and journals, such as Nature Communications, Nature Machine Intelligence, TPAMI, NeurIPS, ICML, ICLR, ACL, KDD and so on. He has served as AC/SPC in top conferences, e.g., NeurIPS, ACL, EMNLP, NAACL, AAAI, IJCAI and so on.
 
 <!-- You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/research/people/lijuwu/). -->
 
-***We are hiring AI researchers working on LLM and AI4Science, drop me an email if you are interested!***
+***We are hiring AI researchers working on LLM/MLLM and AI4Science, contact me if you are interested!***
 <!-- **Feel free to contact for possible collobaration! I am always looking for highly self-motivated research interns.** -->
 
 
-Highlights
-------
-* [MSRA Ph.D. Fellowship]((https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows)) in 2018 (12 in Asia-Pacific Universities)
-* First [human parity achieved](https://news.microsoft.com/en-nz/2018/03/16/microsoft-reaches-a-historic-milestone-using-ai-to-match-human-performance-in-translating-news-from-chinese-to-english/) in Chinese-English machine translation system in 2018 
-* [WMT 2019]((http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27)) champion in 8 translation directions
-* [OGB-LSC@KDD cup]((https://ogb.stanford.edu/kddcup2021/results/#final_pcqm4m)) 2021 Runner up
-* 1st/2nd in [Language+Molecule@ACL2024]((https://language-plus-molecules.github.io/#leaderboard)) shared tasks!
-* (Tech Transfer) [R-Drop](https://proceedings.neurips.cc/paper_files/paper/2021/file/5a66b9200f29ac3fa0ae244cc2a51b39-Paper.pdf) successfully applied over 20+ language translations in Microsoft Translator, Meituan products
-* (Tech Transfer) [CTRec](https://dl.acm.org/doi/abs/10.1145/3580305.3599798) successfully applied in Tencent news recommendation
-
-
-<!-- ------ -->
-
 News
 ------
+🔥<code>2025.7</code> Our [μFormer](https://www.biorxiv.org/content/10.1101/2023.11.16.565910v1.full.pdf) is accepted by Nature Machine Intelligence! <br>
 🔥<code>2024.11</code> Our [TamGen](https://www.nature.com/articles/s41467-024-53632-4) is accepted by Nature Communications! <br>
 🔥<code>2024.7</code> Super excited that our BioT5+ achieves 1st/2nd in [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared tasks! <br>
-🔥<code>2024.3</code> We have released an [AI4Science Research Project page](https://ai4sci-research.github.io/) with multiple different research projects, check it if you are interested! <br>
-<code>2025.1</code> Three papers are accepted by ICLR-2025, including [FABFlex](), the extension of FABind/FABind+ to the flexible docking scenario; [3D-MolT5](https://arxiv.org/pdf/2406.05797), the extension of BioT5/BioT5+ in 3D molecular space . <br>
-<code>2025.1</code> One paper about LLM Hallucination is accepted by NAACL-2025 Findings. <br>
-<code>2024.12</code> Our [FABind+](https://arxiv.org/abs/2402.17810), a much stronger extension of [FABind](https://openreview.net/pdf?id=PnWakgg1RL) is accepted by KDD-2025. <br>
+<code>2025.7</code> I am honered to serve as Area Chair for NeurIPS-2025 workshop AI4Science and workhsop SEA. <br>
+<code>2025.7</code> I am honered to serve as Area Chair for AAAI-2026. <br>
+<code>2025.6</code> Our [CovDocker](https://dl.acm.org/doi/abs/10.1145/3711896.3736896) is accepted by KDD-2025. <br>
+<code>2025.5</code> 6 papers are accepted by ACL-2025, topics cover math reasoning, data synthesis and LLM benchmarks. Check [Mathfusion](https://arxiv.org/abs/2503.16212), [GRA](https://arxiv.org/pdf/2504.12322?), [Lemma](https://arxiv.org/pdf/2503.17439), [CipherBank](https://arxiv.org/pdf/2504.19093).<br>
+<code>2025.3</code> I am honered to serve as Area Chair for NeurIPS-2025.<br>
+<code>2025.3</code> Our [NatureLM](https://arxiv.org/abs/2502.07527), a large scientific foundation model, is released. <br>
+<code>2025.1</code> 3 papers are accepted by ICLR-2025, including [FABFlex](https://openreview.net/forum?id=iezDdA9oeB), the extension of FABind/FABind+ to the flexible docking scenario; [3D-MolT5](https://arxiv.org/pdf/2406.05797), the extension of BioT5/BioT5+ in 3D molecular space. <br>
+<!-- <code>2025.1</code> One paper about LLM Hallucination is accepted by NAACL-2025 Findings. <br> -->
+<!-- <code>2024.12</code> Our [FABind+](https://arxiv.org/abs/2402.17810), a much stronger extension of [FABind](https://openreview.net/pdf?id=PnWakgg1RL) is accepted by KDD-2025. <br>
 <code>2024.10</code> Congratulation that [Hot Pluggable Federated Learning](https://openreview.net/pdf?id=FazIrAXoM6) is selected as Outstanding Student Paper Award by the FL@FM-NeurIPS'24 workshop! <br>
-<code>2024.10</code> I am honered to serve as Area Chair for AAAI-2025 AI4Science workshop. <br>
-<code>2024.9</code> One [paper](https://aclanthology.org/2024.emnlp-main.104/) about protein sequence representation learning is accepted by EMNLP-2024. <br>
-<code>2024.9</code> One [paper](https://arxiv.org/abs/2406.03794) about quantum hamiltonian prediction is accepted by NeurIPS-2024. <br>
+<code>2024.10</code> I am honered to serve as Area Chair for AAAI-2025 AI4Science workshop. <br> -->
+<!-- <code>2024.9</code> One [paper](https://aclanthology.org/2024.emnlp-main.104/) about protein sequence representation learning is accepted by EMNLP-2024. <br> -->
+<!-- <code>2024.9</code> One [paper](https://arxiv.org/abs/2406.03794) about quantum hamiltonian prediction is accepted by NeurIPS-2024. <br>
 <code>2024.9</code> One [paper](https://openreview.net/pdf?id=FazIrAXoM6) about federated learning is accepted as Oral presentation by the FL@FM-NeurIPS'24 workshop! <br>
-<code>2024.7</code> Our [solution](https://aclanthology.org/2024.langmol-1.6/) about the champion in Language+Molecule@ACL2024 shared task is accepted as Oral presentation! <br>
-<code>2024.7</code> Our [kNN-DTA](https://arxiv.org/abs/2407.15202) about drug-target affinity prediction is accepted by CIKM-2024. <br>
+<code>2024.7</code> Our [solution](https://aclanthology.org/2024.langmol-1.6/) about the champion in Language+Molecule@ACL2024 shared task is accepted as Oral presentation! <br> -->
+<!-- <code>2024.7</code> Our [kNN-DTA](https://arxiv.org/abs/2407.15202) about drug-target affinity prediction is accepted by CIKM-2024. <br> -->
 <!-- <code>2024.6</code> I am honered to serve as SPC for AAAI-2025. <br>
 <code>2024.6</code> The [slides](https://liip.kust.edu.cn/yssnlp/date.html) of my talk on LLM4Science when attening YSSNLP 2024 is released. <br>
 <code>2024.5</code> Our [BioT5+](https://arxiv.org/abs/2402.17810) is accepted by ACL-2024 Findings. <br>
@@ -61,6 +55,7 @@ News
 <code>2024.5</code> I am honered to serve as Area Chair for ACL-2024 Language and Molecules workshop. <br>
 <code>2024.5</code> I am honered to serve as Area Chair for EMNLP-2024. <br>
 <code>2024.4</code> Our [FABind+](https://arxiv.org/abs/2402.17810), a much stronger extension of [FABind](https://openreview.net/pdf?id=PnWakgg1RL) is released. <br>
+<code>2024.3</code> We have released an [AI4Science Research Project page](https://ai4sci-research.github.io/) with multiple different research projects, check it if you are interested! <br>
 <code>2024.3</code> Our [BioT5+](https://arxiv.org/abs/2402.17810), a much stronger extension of [BioT5](https://arxiv.org/pdf/2310.07276.pdf) is released. <br>
 <code>2024.2</code> I am honered to give a talk about the LLM in Science Discovery at [AGI Leap Summit 2024](https://superagi.com/agi-leap-summit/#best?utm_source=superagi&utm_medium=email&utm_campaign=177127&ext_user_id=525f5fc2&ctrkid=28e3670e31c). <br> -->
 <!-- <code>2024.2</code> One [paper](https://ieeexplore.ieee.org/document/10453595) is accepted by TPAMI-2024. <br>
@@ -93,22 +88,28 @@ News
 <!-- 03/11/2021  Our paper "[UniDrop](/publication/2021_naacl_unidrop)" is accepted by NAACL-2021. <br> -->
 <!-- 01/14/2021  Our paper "[IOT](/publication/2021_iclr_iot)" is accepted by ICLR-2021. <br> -->
 
-Surveys/Reports
-------
-🔥<code>2024.3</code> We have released a comprehensive survey about [Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528). Check it! <br>
-🔥<code>2023.11</code> We have released a report on [Large Language Models (GPT-4) on Scienctific Discovery](https://arxiv.org/pdf/2311.07361.pdf), check it! <br>
-🔥<code>2022.4</code> We have released a comprehensive survey about [Non-Autoregressive Generation for Neural Machine Translation and Beyond](https://arxiv.org/pdf/2204.09269.pdf). Check it! <br>
 
-Awesome Repos
+
+
+Highlights
 ------
-* [Awesome-Biomolecule-Language-Cross-Modeling](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling) [![Stars](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?color=yellow&style=social)](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling)
-* [Awesome-Bio-Foundation-Models](https://github.com/apeterswu/Awesome-Bio-Foundation-Models) [![Stars](https://img.shields.io/github/stars/apeterswu/Awesome-Bio-Foundation-Models?color=yellow&style=social)](https://github.com/apeterswu/Awesome-Bio-Foundation-Models)
-* [Awesome-Docking](https://github.com/KyGao/awesome-docking) [![Stars](https://img.shields.io/github/stars/KyGao/awesome-docking?color=yellow&style=social)](https://github.com/KyGao/awesome-docking)
+* [MSRA Ph.D. Fellowship]((https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows)) in 2018 (12 in Asia-Pacific Universities)
+* First [human parity achieved](https://news.microsoft.com/en-nz/2018/03/16/microsoft-reaches-a-historic-milestone-using-ai-to-match-human-performance-in-translating-news-from-chinese-to-english/) in Chinese-English machine translation system in 2018 
+* [WMT 2019]((http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27)) champion in 8 translation directions
+* [OGB-LSC@KDD cup]((https://ogb.stanford.edu/kddcup2021/results/#final_pcqm4m)) 2021 Runner up
+* 1st/2nd in [Language+Molecule@ACL2024]((https://language-plus-molecules.github.io/#leaderboard)) shared tasks!
+* (Tech Transfer) [R-Drop](https://proceedings.neurips.cc/paper_files/paper/2021/file/5a66b9200f29ac3fa0ae244cc2a51b39-Paper.pdf) successfully applied over 20+ language translations in Microsoft Translator, Meituan products
+* (Tech Transfer) [CTRec](https://dl.acm.org/doi/abs/10.1145/3580305.3599798) successfully applied in Tencent news recommendation
+
+
 
 Selected Research
 ------
-* **AI/LLM**
-  * [R-Drop](https://arxiv.org/pdf/2106.14448.pdf), [UniDrop](https://aclanthology.org/2021.naacl-main.302.pdf) (unified dropout) (dropout and sub-model consistency)
+* **LLM**
+  * [Mathfusion](https://arxiv.org/pdf/2503.16212), [Lemma](https://arxiv.org/pdf/2503.17439), [CipherBank](https://arxiv.org/pdf/2504.19093) (LLM reasoning), [DCRL](https://arxiv.org/pdf/2507.17512) (data-centric LLM reasoning)
+  * [RGA](ttps://arxiv.org/pdf/2504.12322?) (advaned data synthesis)
+* **AI/NMT**
+  * [R-Drop](https://arxiv.org/pdf/2106.14448.pdf) (dropout and sub-model consistency), [UniDrop](https://aclanthology.org/2021.naacl-main.302.pdf) (unified dropout), [CT4Rec](https://dl.acm.org/doi/abs/10.1145/3580305.3599798) (consistency training for recommendation)
   * [RL4NMT](http://aclweb.org/anthology/D18-1397) (the first RL for NMT survey, early version of RLHF), [BERT-NMT](https://openreview.net/pdf?id=Hyl7ygStwB) (BERT for NMT), [Mono-NMT](https://www.aclweb.org/anthology/D19-1430.pdf) (the first large scale monolingual data for NMT)
   <!-- * [UniDrop](https://aclanthology.org/2021.naacl-main.302.pdf) (unified dropout) -->
   <!-- * [JANUS](https://aclanthology.org/2022.emnlp-main.550/) (NAT&AT consistency) -->
@@ -135,6 +136,24 @@ Selected Research
   <!-- * [ANMT](http://proceedings.mlr.press/v95/wu18a/wu18a.pdf) (adversarial NMT) -->
   <!-- * [SCA](https://arxiv.org/pdf/1905.10523.pdf) (soft contextual data augmentation) -->
   <!-- * [Mono-NMT](https://www.aclweb.org/anthology/D19-1430.pdf) (large scale monolingual data for NMT) -->
+
+
+
+Surveys/Reports
+------
+🔥<code>2024.3</code> We have released a comprehensive survey about [Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528). Check it! <br>
+🔥<code>2023.11</code> We have released a comprehensive report on [Large Language Models (GPT-4) on Scienctific Discovery](https://arxiv.org/pdf/2311.07361.pdf). Check it! <br>
+🔥<code>2022.4</code> We have released a comprehensive survey about [Non-Autoregressive Generation for Neural Machine Translation and Beyond](https://arxiv.org/pdf/2204.09269.pdf). Check it! <br>
+
+
+
+Awesome Repos
+------
+* [Awesome-Biomolecule-Language-Cross-Modeling](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling) [![Stars](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?color=yellow&style=social)](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling)
+* [Awesome-Bio-Foundation-Models](https://github.com/apeterswu/Awesome-Bio-Foundation-Models) [![Stars](https://img.shields.io/github/stars/apeterswu/Awesome-Bio-Foundation-Models?color=yellow&style=social)](https://github.com/apeterswu/Awesome-Bio-Foundation-Models)
+* [Awesome-Docking](https://github.com/KyGao/awesome-docking) [![Stars](https://img.shields.io/github/stars/KyGao/awesome-docking?color=yellow&style=social)](https://github.com/KyGao/awesome-docking)
+
+
 
 ------
 
