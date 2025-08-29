@@ -101,7 +101,7 @@ Highlights
 * [OGB-LSC@KDD cup]((https://ogb.stanford.edu/kddcup2021/results/#final_pcqm4m)) 2021 Runner up
 * 1st/2nd in [Language+Molecule@ACL2024]((https://language-plus-molecules.github.io/#leaderboard)) shared tasks!
 * (Tech Transfer) [R-Drop](https://proceedings.neurips.cc/paper_files/paper/2021/file/5a66b9200f29ac3fa0ae244cc2a51b39-Paper.pdf) successfully applied over 20+ language translations in Microsoft Translator, Meituan products
-* (Tech Transfer) [CTRec](https://dl.acm.org/doi/abs/10.1145/3580305.3599798) successfully applied in Tencent news recommendation
+* (Tech Transfer) [CT4Rec](https://dl.acm.org/doi/abs/10.1145/3580305.3599798) successfully applied in Tencent news recommendation
 
 
 
