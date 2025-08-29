@@ -18,7 +18,7 @@ Lijun Wu is a Researcher in [Shanghai AI Laboratory](https://www.shlab.org.cn/).
 He got the Ph.D. degree from [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), and was a member of [joint Ph.D. program](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) between SYSU and MSRA, advised by [Dr. Tie-Yan Liu](https://www.bjzgca.edu.cn/teacher/e4bebfc09b254c6f8db87ceacea3b4d2?type=lead) and [Prof. Jianhuang Lai](https://cse.sysu.edu.cn/teacher/LaiJianhuang). 
 <!-- He was honored to be awarded with [MSRA Ph.D. Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows). His team has won 8 champions in [WMT19 machine translation competition](http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27).  -->
 
-His research interests are on **AI/LLMs** (e.g., data-centric intelligence, SFT/RL), **AI4Science** (e.g., LLM4Science, scientific reasoning). His research works are published in top conferences and journals, such as Nature Communications, Nature Machine Intelligence, TPAMI, NeurIPS, ICML, ICLR, ACL, KDD and so on. He has served as AC/SPC in top conferences, e.g., NeurIPS, ACL, EMNLP, NAACL, AAAI, IJCAI and so on.
+His research interests are on **AI/LLMs** (e.g., data-centric intelligence, SFT/RL), **AI4Science** (e.g., LLM4Science, scientific reasoning). His research works are published in top conferences and journals, such as Nature Communications, Nature Machine Intelligence, TPAMI, NeurIPS, ICML, ICLR, ACL, KDD and so on. He has served as AC/SPC in top conferences, e.g., ICLR, NeurIPS, ACL, EMNLP, NAACL, AAAI, IJCAI and so on.
 
 <!-- You can also refer to the [Microsoft Page](https://www.microsoft.com/en-us/research/people/lijuwu/). -->
 
@@ -31,6 +31,8 @@ News
 🔥<code>2025.7</code> Our [μFormer](https://www.biorxiv.org/content/10.1101/2023.11.16.565910v1.full.pdf) is accepted by Nature Machine Intelligence! <br>
 🔥<code>2024.11</code> Our [TamGen](https://www.nature.com/articles/s41467-024-53632-4) is accepted by Nature Communications! <br>
 🔥<code>2024.7</code> Super excited that our BioT5+ achieves 1st/2nd in [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared tasks! <br>
+<code>2025.8</code> 3 papers are accepted by EMNLP-2025,topics cover math reasoning and advanced data synthesis. Check [CFT](https://arxiv.org/pdf/2506.03295), [MetaLadder](https://arxiv.org/pdf/2503.14891), [Middo](). <br>
+<code>2025.8</code> I am honered to serve as Area Chair for ICLR-2026. <br>
 <code>2025.7</code> I am honered to serve as Area Chair for NeurIPS-2025 workshop AI4Science and workhsop SEA. <br>
 <code>2025.7</code> I am honered to serve as Area Chair for AAAI-2026. <br>
 <code>2025.6</code> Our [CovDocker](https://dl.acm.org/doi/abs/10.1145/3711896.3736896) is accepted by KDD-2025. <br>
@@ -106,11 +108,11 @@ Highlights
 Selected Research
 ------
 * **LLM**
-  * [Mathfusion](https://arxiv.org/pdf/2503.16212), [Lemma](https://arxiv.org/pdf/2503.17439), [CipherBank](https://arxiv.org/pdf/2504.19093) (LLM reasoning), [DCRL](https://arxiv.org/pdf/2507.17512) (data-centric LLM reasoning)
-  * [RGA](ttps://arxiv.org/pdf/2504.12322?) (advaned data synthesis)
+  * [Mathfusion](https://arxiv.org/pdf/2503.16212), [Lemma](https://arxiv.org/pdf/2503.17439), [MeteLadder](https://arxiv.org/pdf/2503.14891), [DCRL](https://arxiv.org/pdf/2507.17512) (data-centric LLM reasoning)
+  * [RAG](ttps://arxiv.org/pdf/2504.12322?), [Middo]() (advaned data synthesis)
 * **AI/NMT**
-  * [R-Drop](https://arxiv.org/pdf/2106.14448.pdf) (dropout and sub-model consistency), [UniDrop](https://aclanthology.org/2021.naacl-main.302.pdf) (unified dropout), [CT4Rec](https://dl.acm.org/doi/abs/10.1145/3580305.3599798) (consistency training for recommendation)
-  * [RL4NMT](http://aclweb.org/anthology/D18-1397) (the first RL for NMT survey, early version of RLHF), [BERT-NMT](https://openreview.net/pdf?id=Hyl7ygStwB) (BERT for NMT), [Mono-NMT](https://www.aclweb.org/anthology/D19-1430.pdf) (the first large scale monolingual data for NMT)
+  * [R-Drop](https://arxiv.org/pdf/2106.14448.pdf), [UniDrop](https://aclanthology.org/2021.naacl-main.302.pdf), [CT4Rec](https://dl.acm.org/doi/abs/10.1145/3580305.3599798) (dropout and consistency training)
+  * [RL4NMT](http://aclweb.org/anthology/D18-1397), [BERT-NMT](https://openreview.net/pdf?id=Hyl7ygStwB), [Mono-NMT](https://www.aclweb.org/anthology/D19-1430.pdf) (neural machine translation)
   <!-- * [UniDrop](https://aclanthology.org/2021.naacl-main.302.pdf) (unified dropout) -->
   <!-- * [JANUS](https://aclanthology.org/2022.emnlp-main.550/) (NAT&AT consistency) -->
   <!-- * [R^2-DDI]() (drug-drug interaction consistency) -->
