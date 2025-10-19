@@ -23,12 +23,12 @@ Experience
 ======
 * Research Scientist, ByteDance, 05/2024-08/2024
 * Senior Researcher, MSR AI4Science, 07/2022-05/2024
-* Senoir Researcher/Researcher, ML Group, MSRA, 06/2020-07/2022
-* Research Intern, ML Group, MSRA, 01/2019-06/2020
+* Senoir Researcher, ML Group, MSRA, 06/2020-07/2022
+* Research Intern, ML Group, MSRA, 07/2014-06/2020
   <!-- * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/) -->
-* Research Intern, ML Group, MSRA, 06/2016-10/2018
+<!-- * Research Intern, ML Group, MSRA, 06/2016-10/2018 -->
   <!-- * Mentor: [Dr. Tao Qin](http://research.microsoft.com/en-us/people/taoqin/), [Dr. Fei Tian](https://ustctf.github.io/) -->
-* Research Intern, AI Group, MSRA, 07/2014-07/2015
+<!-- * Research Intern, AI Group, MSRA, 07/2014-07/2015 -->
   <!-- * Mentor: [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) -->
   
 Honors/Awards
@@ -48,7 +48,8 @@ Honors/Awards
 
 Activities
 ======
-* SPC/AC: ICLR-25, NeurIPS-25, AAAI-22/23/24/25/26, ACL-21/22/23/24/25, EMNLP-23/24/25, NNACL-22/23/24/25, EACL-24, COLING-23, IJCAI-21, ARR-21/22/23/24/25
+* AC: ICLR-26, NeurIPS-25, ACL-21/22/23/24/25, EMNLP-23/24/25, NNACL-22/23/24/25, EACL-24, COLING-23, ARR-21/22/23/24/25
+* SPC: AAAI-22/23/24/25/26, IJCAI-21
 * Conference reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, KDD, NAACL, COLING, EACL, AACL
 * Journal reviewers: TPAMI, TASLP, KBS, Neurocomputing, CSL
 

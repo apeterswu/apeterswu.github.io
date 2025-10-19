@@ -28,25 +28,26 @@ His research interests are on **AI/LLMs** (e.g., data-centric intelligence, SFT/
 
 News
 ------
-🔥<code>2025.7</code> Our [μFormer](https://www.biorxiv.org/content/10.1101/2023.11.16.565910v1.full.pdf) is accepted by Nature Machine Intelligence! <br>
-🔥<code>2024.11</code> Our [TamGen](https://www.nature.com/articles/s41467-024-53632-4) is accepted by Nature Communications! <br>
-🔥<code>2024.7</code> Super excited that our BioT5+ achieves 1st/2nd in [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared tasks! <br>
-<code>2025.8</code> 3 papers are accepted by EMNLP-2025,topics cover math reasoning and advanced data synthesis. Check [CFT](https://arxiv.org/pdf/2506.03295), [MetaLadder](https://arxiv.org/pdf/2503.14891), [Middo](). <br>
-<code>2025.8</code> I am honered to serve as Area Chair for ICLR-2026. <br>
-<code>2025.7</code> I am honered to serve as Area Chair for NeurIPS-2025 workshop AI4Science and workhsop SEA. <br>
-<code>2025.7</code> I am honered to serve as Area Chair for AAAI-2026. <br>
-<code>2025.6</code> Our [CovDocker](https://dl.acm.org/doi/abs/10.1145/3711896.3736896) is accepted by KDD-2025. <br>
+<code>2025.9</code> [Caco](https://arxiv.org/pdf/2510.04081) is accepted by NeurIPS-2025, which aims to scaling the reasoning data by code-assisted verfications. <br>
+<code>2025.8</code> 3 papers are accepted by EMNLP-2025,topics cover math reasoning and advanced data synthesis. Check [CFT](https://arxiv.org/pdf/2506.03295), [MetaLadder](https://arxiv.org/pdf/2503.14891), [Middo](https://arxiv.org/pdf/2508.21589). <br>
+<code>2025.8</code> Invited to serve as Area Chair for ICLR-2026. <br>
+<code>2025.7</code> [μFormer](https://www.nature.com/articles/s42256-025-01103-w) is accepted by Nature Machine Intelligence! <br>
+<code>2025.7</code> Invited to serve as Area Chair for NeurIPS-2025 workshop AI4Science and SEA. <br>
+<code>2025.7</code> Invited to serve as Area Chair for AAAI-2026. <br>
+<code>2025.6</code> [CovDocker](https://dl.acm.org/doi/abs/10.1145/3711896.3736896) is accepted by KDD-2025. <br>
 <code>2025.5</code> 6 papers are accepted by ACL-2025, topics cover math reasoning, data synthesis and LLM benchmarks. Check [Mathfusion](https://arxiv.org/abs/2503.16212), [GRA](https://arxiv.org/pdf/2504.12322?), [Lemma](https://arxiv.org/pdf/2503.17439), [CipherBank](https://arxiv.org/pdf/2504.19093).<br>
-<code>2025.3</code> I am honered to serve as Area Chair for NeurIPS-2025.<br>
-<code>2025.3</code> Our [NatureLM](https://arxiv.org/abs/2502.07527), a large scientific foundation model, is released. <br>
+<code>2025.3</code> Invited to serve as Area Chair for NeurIPS-2025.<br>
+<code>2025.3</code> [NatureLM](https://arxiv.org/abs/2502.07527), a large scientific foundation model, is released. <br>
 <code>2025.1</code> 3 papers are accepted by ICLR-2025, including [FABFlex](https://openreview.net/forum?id=iezDdA9oeB), the extension of FABind/FABind+ to the flexible docking scenario; [3D-MolT5](https://arxiv.org/pdf/2406.05797), the extension of BioT5/BioT5+ in 3D molecular space. <br>
 <!-- <code>2025.1</code> One paper about LLM Hallucination is accepted by NAACL-2025 Findings. <br> -->
 <!-- <code>2024.12</code> Our [FABind+](https://arxiv.org/abs/2402.17810), a much stronger extension of [FABind](https://openreview.net/pdf?id=PnWakgg1RL) is accepted by KDD-2025. <br>
+<code>2024.11</code> Our [TamGen](https://www.nature.com/articles/s41467-024-53632-4) is accepted by Nature Communications! <br>
 <code>2024.10</code> Congratulation that [Hot Pluggable Federated Learning](https://openreview.net/pdf?id=FazIrAXoM6) is selected as Outstanding Student Paper Award by the FL@FM-NeurIPS'24 workshop! <br>
 <code>2024.10</code> I am honered to serve as Area Chair for AAAI-2025 AI4Science workshop. <br> -->
 <!-- <code>2024.9</code> One [paper](https://aclanthology.org/2024.emnlp-main.104/) about protein sequence representation learning is accepted by EMNLP-2024. <br> -->
 <!-- <code>2024.9</code> One [paper](https://arxiv.org/abs/2406.03794) about quantum hamiltonian prediction is accepted by NeurIPS-2024. <br>
 <code>2024.9</code> One [paper](https://openreview.net/pdf?id=FazIrAXoM6) about federated learning is accepted as Oral presentation by the FL@FM-NeurIPS'24 workshop! <br>
+<code>2024.7</code> Super excited that our BioT5+ achieves 1st/2nd in [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared tasks! <br>
 <code>2024.7</code> Our [solution](https://aclanthology.org/2024.langmol-1.6/) about the champion in Language+Molecule@ACL2024 shared task is accepted as Oral presentation! <br> -->
 <!-- <code>2024.7</code> Our [kNN-DTA](https://arxiv.org/abs/2407.15202) about drug-target affinity prediction is accepted by CIKM-2024. <br> -->
 <!-- <code>2024.6</code> I am honered to serve as SPC for AAAI-2025. <br>
@@ -108,8 +109,8 @@ Highlights
 Selected Research
 ------
 * **LLM**
-  * [Mathfusion](https://arxiv.org/pdf/2503.16212), [Lemma](https://arxiv.org/pdf/2503.17439), [MeteLadder](https://arxiv.org/pdf/2503.14891), [DCRL](https://arxiv.org/pdf/2507.17512) (data-centric LLM reasoning)
-  * [RAG](ttps://arxiv.org/pdf/2504.12322?), [Middo]() (advaned data synthesis)
+  * [Caco](https://arxiv.org/pdf/2510.04081), [MathFusion](https://arxiv.org/pdf/2503.16212), [Lemma](https://arxiv.org/pdf/2503.17439), [DCRL](https://arxiv.org/pdf/2507.17512) (data-centric LLM reasoning)
+  * [GRA](ttps://arxiv.org/pdf/2504.12322?), [Middo](https://arxiv.org/pdf/2508.21589) (advaned data synthesis)
 * **AI/NMT**
   * [R-Drop](https://arxiv.org/pdf/2106.14448.pdf), [UniDrop](https://aclanthology.org/2021.naacl-main.302.pdf), [CT4Rec](https://dl.acm.org/doi/abs/10.1145/3580305.3599798) (dropout and consistency training)
   * [RL4NMT](http://aclweb.org/anthology/D18-1397), [BERT-NMT](https://openreview.net/pdf?id=Hyl7ygStwB), [Mono-NMT](https://www.aclweb.org/anthology/D19-1430.pdf) (neural machine translation)
@@ -118,8 +119,9 @@ Selected Research
   <!-- * [R^2-DDI]() (drug-drug interaction consistency) -->
   <!-- * [C^2-Rec](https://arxiv.org/pdf/2112.06668.pdf) (recommendation consistency) -->
 * **AI/LLM4Science**
+  * [NatureLM](https://arxiv.org/pdf/2502.07527) (scientific foundation model), [$\mu$Former](https://www.nature.com/articles/s42256-025-01103-w) (protein engineering), [TamGen](https://www.nature.com/articles/s41467-024-53632-4) (drug design)
   * [BioT5](https://arxiv.org/pdf/2310.07276.pdf), [BioT5+](https://arxiv.org/abs/2402.17810), [3D-MolT5](https://arxiv.org/pdf/2406.05797) (pre-trained LLLM for bio-chemistry)
-  * [FABind](https://openreview.net/pdf?id=PnWakgg1RL), [FABind+](https://arxiv.org/pdf/2403.20261), [FABFlex]() (Fast and Accurate for Protein-Ligand Binding)
+  * [FABind](https://openreview.net/pdf?id=PnWakgg1RL), [FABind+](https://arxiv.org/pdf/2403.20261), [FABFlex](https://arxiv.org/pdf/2502.14934) (Fast and Accurate for Protein-Ligand Binding)
   <!-- * [AbGNN](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.14.516404.full.pdf) (pre-training for antibody design) -->
   <!-- * [R^2-DDI]() (drug-drug interaction consistency) -->
   <!-- * [C^2-Rec](https://arxiv.org/pdf/2112.06668.pdf) (recommendation consistency) -->
