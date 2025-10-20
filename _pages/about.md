@@ -120,7 +120,7 @@ Selected Research
   <!-- * [C^2-Rec](https://arxiv.org/pdf/2112.06668.pdf) (recommendation consistency) -->
 * **AI/LLM4Science**
   * [NatureLM](https://arxiv.org/pdf/2502.07527) (scientific foundation model), [$\mu$Former](https://www.nature.com/articles/s42256-025-01103-w) (protein engineering), [TamGen](https://www.nature.com/articles/s41467-024-53632-4) (drug design)
-  * [BioT5](https://arxiv.org/pdf/2310.07276.pdf), [BioT5+](https://arxiv.org/abs/2402.17810), [3D-MolT5](https://arxiv.org/pdf/2406.05797) (pre-trained LLLM for bio-chemistry)
+  * [BioT5](https://arxiv.org/pdf/2310.07276.pdf), [BioT5+](https://arxiv.org/abs/2402.17810), [3D-MolT5](https://arxiv.org/pdf/2406.05797) (pre-trained LLM for bio-chemistry)
   * [FABind](https://openreview.net/pdf?id=PnWakgg1RL), [FABind+](https://arxiv.org/pdf/2403.20261), [FABFlex](https://arxiv.org/pdf/2502.14934) (Fast and Accurate for Protein-Ligand Binding)
   <!-- * [AbGNN](https://www.biorxiv.org/content/biorxiv/early/2022/11/17/2022.11.14.516404.full.pdf) (pre-training for antibody design) -->
   <!-- * [R^2-DDI]() (drug-drug interaction consistency) -->
