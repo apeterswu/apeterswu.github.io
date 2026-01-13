@@ -28,8 +28,12 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 **We are hiring AI researchers working on LLM/MLLM and AI4Science, contact me if you are interested!**
 
 # 🔥 News
-- <code>2025.9</code> 🎉 [Caco](https://arxiv.org/pdf/2510.04081) is accepted by NeurIPS-2025, which aims to scaling the reasoning data by code-assisted verfications. 
-- <code>2025.8</code> 🎉 3 papers are accepted by EMNLP-2025,topics cover math reasoning and advanced data synthesis. Check [CFT](https://arxiv.org/pdf/2506.03295), [MetaLadder](https://arxiv.org/pdf/2503.14891), [Middo](https://arxiv.org/pdf/2508.21589). 
+- <code>2025.1</code> 🎉 We have updated [OpenDataArena-Tool](https://github.com/OpenDataArena/OpenDataArena-Tool) with multimodal data training and evaluation support, you can easily benchmark your multimodal datasets with VLMs. 
+- <code>2025.12</code> 🎉 We release [OpenDataArena](https://opendataarena.github.io), the first open, fair, transparent benchmarking platform for post-training data! Also see our [tech report](https://arxiv.org/abs/2512.14051).
+- <code>2025.11</code> 🎉 Congratulations to my students achieve 2nd place in Internal Reasoning Track of [CURE-Bench@NeurIPS2025](https://curebench.ai/)!
+- <code>2025.11</code> Our [Mol-StruTok](https://arxiv.org/pdf/2412.01564) is accepted by KDD-2026, a novel tokenization framework for 3D molecule structures.
+- <code>2025.9</code> Our [Caco](https://arxiv.org/pdf/2510.04081) is accepted by NeurIPS-2025, which aims to scaling the reasoning data by code-assisted verfications. 
+- <code>2025.8</code> 3 papers are accepted by EMNLP-2025,topics cover math reasoning and advanced data synthesis. Check [CFT](https://arxiv.org/pdf/2506.03295), [MetaLadder](https://arxiv.org/pdf/2503.14891), [Middo](https://arxiv.org/pdf/2508.21589). 
 - <code>2025.8</code> Invited to serve as Area Chair for ICLR-2026. 
 - <code>2025.7</code> [μFormer](https://www.nature.com/articles/s42256-025-01103-w) is accepted by Nature Machine Intelligence! 
 - <code>2025.7</code> Invited to serve as Area Chair for NeurIPS-2025 workshop AI4Science and SEA. 
@@ -62,18 +66,18 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 
 
 ## 🔬 AI4Science
-* `EMNLP 2023`: [BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations](https://arxiv.org/abs/2310.07276), **Qizhi Pei**, Wei Zhang, Jinhua Zhu, Kehan Wu, Kaiyuan Gao, Lijun Wu, Yingce Xia, Rui Yan, \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biot5-67582fe5a72313e29a0dd779) (**>20W downloads** 🎉)
+* `EMNLP 2023`: [BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations](https://arxiv.org/abs/2310.07276), Qizhi Pei, Wei Zhang, Jinhua Zhu, Kehan Wu, Kaiyuan Gao, **Lijun Wu**, Yingce Xia, Rui Yan, \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biot5-67582fe5a72313e29a0dd779) (**>24W downloads** 🎉)
 
-* `ACL 2024`: [BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning](https://arxiv.org/abs/2402.17810), **Qizhi Pei**, Lijun Wu, Kaiyuan Gao, Xiaozhuan Liang, Yin Fang, Jinhua Zhu, Shufang Xie, Tao Qin, Rui Yan \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biot5-67582fe5a72313e29a0dd779) (**win 1st/2nd for ACL24 workshop share tasks** 🎉)
+* `ACL 2024`: [BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning](https://arxiv.org/abs/2402.17810), Qizhi Pei, **Lijun Wu**, Kaiyuan Gao, Xiaozhuan Liang, Yin Fang, Jinhua Zhu, Shufang Xie, Tao Qin, Rui Yan \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biot5-67582fe5a72313e29a0dd779) (**Win 1st/2nd for ACL24 workshop share tasks** 🎉)
 
-* `NeurIPS 2023`: [FABind: Fast and Accurate Protein-Ligand Binding](https://arxiv.org/pdf/2310.06763.pdf), **Qizhi Pei** (co-first author), Kaiyuan Gao, Lijun Wu, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Kun He, Tie-Yan Liu, Rui Yan \| [Project Page](https://qizhipei.github.io/fabind) \| [![](https://img.shields.io/github/stars/QizhiPei/FABind?style=social&label=Code+Stars)](https://github.com/QizhiPei/FABind) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/QizhiPei/FABind_model/tree/main)
+* `NeurIPS 2023`: [FABind: Fast and Accurate Protein-Ligand Binding](https://arxiv.org/pdf/2310.06763.pdf), Qizhi Pei, Kaiyuan Gao, **Lijun Wu**, Jinhua Zhu, Yingce Xia, Shufang Xie, Tao Qin, Kun He, Tie-Yan Liu, Rui Yan \| [Project Page](https://qizhipei.github.io/fabind) \| [![](https://img.shields.io/github/stars/QizhiPei/FABind?style=social&label=Code+Stars)](https://github.com/QizhiPei/FABind) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/QizhiPei/FABind_model/tree/main)
 
 ## ⌨️ AI
 * `FL@FM NeurIPS 2024`: [Hot Pluggable Federated Learning](https://openreview.net/pdf?id=FazIrAXoM6), Lei Shen, Zhenheng Tang, **Lijun Wu**, Yonggang Zhang, Xiaowen Chu, Tao Qin, Bo Han (**Outstanding Student Paper Award, Oral** 🎉)
 
 * `NeurIPS 2020`: [R-Drop: Regularized Dropout for Neural Networks](https://arxiv.org/pdf/2106.14448.pdf), Xiaobo Liang, **Lijun Wu**, Juntao Li, Yue Wang, Qi Meng, Tao Qin, Wei Chen, Min Zhang, Tie-Yan Liu \| [![](https://img.shields.io/github/stars/dropreg/R-Drop?style=social&label=Code+Stars)](https://github.com/dropreg/R-Drop)  (**R-Drop has been shaped into Microsoft Translator for 20+ language translations!** 🎉)
 
-* `EMNLP 2019`: [Exploiting Monolingual Data at Scale for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1430.pdf), **Lijun Wu**, Yiren Wang, Yingce Xia, Tao Qin, Jianhuang Lai, and Tie-Yan Liu (**Help won the WMT-19 champion!** 🎉).
+* `EMNLP 2019`: [Exploiting Monolingual Data at Scale for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1430.pdf), **Lijun Wu**, Yiren Wang, Yingce Xia, Tao Qin, Jianhuang Lai, and Tie-Yan Liu (**Help win the WMT-19 champion!** 🎉).
 
 
 
