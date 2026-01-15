@@ -28,7 +28,7 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 **We are hiring AI researchers working on LLM/MLLM and AI4Science, contact me if you are interested!**
 
 # 🔥 News
-- <code>2025.1</code> 🎉 We have updated [OpenDataArena-Tool](https://github.com/OpenDataArena/OpenDataArena-Tool) with multimodal data training and evaluation support, you can easily benchmark your multimodal datasets with VLMs. 
+- <code>2026.1</code> 🎉 We have updated [OpenDataArena-Tool](https://github.com/OpenDataArena/OpenDataArena-Tool) with multimodal data training and evaluation support, you can easily benchmark your multimodal datasets with VLMs. 
 - <code>2025.12</code> 🎉 We release [OpenDataArena](https://opendataarena.github.io), the first open, fair, transparent benchmarking platform for post-training data! Also see our [tech report](https://arxiv.org/abs/2512.14051).
 - <code>2025.11</code> 🎉 Congratulations to my students achieve 2nd place in Internal Reasoning Track of [CURE-Bench@NeurIPS2025](https://curebench.ai/)!
 - <code>2025.11</code> Our [Mol-StruTok](https://arxiv.org/pdf/2412.01564) is accepted by KDD-2026, a novel tokenization framework for 3D molecule structures.
