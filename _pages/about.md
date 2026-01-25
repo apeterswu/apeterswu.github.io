@@ -19,22 +19,25 @@ redirect_from:
 
 Lijun Wu is a Researcher in <a href='https://www.shlab.org.cn/'>Shanghai AI Laboratory</a>. Previously, he was a Research Scientist in <a href='https://www.bytedance.com/en/'>ByteDance</a>, a Senior Researcher in <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/'>Microsoft Research</a>. He got the Ph.D. degree from <a href='http://www.sysu.edu.cn/2012/en/index.htm'>Sun Yat-sen University (SYSU)</a>, and was a member of <a href='https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd'>joint Ph.D. program</a> between SYSU and MSRA, advised by <a href='https://www.bjzgca.edu.cn/teacher/e4bebfc09b254c6f8db87ceacea3b4d2?type=lead'>Dr. Tie-Yan Liu</a> and <a href='https://cse.sysu.edu.cn/teacher/LaiJianhuang'>Prof. Jianhuang Lai</a>.
 
-His research interests are on AI/LLMs (e.g., data-centric intelligence, SFT/RL), AI4Science (e.g., LLM4Science, scientific reasoning). His research works are published in top conferences and journals, such as Nature Communications, Nature Machine Intelligence, TPAMI, NeurIPS, ICML, ICLR, ACL, KDD and so on, with more than 8500+ citations. He has served as AC/SPC in top conferences, e.g., ICLR, NeurIPS, ACL, EMNLP, NAACL, AAAI, IJCAI and so on.
-
-He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fellowship](https://apeterswu.github.io/(https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows)). He secured 8 championships in the [WMT2019 Competition](https://apeterswu.github.io/(http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27)). He led his team to develop the BioT5 series of multimodal biomolecular models, winning 1st and 2nd place in the [ACL 2024 Language+Molecule Shared Task](https://apeterswu.github.io/(https://language-plus-molecules.github.io/#leaderboard)). In 2025, he guided students to secure 2nd place in the 2025 NeurIPS [CURE-Bench Internal Reasoning Competition](https://curebench.ai/). Many of his research innovations have been successfully translated into practical products. Notably, his [R-Drop](https://proceedings.neurips.cc/paper_files/paper/2021/file/5a66b9200f29ac3fa0ae244cc2a51b39-Paper.pdf) algorithm was deployed in Microsoft Translator across over 20 translation tasks and is widely used in business scenarios at companies like Meituan. His [CT4Rec](https://dl.acm.org/doi/abs/10.1145/3580305.3599798) model was applied to Tencent News recommendation products. Furthermore, he participated in the development of the world's first Chinese-English translation system to achieve [human parity](https://news.microsoft.com/en-nz/2018/03/16/microsoft-reaches-a-historic-milestone-using-ai-to-match-human-performance-in-translating-news-from-chinese-to-english/) in 2018.
+His research interests cover LLMs/MLLMs (e.g., data-centric AI, SFT/RL), AI4Science (e.g., LLM4Science, scientific reasoning). His works are published in top conferences and journals, such as Nature Communications, Nature Machine Intelligence, TPAMI, NeurIPS, ICML, ICLR, ACL, KDD and so on, with more than 8500+ citations. He has served as AC/SPC in top conferences, e.g., ICML, ICLR, NeurIPS, ACL, EMNLP, NAACL, AAAI, IJCAI and so on. 
+He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fellowship](https://apeterswu.github.io/(https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/#!fellows)). He secured 8 championships in the [WMT2019 Competition](https://apeterswu.github.io/(http://matrix.statmt.org/?metric%5Bid%5D=5&mode=bestn&test_set%5Bid%5D=27)). He led team to develop the BioT5 series of multimodal biomolecular models, the models have more than **240k downloads**,  winning 1st and 2nd place in the [ACL 2024 Language+Molecule Shared Task](https://apeterswu.github.io/(https://language-plus-molecules.github.io/#leaderboard)). He guided students to secure 2nd place in the 2025 NeurIPS [CURE-Bench Internal Reasoning Competition](https://curebench.ai/). His research innovations have been translated into practical products. Notably, [R-Drop](https://proceedings.neurips.cc/paper_files/paper/2021/file/5a66b9200f29ac3fa0ae244cc2a51b39-Paper.pdf) was deployed in Microsoft Translator across over 20 translation tasks and was widely used in business scenarios at companies like Meituan. Furthermore, he participated in the development of the world's first Chinese-English translation system to achieve [human parity](https://news.microsoft.com/en-nz/2018/03/16/microsoft-reaches-a-historic-milestone-using-ai-to-match-human-performance-in-translating-news-from-chinese-to-english/) in 2018.
 
 [📄 Download CV (PDF)](/files/CV.pdf)
 
 **We are hiring AI researchers working on LLM/MLLM and AI4Science, contact me if you are interested!**
 
 # 🔥 News
+- <code>2026.1</code> 🔥 The datasets [ODA-Math-460k](https://huggingface.co/collections/OpenDataArena/oda-math) and [ODA-Mixture-100k/500k](https://huggingface.co/collections/OpenDataArena/oda-mixture) have been on the HuggingFace Datasets Trending Top 3.🔥
+- <code>2026.1</code> 🎉 We release the superior datasets [ODA-Math-460k](https://huggingface.co/collections/OpenDataArena/oda-math) and [ODA-Mixture-100k/500k](https://huggingface.co/collections/OpenDataArena/oda-mixture), created by the guidence from [OpenDataArena](https://opendataarena.github.io). See the [report](https://arxiv.org/abs/2601.09733) for details. 
 - <code>2026.1</code> 🎉 We have updated [OpenDataArena-Tool](https://github.com/OpenDataArena/OpenDataArena-Tool) with multimodal data training and evaluation support, you can easily benchmark your multimodal datasets with VLMs. 
 - <code>2025.12</code> 🎉 We release [OpenDataArena](https://opendataarena.github.io), the first open, fair, transparent benchmarking platform for post-training data! Also see our [tech report](https://arxiv.org/abs/2512.14051).
 - <code>2025.11</code> 🎉 Congratulations to my students achieve 2nd place in Internal Reasoning Track of [CURE-Bench@NeurIPS2025](https://curebench.ai/)!
+- <code>2025.11</code> Invited to serve as Area Chair for ICML-2026. 
 - <code>2025.11</code> Our [Mol-StruTok](https://arxiv.org/pdf/2412.01564) is accepted by KDD-2026, a novel tokenization framework for 3D molecule structures.
 - <code>2025.9</code> Our [Caco](https://arxiv.org/pdf/2510.04081) is accepted by NeurIPS-2025, which aims to scaling the reasoning data by code-assisted verfications. 
 - <code>2025.8</code> 3 papers are accepted by EMNLP-2025,topics cover math reasoning and advanced data synthesis. Check [CFT](https://arxiv.org/pdf/2506.03295), [MetaLadder](https://arxiv.org/pdf/2503.14891), [Middo](https://arxiv.org/pdf/2508.21589). 
 - <code>2025.8</code> Invited to serve as Area Chair for ICLR-2026. 
+{% comment %}
 - <code>2025.7</code> [μFormer](https://www.nature.com/articles/s42256-025-01103-w) is accepted by Nature Machine Intelligence! 
 - <code>2025.7</code> Invited to serve as Area Chair for NeurIPS-2025 workshop AI4Science and SEA. 
 - <code>2025.7</code> Invited to serve as Area Chair for AAAI-2026. 
@@ -42,10 +45,11 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 - <code>2025.5</code> 6 papers are accepted by ACL-2025, topics cover math reasoning, data synthesis and LLM benchmarks. Check [Mathfusion](https://arxiv.org/abs/2503.16212), [GRA](https://arxiv.org/pdf/2504.12322?), [Lemma](https://arxiv.org/pdf/2503.17439), [CipherBank](https://arxiv.org/pdf/2504.19093).
 - <code>2025.3</code> Invited to serve as Area Chair for NeurIPS-2025.
 - <code>2025.3</code> [NatureLM](https://arxiv.org/abs/2502.07527), a large scientific foundation model, is released.
+{% endcomment %}
 
 
 # 💻 Open-source Projects
-* [OpenDataArena](https://opendataarena.github.io) [![](https://img.shields.io/github/stars/OpenDataArena/OpenDataArena-Tool?style=social&label=Code+Stars)](https://github.com/OpenDataArena/OpenDataArena-Tool), a fair, open, and transparent Arena for data value benchmarking.
+* [OpenDataArena](https://opendataarena.github.io) [![](https://img.shields.io/github/stars/OpenDataArena/OpenDataArena-Tool?style=social&label=Code+Stars)](https://github.com/OpenDataArena/OpenDataArena-Tool), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenDataArena/datasets)， a fair, open, and transparent Arena for data value benchmarking.
 * [InternVL](https://github.com/OpenGVLab/InternVL) [![](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Code+Stars)](https://github.com/OpenGVLab/InternVL), a series of leading VLM models developed by Shanghai AI Laboratory.
 
 
@@ -62,11 +66,12 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 # 📝 Selected Publications 
 ## ⭐️ LLM/MLLMs
 * `NeurIPS 2025`: [Scaling Code-Assisted Chain-of-Thoughts and Instructions for Model Reasoning](https://arxiv.org/pdf/2510.04081), Honglin Lin, Qizhi Pei, Xin Gao, Zhuoshi Pan, Yu Li, Juntao Li, Conghui He, **Lijun Wu**
-* `Arxiv 2025`: [OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value](https://arxiv.org/abs/2512.14051), Mengzhang Cai, Xin Gao, Yu Li, Honglin Lin, Zheng Liu, Zhuoshi Pan, Qizhi Pei, Xiaoran Shang, Mengyuan Sun, Zinan Tang, Xiaoyang Wang, Zhanping Zhong, Yun Zhu, Dahua Lin, Conghui He, **Lijun Wu** \| [Project Page](https://opendataarena.github.io) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenDataArena) (**technical report for OpenDataArena** 🎉)
+* `Arxiv 2025`: [Closing the Data Loop: Using OpenDataArena to Engineer Superior Training Datasets](https://arxiv.org/pdf/2601.09733), Xin Gao, Xiaoyang Wang, Yun Zhu, Mengzhang Cai, Conghui He, **Lijun Wu** \| [Project Page](https://opendataarena.github.io) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenDataArena/datasets) (**Technical report for ODA-Math and ODA-Mixture datasets, >20k downloads** 🎉)
+* `Arxiv 2025`: [OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value](https://arxiv.org/abs/2512.14051), Mengzhang Cai, Xin Gao, Yu Li, Honglin Lin, Zheng Liu, Zhuoshi Pan, Qizhi Pei, Xiaoran Shang, Mengyuan Sun, Zinan Tang, Xiaoyang Wang, Zhanping Zhong, Yun Zhu, Dahua Lin, Conghui He, **Lijun Wu** \| [Project Page](https://opendataarena.github.io) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenDataArena) (**Technical report for OpenDataArena** 🎉)
 
 
 ## 🔬 AI4Science
-* `EMNLP 2023`: [BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations](https://arxiv.org/abs/2310.07276), Qizhi Pei, Wei Zhang, Jinhua Zhu, Kehan Wu, Kaiyuan Gao, **Lijun Wu**, Yingce Xia, Rui Yan, \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biot5-67582fe5a72313e29a0dd779) (**>24W downloads** 🎉)
+* `EMNLP 2023`: [BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations](https://arxiv.org/abs/2310.07276), Qizhi Pei, Wei Zhang, Jinhua Zhu, Kehan Wu, Kaiyuan Gao, **Lijun Wu**, Yingce Xia, Rui Yan, \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biot5-67582fe5a72313e29a0dd779) (**>240k downloads** 🎉)
 
 * `ACL 2024`: [BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning](https://arxiv.org/abs/2402.17810), Qizhi Pei, **Lijun Wu**, Kaiyuan Gao, Xiaozhuan Liang, Yin Fang, Jinhua Zhu, Shufang Xie, Tao Qin, Rui Yan \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biot5-67582fe5a72313e29a0dd779) (**Win 1st/2nd for ACL24 workshop share tasks** 🎉)
 
@@ -77,12 +82,13 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 
 * `NeurIPS 2020`: [R-Drop: Regularized Dropout for Neural Networks](https://arxiv.org/pdf/2106.14448.pdf), Xiaobo Liang, **Lijun Wu**, Juntao Li, Yue Wang, Qi Meng, Tao Qin, Wei Chen, Min Zhang, Tie-Yan Liu \| [![](https://img.shields.io/github/stars/dropreg/R-Drop?style=social&label=Code+Stars)](https://github.com/dropreg/R-Drop)  (**R-Drop has been shaped into Microsoft Translator for 20+ language translations!** 🎉)
 
-* `EMNLP 2019`: [Exploiting Monolingual Data at Scale for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1430.pdf), **Lijun Wu**, Yiren Wang, Yingce Xia, Tao Qin, Jianhuang Lai, and Tie-Yan Liu (**Help win the WMT-19 champion!** 🎉).
+* `EMNLP 2019`: [Exploiting Monolingual Data at Scale for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1430.pdf), **Lijun Wu**, Yiren Wang, Yingce Xia, Tao Qin, Jianhuang Lai, and Tie-Yan Liu (**Win the WMT-19 champion!** 🎉).
 
 
 
 # 🎖 Honors and Awards
 - 2nd place in Internal Reasoning Track of [CURE-Bench@NeurIPS2025](https://curebench.ai/), 2025
+- Selected as [Top Area Chairs](https://neurips.cc/Conferences/2025/ProgramCommittee#top-ac) for NeurIPS-2025, 2025. 
 - 1st place in Text2Molecule and 2nd place in Molecue2Tedt on [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared task, 2024
 - [Runner up](https://ogb.stanford.edu/kddcup2021/results/#final_pcqm4m) of OGB-LSC @ KDD cup, 2021, [Solution](https://github.com/TransfromerMeetsGraph/GNNLearner)
 - Outstanding Graduate Awards of SYSU, 2020
@@ -108,7 +114,7 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 
 
 # 💬 Academic Services
-- AC: ICLR-26, NeurIPS-25, ACL-21/22/23/24/25, EMNLP-23/24/25, NNACL-22/23/24/25, EACL-24, COLING-23, ARR-21/22/23/24/25
+- AC: ICML-2026, ICLR-26, NeurIPS-25, ACL-21/22/23/24/25, EMNLP-23/24/25, NNACL-22/23/24/25, EACL-24, COLING-23, ARR-21/22/23/24/25
 - SPC: AAAI-22/23/24/25/26, IJCAI-21
 - Conference reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, KDD, NAACL, COLING, EACL, AACL
 - Journal reviewers: TPAMI, TASLP, KBS, Neurocomputing, CSL

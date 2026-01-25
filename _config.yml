@@ -9,6 +9,7 @@
 title                    : "Lijun Wu"
 description              : "Lijun Wu's Homepage, Keep Learning and Being Positive"
 repository               : "apeterswu/apeterswu.github.io"
+base_path                : ""  # Empty for username.github.io repositories
 google_scholar_stats_use_cdn : true
 
 # google analytics
