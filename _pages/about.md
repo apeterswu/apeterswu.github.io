@@ -27,6 +27,7 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 **We are hiring AI researchers working on LLM/MLLM and AI4Science, contact me if you are interested!**
 
 # 🔥 News
+- <code>2026.1</code> 🎉 We introduce [SciGenBench and ImgCodedr](https://huggingface.co/papers/2601.17027) for scientific image synthesis aim to accelerating the understanding and reasoning of VLMs for scientific visual tasks.
 - <code>2026.1</code> 🔥 We released [ChartVerse-1.8M](https://huggingface.co/collections/opendatalab/chartverse) dataset for strong Chart reasoning, which has been on the HuggingFace Datasets Trending Top 6.🔥
 - <code>2026.1</code> 🔥 The datasets [ODA-Math-460k](https://huggingface.co/collections/OpenDataArena/oda-math) and [ODA-Mixture-100k/500k](https://huggingface.co/collections/OpenDataArena/oda-mixture) have been on the HuggingFace Datasets Trending Top 3.🔥
 - <code>2026.1</code> 🎉 We release the superior datasets [ODA-Math-460k](https://huggingface.co/collections/OpenDataArena/oda-math) and [ODA-Mixture-100k/500k](https://huggingface.co/collections/OpenDataArena/oda-mixture), created by the guidence from [OpenDataArena](https://opendataarena.github.io). See the [report](https://arxiv.org/abs/2601.09733) for details. 
