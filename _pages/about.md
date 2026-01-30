@@ -28,7 +28,7 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 
 # 🔥 News
 - <code>2026.1</code> 🎉 We introduce [SciGenBench and ImgCoder](https://huggingface.co/papers/2601.17027) for scientific image synthesis aim to accelerating the understanding and reasoning of VLMs for scientific visual tasks.
-- <code>2026.1</code> 🔥🔥🔥 We released [ChartVerse-1.8M](https://huggingface.co/collections/opendatalab/chartverse) dataset for strong Chart reasoning, which has been on the HuggingFace Datasets Trending Top 1.
+- <code>2026.1</code> 🔥🔥🔥 We released [ChartVerse-1.8M](https://huggingface.co/collections/opendatalab/chartverse) dataset for strong Chart reasoning, which has been on the HuggingFace Datasets Trending Top 1. Also see the [tech report](https://arxiv.org/pdf/2601.13606). 
 - <code>2026.1</code> 🔥🔥🔥 The datasets [ODA-Math-460k](https://huggingface.co/collections/OpenDataArena/oda-math) and [ODA-Mixture-100k/500k](https://huggingface.co/collections/OpenDataArena/oda-mixture) have been on the HuggingFace Datasets Trending Top 2.
 - <code>2026.1</code> 🎉 We release the superior datasets [ODA-Math-460k](https://huggingface.co/collections/OpenDataArena/oda-math) and [ODA-Mixture-100k/500k](https://huggingface.co/collections/OpenDataArena/oda-mixture), created by the guidence from [OpenDataArena](https://opendataarena.github.io). See the [report](https://arxiv.org/abs/2601.09733) for details. 
 - <code>2026.1</code> 🎉 We have updated [OpenDataArena-Tool](https://github.com/OpenDataArena/OpenDataArena-Tool) with multimodal data training and evaluation support, you can easily benchmark your multimodal datasets with VLMs. 
