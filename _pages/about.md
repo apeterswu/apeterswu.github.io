@@ -27,9 +27,10 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 **We are hiring AI researchers working on LLM/MLLM and AI4Science, contact me if you are interested!**
 
 # 🔥 News
+- <code>2026.2</code> 🔥🔥🔥 Our strong VLM [MMFineReason](https://huggingface.co/collections/OpenDataArena/mmfinereason) is released, which makes 4B model achieve 30B model performance! The superior reasoning dataset [MMFineReason-1.8M](https://huggingface.co/datasets/OpenDataArena/MMFineReason-1.8M) is also released, which has been on the HuggingFace Datasets Trending Top 2! See the [tech report](https://arxiv.org/pdf/2601.21821).
 - <code>2026.1</code> 🎉 We introduce [SciGenBench and ImgCoder](https://huggingface.co/papers/2601.17027) for scientific image synthesis aim to accelerating the understanding and reasoning of VLMs for scientific visual tasks.
-- <code>2026.1</code> 🔥🔥🔥 We released [ChartVerse-1.8M](https://huggingface.co/collections/opendatalab/chartverse) dataset for strong Chart reasoning, which has been on the HuggingFace Datasets Trending Top 1. Also see the [tech report](https://arxiv.org/pdf/2601.13606). 
-- <code>2026.1</code> 🔥🔥🔥 The datasets [ODA-Math-460k](https://huggingface.co/collections/OpenDataArena/oda-math) and [ODA-Mixture-100k/500k](https://huggingface.co/collections/OpenDataArena/oda-mixture) have been on the HuggingFace Datasets Trending Top 2.
+- <code>2026.1</code> 🔥🔥🔥 We released [ChartVerse-1.8M](https://huggingface.co/collections/opendatalab/chartverse) dataset for strong Chart reasoning, which has been on the HuggingFace Datasets Trending Top 1! Also see the [tech report](https://arxiv.org/pdf/2601.13606). 
+- <code>2026.1</code> 🔥🔥🔥 The datasets [ODA-Math-460k](https://huggingface.co/collections/OpenDataArena/oda-math) and [ODA-Mixture-100k/500k](https://huggingface.co/collections/OpenDataArena/oda-mixture) have been on the HuggingFace Datasets Trending Top 2!
 - <code>2026.1</code> 🎉 We release the superior datasets [ODA-Math-460k](https://huggingface.co/collections/OpenDataArena/oda-math) and [ODA-Mixture-100k/500k](https://huggingface.co/collections/OpenDataArena/oda-mixture), created by the guidence from [OpenDataArena](https://opendataarena.github.io). See the [report](https://arxiv.org/abs/2601.09733) for details. 
 - <code>2026.1</code> 🎉 We have updated [OpenDataArena-Tool](https://github.com/OpenDataArena/OpenDataArena-Tool) with multimodal data training and evaluation support, you can easily benchmark your multimodal datasets with VLMs. 
 - <code>2025.12</code> 🎉 We release [OpenDataArena](https://opendataarena.github.io), the first open, fair, transparent benchmarking platform for post-training data! Also see our [tech report](https://arxiv.org/abs/2512.14051).
@@ -67,8 +68,12 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 
 # 📝 Selected Publications 
 ## ⭐️ LLM/MLLMs
+* `Arxiv 2026`: [MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods](https://arxiv.org/pdf/2601.21821), Honglin Lin, Zheng Liu, Yun Zhu, Chonghan Qin, Juekai Lin, Xiaoran Shang, Conghui He, Wentao Zhang, **Lijun Wu**\| [Project Page](https://mmfinereason.github.io/) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/OpenDataArena/mmfinereason) (**MMFineReason datasets on HF Trending Top 2, >8k downloads** 🎉)
+
 * `NeurIPS 2025`: [Scaling Code-Assisted Chain-of-Thoughts and Instructions for Model Reasoning](https://arxiv.org/pdf/2510.04081), Honglin Lin, Qizhi Pei, Xin Gao, Zhuoshi Pan, Yu Li, Juntao Li, Conghui He, **Lijun Wu**
+
 * `Arxiv 2025`: [Closing the Data Loop: Using OpenDataArena to Engineer Superior Training Datasets](https://arxiv.org/pdf/2601.09733), Xin Gao, Xiaoyang Wang, Yun Zhu, Mengzhang Cai, Conghui He, **Lijun Wu** \| [Project Page](https://opendataarena.github.io) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenDataArena/datasets) (**Technical report for ODA-Math and ODA-Mixture datasets, >20k downloads** 🎉)
+
 * `Arxiv 2025`: [OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value](https://arxiv.org/abs/2512.14051), Mengzhang Cai, Xin Gao, Yu Li, Honglin Lin, Zheng Liu, Zhuoshi Pan, Qizhi Pei, Xiaoran Shang, Mengyuan Sun, Zinan Tang, Xiaoyang Wang, Zhanping Zhong, Yun Zhu, Dahua Lin, Conghui He, **Lijun Wu** \| [Project Page](https://opendataarena.github.io) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenDataArena) (**Technical report for OpenDataArena** 🎉)
 
 
@@ -116,7 +121,7 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 
 
 # 💬 Academic Services
-- AC: ICML-2026, ICLR-26, NeurIPS-25, ACL-21/22/23/24/25, EMNLP-23/24/25, NNACL-22/23/24/25, EACL-24, COLING-23, ARR-21/22/23/24/25
+- AC: KDD-26, ICML-26, ICLR-26, NeurIPS-25, ACL-21/22/23/24/25, EMNLP-23/24/25, NNACL-22/23/24/25, EACL-24, COLING-23, ARR-21/22/23/24/25
 - SPC: AAAI-22/23/24/25/26, IJCAI-21
 - Conference reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, KDD, NAACL, COLING, EACL, AACL
 - Journal reviewers: TPAMI, TASLP, KBS, Neurocomputing, CSL
