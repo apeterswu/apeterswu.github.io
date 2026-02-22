@@ -53,9 +53,15 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 {% endcomment %}
 
 
-# 💻 Open-source Projects
-* [OpenDataArena](https://opendataarena.github.io) [![](https://img.shields.io/github/stars/OpenDataArena/OpenDataArena-Tool?style=social&label=Code+Stars)](https://github.com/OpenDataArena/OpenDataArena-Tool), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenDataArena/datasets)， a fair, open, and transparent Arena for data value benchmarking.
-* [InternVL](https://github.com/OpenGVLab/InternVL) [![](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Code+Stars)](https://github.com/OpenGVLab/InternVL), a series of leading VLM models developed by Shanghai AI Laboratory.
+# 💻 Projects & Models & Datasets
+* [BioT5/BioT5+](https://huggingface.co/collections/QizhiPei/biot5), [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biot5), multimodal biomolecular foundation models, HF models **> 280k downloads**!
+* [MMFineReason-2.3M/1.8M](https://mmfinereason.github.io/), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/OpenDataArena/mmfinereason), high-quality reasoning dataset for VLM, **HF datasets Trending Top 2, >15k downloads**!
+* [OpenDataArena](https://opendataarena.github.io), [![](https://img.shields.io/github/stars/OpenDataArena/OpenDataArena-Tool?style=social&label=Code+Stars)](https://github.com/OpenDataArena/OpenDataArena-Tool), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenDataArena/datasets)， a fair, open, and transparent Arena for data value benchmarking.
+* [ODA-Math](https://huggingface.co/collections/OpenDataArena/oda-math), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/OpenDataArena/oda-math), strong math reasoning dataset for LLM, **HF datasets Trending Top 2, >10k downloads**!
+* [ODA-Mixture](https://huggingface.co/collections/OpenDataArena/oda-mixture), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/OpenDataArena/oda-mixture), strong general reasoning dataset for LLM, **HF datasets Trending Top 2, >15k downloads**!
+* [ChartVerse-SFT-1.8M/600k](https://huggingface.co/collections/opendatalab/chartverse), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/opendatalab/chartverse), synthetic chart QA dataset for chart reasoning, **HF datasets Trending Top 1, 10k downloads**!
+* [InternVL](https://github.com/OpenGVLab/InternVL), [![](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Code+Stars)](https://github.com/OpenGVLab/InternVL), a series of leading VLM models developed by Shanghai AI Laboratory.
+* 
 
 
 # 📃 Surveys/Repos
