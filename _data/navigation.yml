@@ -9,11 +9,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Open-source Projects"
-    url: "/#-open-source-projects"
+  - title: "Selected Projects"
+    url: "/#-selected-projects"
 
-  - title: "Surveys/Repos"
-    url: "/#-surveys-repos"
+  - title: "Awesome Repos"
+    url: "/#-awesome-repos"
 
   - title: "Selected Publications"
     url: "/#-selected-publications"

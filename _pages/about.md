@@ -84,18 +84,35 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 - 🔥[Awesome-Docking](https://github.com/KyGao/awesome-docking) [![Stars](https://img.shields.io/github/stars/KyGao/awesome-docking?color=yellow&style=social)](https://github.com/KyGao/awesome-docking)
 
 
-<!-- # 📝 Selected Publications 
-## ⭐️ LLM/VLM
-* `Arxiv 2026`: [MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods](https://arxiv.org/pdf/2601.21821), Honglin Lin, Zheng Liu, Yun Zhu, Chonghan Qin, Juekai Lin, Xiaoran Shang, Conghui He, Wentao Zhang, **Lijun Wu**\| [Project Page](https://mmfinereason.github.io/) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/OpenDataArena/mmfinereason) (**MMFineReason datasets on HF Trending Top 2, >20k downloads**)
+# 📝 Selected Publications 
 
+* `ACL 2026`: [Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs](https://aclanthology.org/2026.acl-long.435.pdf), Yu Li, Xiaoran Shang, Qizhi Pei, Yun Zhu, Xin Gao, Honglin Lin, Zhanping Zhong, Zhuoshi Pan, Zheng Liu, Xiaoyang Wang, Conghui He, Dahua Lin, Feng Zhao, **Lijun Wu** \| [Data Lineage Tool](https://arena.opendatalab.org.cn/data-lineage/website/index.html) (**ACL-2026 Oral Presentation; usable tool in OpenDataArena for source tracing, shared-source analysis and contamination risk detection**)
+
+* `ACL 2026`: [MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing](https://aclanthology.org/2026.acl-industry.3.pdf), Junbo Niu, Zheng Liu, Zhuangcheng Gu, Bin Wang, ..., **Lijun Wu**, ..., Wentao Zhang, Conghui He \| [![](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&label=Code+Stars)](https://github.com/opendatalab/MinerU) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/opendatalab) (**ACL-2026 Oral Presentation; popular open-source document parsing toolkit with strong GitHub community traction**)
+
+* `Arxiv 2026`: [MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods](https://arxiv.org/pdf/2601.21821), Honglin Lin, Zheng Liu, Yun Zhu, Chonghan Qin, Juekai Lin, Xiaoran Shang, Conghui He, Wentao Zhang, **Lijun Wu**\| [Project Page](https://mmfinereason.github.io/) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/OpenDataArena/mmfinereason) (**MMFineReason datasets on HF Trending Top 2, >50k downloads**)
+
+* `Arxiv 2026`: [BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language](https://huggingface.co/papers/2606.22138), Qizhi Pei, Zhimeng Zhou, Yi Duan, Yiyang Zhao, Wei Li, Han Guo, Liang He, Chengping Li, Chang-Yu Hsieh, Conghui He, Rui Yan, **Lijun Wu** \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biomatrix) (**Next-generation upgrade of the BioT5 series**)
+
+* `ACL 2024`: [BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning](https://arxiv.org/abs/2402.17810), Qizhi Pei, **Lijun Wu**, Kaiyuan Gao, Xiaozhuan Liang, Yin Fang, Jinhua Zhu, Shufang Xie, Tao Qin, Rui Yan \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biot5-67582fe5a72313e29a0dd779) (**Win 1st/2nd for ACL24 workshop share tasks**)
+
+* `EMNLP 2023`: [BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations](https://arxiv.org/abs/2310.07276), Qizhi Pei, Wei Zhang, Jinhua Zhu, Kehan Wu, Kaiyuan Gao, **Lijun Wu**, Yingce Xia, Rui Yan, \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biot5-67582fe5a72313e29a0dd779) (**>300k downloads**)
+
+* `NeurIPS 2020`: [R-Drop: Regularized Dropout for Neural Networks](https://arxiv.org/pdf/2106.14448.pdf), Xiaobo Liang, **Lijun Wu**, Juntao Li, Yue Wang, Qi Meng, Tao Qin, Wei Chen, Min Zhang, Tie-Yan Liu \| [![](https://img.shields.io/github/stars/dropreg/R-Drop?style=social&label=Code+Stars)](https://github.com/dropreg/R-Drop)  (**R-Drop has been shaped into Microsoft Translator for 20+ language translations**)
+
+<!-- * `EMNLP 2019`: [Exploiting Monolingual Data at Scale for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1430.pdf), **Lijun Wu**, Yiren Wang, Yingce Xia, Tao Qin, Jianhuang Lai, and Tie-Yan Liu (**Win the WMT-19 champion**) -->
+
+<!-- ## ⭐️ LLM/VLM
+* `Arxiv 2026`: [MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods](https://arxiv.org/pdf/2601.21821), Honglin Lin, Zheng Liu, Yun Zhu, Chonghan Qin, Juekai Lin, Xiaoran Shang, Conghui He, Wentao Zhang, **Lijun Wu**\| [Project Page](https://mmfinereason.github.io/) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/OpenDataArena/mmfinereason) (**MMFineReason datasets on HF Trending Top 2, >50k downloads**) -->
+<!-- 
 * `Arxiv 2025`: [Closing the Data Loop: Using OpenDataArena to Engineer Superior Training Datasets](https://arxiv.org/pdf/2601.09733), Xin Gao, Xiaoyang Wang, Yun Zhu, Mengzhang Cai, Conghui He, **Lijun Wu** \| [Project Page](https://opendataarena.github.io) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenDataArena/datasets) (**Technical report for ODA-Math and ODA-Mixture datasets, >25k downloads**)
 
 * `Arxiv 2025`: [OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value](https://arxiv.org/abs/2512.14051), Mengzhang Cai, Xin Gao, Yu Li, Honglin Lin, Zheng Liu, Zhuoshi Pan, Qizhi Pei, Xiaoran Shang, Mengyuan Sun, Zinan Tang, Xiaoyang Wang, Zhanping Zhong, Yun Zhu, Dahua Lin, Conghui He, **Lijun Wu** \| [Project Page](https://opendataarena.github.io) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenDataArena) (**The first pos-training data value benchmarking platform in the world**) 
 
 * `NeurIPS 2025`: [Scaling Code-Assisted Chain-of-Thoughts and Instructions for Model Reasoning](https://arxiv.org/pdf/2510.04081), Honglin Lin, Qizhi Pei, Xin Gao, Zhuoshi Pan, Yu Li, Juntao Li, Conghui He, **Lijun Wu** -->
 
-
-<!-- ## 🔬 AI4Science
+<!-- 
+## 🔬 AI4Science
 * `Arxiv 2026`: [BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language](https://huggingface.co/papers/2606.22138), Qizhi Pei, Zhimeng Zhou, Yi Duan, Yiyang Zhao, Wei Li, Han Guo, Liang He, Chengping Li, Chang-Yu Hsieh, Conghui He, Rui Yan, **Lijun Wu** \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biomatrix) (**Next-generation upgrade of the BioT5 series**)
 
 * `ACL 2024`: [BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning](https://arxiv.org/abs/2402.17810), Qizhi Pei, **Lijun Wu**, Kaiyuan Gao, Xiaozhuan Liang, Yin Fang, Jinhua Zhu, Shufang Xie, Tao Qin, Rui Yan \| [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biot5-67582fe5a72313e29a0dd779) (**Win 1st/2nd for ACL24 workshop share tasks**)
