@@ -36,10 +36,10 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 - <code>2026.2</code> 🎉 Invited to serve as Evaluations and Datasets Track Chair for NeurIPS-2026!
 - <code>2026.2</code>  We release [MMFineReason](https://huggingface.co/collections/OpenDataArena/mmfinereason)! Our 4B VLM model achieves 30B model performance! The superior reasoning dataset [MMFineReason-1.8M](https://huggingface.co/datasets/OpenDataArena/MMFineReason-1.8M) is also released, which has been on the HuggingFace Datasets Trending Top 2! See the [tech report](https://arxiv.org/pdf/2601.21821).
 - <code>2026.2</code> Invited to serve as Area Chair for KDD-2026.
+{% comment %}
 - <code>2026.1</code>  We introduce [SciGenBench and ImgCoder](https://huggingface.co/papers/2601.17027) for scientific image synthesis aim to accelerating the understanding and reasoning of VLMs for scientific visual tasks.
 - <code>2026.1</code> 3 papers are accepted by ICLR-2026, including [long context modeling](https://arxiv.org/pdf/2510.05862), mixture of [SFT data composition](https://arxiv.org/pdf/2505.12762), and LLM for [scientific reasoning](https://arxiv.org/pdf/2510.23127). 
 - <code>2026.1</code>  We release [ChartVerse-1.8M](https://huggingface.co/collections/opendatalab/chartverse) dataset for strong Chart reasoning, which has been on the HuggingFace Datasets Trending Top 1! Also see the [tech report](https://arxiv.org/pdf/2601.13606). 
-{% comment %}
 - <code>2026.1</code>  The datasets [ODA-Math-460k](https://huggingface.co/collections/OpenDataArena/oda-math) and [ODA-Mixture-100k/500k](https://huggingface.co/collections/OpenDataArena/oda-mixture) have been on the HuggingFace Datasets Trending Top 2!
 - <code>2026.1</code>  We release the superior datasets [ODA-Math-460k](https://huggingface.co/collections/OpenDataArena/oda-math) and [ODA-Mixture-100k/500k](https://huggingface.co/collections/OpenDataArena/oda-mixture), created by the guidence from [OpenDataArena](https://opendataarena.github.io). See the [report](https://arxiv.org/abs/2601.09733) for details. 
 - <code>2026.1</code>  We have updated [OpenDataArena-Tool](https://github.com/OpenDataArena/OpenDataArena-Tool) with multimodal data training and evaluation support. 
