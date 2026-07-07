@@ -24,12 +24,12 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 
 [📄 Download CV (PDF)](/files/CV.pdf)
 
-**We are hiring AI researchers working on LLM/MLLM and AI4Science, contact me if you are interested!**
+**We are hiring researchers working on LLM/MLLM, contact me if you are interested!**
 
 # 🔥 News
 - <code>2026.7</code> 🔥 Our ACL-2026 tutorial [The Data Frontier for Large Language Models](https://acl26datatutorial.github.io/acl-data-frontier-tutorial/) is online, with slides and recordings available!
 - <code>2026.6</code> We release [BioMatrix](https://huggingface.co/papers/2606.22138), the first comprehensive biological foundation model spanning molecular/protein sequences, structures, and language. Models and data are available on [Hugging Face](https://huggingface.co/collections/QizhiPei/biomatrix).
-- <code>2026.6</code> Invited to serve as Area Chair for the EMNLP-2026 Industry Track!
+- <code>2026.6</code> Invited to serve as Area Chair for the EMNLP-2026 Industry Track.
 - <code>2026.5</code> 🔥 [Data Linerage](https://aclanthology.org/2026.acl-long.435.pdf) and [MinerU 2.5](https://aclanthology.org/2026.acl-industry.3.pdf) are selected as Oral presentation for ACL-2026!
 - <code>2026.4</code> 7 papers are accepted by ACL-2026, topics cover multimodal VLM, LLM data, AI4S. 
 - <code>2026.3</code> We release the second version of [OpenDataArena-Scored-Data](https://huggingface.co/collections/OpenDataArena/oda-scored), for researchers to work on data-centric research.
@@ -61,13 +61,10 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 
 
 # 💻 Selected Projects
-## AI
 * [InternVL](https://huggingface.co/OpenGVLab), [![](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Code+Stars)](https://github.com/OpenGVLab/InternVL), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenGVLab), a series of leading foundation VLMs.
 * [MinerU](https://huggingface.co/opendatalab), [![](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&label=Code+Stars)](https://github.com/opendatalab/MinerU), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/opendatalab), open-source toolkit that converts complex PDFs into LLM-ready Markdown/JSON.
-* [OpenDataArena](https://opendataarena.github.io), [![](https://img.shields.io/github/stars/OpenDataArena/OpenDataArena-Tool?style=social&label=Code+Stars)](https://github.com/OpenDataArena/OpenDataArena-Tool), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenDataArena/datasets)， the first Arena for post-training data value benchmarking in the world. The [OpenDataArena-Scored-Data](https://huggingface.co/collections/OpenDataArena/oda-scored) have **>120k downloads**!
+* [OpenDataArena](https://opendataarena.github.io), [![](https://img.shields.io/github/stars/OpenDataArena/OpenDataArena-Tool?style=social&label=Code+Stars)](https://github.com/OpenDataArena/OpenDataArena-Tool), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/OpenDataArena/datasets)， the first Arena for benchmarking the value of post-training LLM/VLLM data in the world. The [Scored-Data](https://huggingface.co/collections/OpenDataArena/oda-scored) have **>120k downloads**!
 * [MMFineReason](https://mmfinereason.github.io/), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/OpenDataArena/mmfinereason), high-quality reasoning dataset and strong small-scale VLM, **HF datasets Trending Top 2, >50k downloads**!
-
-## AI4S
 * [Intern-S1-Pro](https://huggingface.co/internlm/Intern-S1-Pro), [![](https://img.shields.io/github/stars/InternLM/Intern-S1?style=social&label=Code+Stars)](https://github.com/InternLM/Intern-S1), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/internlm/Intern-S1-Pro), trillion-scale MoE multimodal model for scientific reasoning.
 * [BioMatrix](https://huggingface.co/collections/QizhiPei/biomatrix), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biomatrix), a comprehensive biological foundation model and the next-generation upgrade of the BioT5 series.
 * [BioT5/BioT5+](https://huggingface.co/collections/QizhiPei/biot5), [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/QizhiPei/BioT5), [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biot5), multimodal biomolecular foundation models, **HF models > 300k downloads**!
@@ -90,7 +87,7 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 
 * `ACL 2026`: [MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing](https://aclanthology.org/2026.acl-industry.3.pdf), Junbo Niu, Zheng Liu, Zhuangcheng Gu, Bin Wang, ..., **Lijun Wu**, ..., Wentao Zhang, Conghui He \| [![](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&label=Code+Stars)](https://github.com/opendatalab/MinerU) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/opendatalab) <span class="pub-highlight">(Oral; popular document parsing toolkit)</span>
 
-* `Arxiv 2026`: [MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods](https://arxiv.org/pdf/2601.21821), Honglin Lin, Zheng Liu, Yun Zhu, Chonghan Qin, Juekai Lin, Xiaoran Shang, Conghui He, Wentao Zhang, **Lijun Wu**\| [Project Page](https://mmfinereason.github.io/) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/OpenDataArena/mmfinereason) <span class="pub-highlight">(MMFineReason datasets on HF Trending Top 2, >50k downloads)</span>
+* `Arxiv 2026`: [MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods](https://arxiv.org/pdf/2601.21821), Honglin Lin, Zheng Liu, Yun Zhu, Chonghan Qin, Juekai Lin, Xiaoran Shang, Conghui He, Wentao Zhang, **Lijun Wu**\| [Project Page](https://mmfinereason.github.io/) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/OpenDataArena/mmfinereason) <span class="pub-highlight">(datasets on HF Trending Top 2, >50k downloads)</span>
 
 * `Arxiv 2026`: [BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language](https://huggingface.co/papers/2606.22138), Qizhi Pei, Zhimeng Zhou, Yi Duan, Yiyang Zhao, Wei Li, Han Guo, Liang He, Chengping Li, Chang-Yu Hsieh, Conghui He, Rui Yan, **Lijun Wu** \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white)](https://huggingface.co/collections/QizhiPei/biomatrix) <span class="pub-highlight">(Next-generation upgrade of the BioT5 series)</span>
 
@@ -132,8 +129,8 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 
 # 🎖 Selected Honors and Awards
 - 2nd place in Internal Reasoning Track of [CURE-Bench@NeurIPS2025](https://curebench.ai/), 2025
-- [Top Area Chairs](https://neurips.cc/Conferences/2025/ProgramCommittee#top-ac) for NeurIPS-2025, 2025. 
-- 1st place in Text2Molecule and 2nd place in Molecue2Tedt on [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared task, 2024
+- [Top Area Chairs](https://neurips.cc/Conferences/2025/ProgramCommittee#top-ac) for NeurIPS-25, 2025
+- 1st place in Text2Molecule and 2nd place in Molecue2Text on [Language+Molecule@ACL2024](https://language-plus-molecules.github.io/#leaderboard) shared task, 2024
 - [Runner up](https://ogb.stanford.edu/kddcup2021/results/#final_pcqm4m) of OGB-LSC @ KDD cup, [Solution](https://github.com/TransfromerMeetsGraph/GNNLearner), 2021
 <!-- - Outstanding Graduate Awards of SYSU, 2020 -->
 <!-- - Outstanding Reviewer of EMNLP, 2019 -->
@@ -161,7 +158,7 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 - PC: Evaluations and Datasets Track Chair for NeurIPS-26
 - Tutorial: [The Data Frontier for Large Language Models: Selection, Synthesis, and Tools](https://acl26datatutorial.github.io/acl-data-frontier-tutorial/), ACL-2026
 - AC: KDD-26, ICML-26, ICLR-26, NeurIPS-25, ACL-21/22/23/24/25/26, EMNLP-23/24/25/26, NNACL-22/23/24/25, EACL-24, COLING-23, ARR-21/22/23/24/25
-- SPC: AAAI-22/23/24/25/26, IJCAI-21
+- SPC: AAAI-22/23/24/25/26/27, IJCAI-21
 - Reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, KDD, NAACL, COLING, EACL, AACL, TPAMI, TASLP, KBS, Neurocomputing, CSL
 
 
