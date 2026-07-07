@@ -29,6 +29,7 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 # 🔥 News
 - <code>2026.7</code> 🔥 Our ACL-2026 tutorial [The Data Frontier for Large Language Models](https://acl26datatutorial.github.io/acl-data-frontier-tutorial/) is online, with slides and recordings available!
 - <code>2026.6</code> We release [BioMatrix](https://huggingface.co/papers/2606.22138), the first comprehensive biological foundation model spanning molecular/protein sequences, structures, and language. Models and data are available on [Hugging Face](https://huggingface.co/collections/QizhiPei/biomatrix).
+- <code>2026.6</code> 2 papers are accepted by ECCV-2026, topics are on scientific image understanding.
 - <code>2026.6</code> Invited to serve as Area Chair for the EMNLP-2026 Industry Track.
 - <code>2026.5</code> 🔥 [Data Linerage](https://aclanthology.org/2026.acl-long.435.pdf) and [MinerU 2.5](https://aclanthology.org/2026.acl-industry.3.pdf) are selected as Oral presentation for ACL-2026!
 - <code>2026.4</code> 7 papers are accepted by ACL-2026, topics cover multimodal VLM, LLM data, AI4S. 
