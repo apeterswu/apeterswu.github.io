@@ -156,8 +156,8 @@ He has received numerous prestigious awards, including the 2018 [MSRA Ph.D. Fell
 
 
 # 💬 Academic Services
-- PC: Evaluations and Datasets Track Chair for NeurIPS-26
 - Tutorial: [The Data Frontier for Large Language Models: Selection, Synthesis, and Tools](https://acl26datatutorial.github.io/acl-data-frontier-tutorial/), ACL-2026
+- PC: Evaluations and Datasets Track Chair for NeurIPS-26
 - AC: KDD-26, ICML-26, ICLR-26, NeurIPS-25, ACL-21/22/23/24/25/26, EMNLP-23/24/25/26, NNACL-22/23/24/25, EACL-24, COLING-23, ARR-21/22/23/24/25
 - SPC: AAAI-22/23/24/25/26/27, IJCAI-21
 - Reviewers: ICLR, ICML, NeurIPS, AAAI, IJCAI, ACL, CVPR, EMNLP, KDD, NAACL, COLING, EACL, AACL, TPAMI, TASLP, KBS, Neurocomputing, CSL
